@@ -1,0 +1,10 @@
+`class {atmo} {OPEN}
+`macro {1} {1}
+`macro {2} {2}
+`macro {3} {3}
+`macro {4} {4}
+`macro {6} {6}
+`macro {7} {7}
+`macro {8} {8}
+`macro {9} {9}
+`class {atmo} {CLOSE}

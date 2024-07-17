@@ -1,0 +1,1101 @@
+ *** Connected ***
+ #$#mcp version: 2.1 to: 2.1
+ ["Golactic Speedy" Control Room] (lying on the floor)
+ You can go south and out.
+ there are new messages in OOC / Suggestions/Ideas, OOC / Quoted Out of Context, General / General, General / Name Changes, OOC / Donations/Tradespeop
+le, OOC / Gameplay Concerns, OOC / Announcements, and OOC / General.
+ Your soundpack appears to be out of date! You're using version '1.1', but the most recent version is '1.5'. You can download the most recent version
+from: https://github.com/techman246/tmir
+
+ There are four new entries in the changelog. To view them, type: @changes
+@changes
+ [1] 10-03-14
+ [2] 10-02-14
+ [3] 10-01-14
+ [4] 09-30-14
+ [5] 09-29-14
+ [6] 09-28-14
+
+ [7] Next Page
+
+ Enter your selection:
+ [Type a line of input or `@abort' to abort the command.]
+1
+ ---
+ * Destroyed starship pulses should no longer show up as being 'available' under the WEAPONS-command.
+ * Planets, stations and moons located in uncharted space will no longer give you a payout for 'defense of known space' if they get invaded. Ahem.
+ ---
+@changes
+ [1] 10-03-14
+ [2] 10-02-14
+ [3] 10-01-14
+ [4] 09-30-14
+ [5] 09-29-14
+ [6] 09-28-14
+
+ [7] Next Page
+
+ Enter your selection:
+ [Type a line of input or `@abort' to abort the command.]
+2
+ ---
+ * Starships should no longer indicate that they have a paint job upon landing if their hull is damaged.
+ * To alleviate confusion, hostile Praelor now show up as Ontanka on both flight control and sector scans.
+ ---
+@changes
+ [1] 10-03-14
+ [2] 10-02-14
+ [3] 10-01-14
+ [4] 09-30-14
+ [5] 09-29-14
+ [6] 09-28-14
+
+ [7] Next Page
+
+ Enter your selection:
+ [Type a line of input or `@abort' to abort the command.]
+2
+ ---
+ * Starships should no longer indicate that they have a paint job upon landing if their hull is damaged.
+ * To alleviate confusion, hostile Praelor now show up as Ontanka on both flight control and sector scans.
+ ---
+@changes
+ [1] 10-03-14
+ [2] 10-02-14
+ [3] 10-01-14
+ [4] 09-30-14
+ [5] 09-29-14
+ [6] 09-28-14
+
+ [7] Next Page
+
+ Enter your selection:
+ [Type a line of input or `@abort' to abort the command.]
+3
+ ---
+ * Similarly to most if not all other Praelor, out of comms Praelor now utilize much shorter names.
+ ---
+who evanna
+ Evanna Fairchild (A) (Female) is awake!
+tr evanna look who's up early
+ [Private | Evanna Fairchild] You transmit, "look who's up early"
+a
+ What do you wish to emote?
+a
+ What do you wish to emote?
+ [General Communication] Damon Harper transmits, "How's everyone doing?"
+ [General Communication] Dorion Hunter transmits, "Good."
+a
+ What do you wish to emote?
+a
+ What do you wish to emote?
+ there is a new message in OOC / Gameplay Concerns. It was posted by Kira Hadley with the subject "Re: character immersion".
+a
+ What do you wish to emote?
+ [Private | Leon Westen] Leon Westen transmits, "vg's?"
+tr leon lemme think bout it for a sec
+ [Private | Leon Westen] You transmit, "lemme think bout it for a sec"
+ [Short-range Communication] Leon Westen laughs.
+ [Short-range Communication] Leon Westen transmits, "Fair enough."
+ [Short-range Communication] Alec Bane transmits, "Lec!"
+ [Private | Leon Westen] Leon Westen transmits, "vg vg vg vg vg g"
+a
+ What do you wish to emote?
+a
+ What do you wish to emote?
+tr leon okay meet me on hg
+ [Private | Leon Westen] You transmit, "okay meet me on hg"
+stand
+ You stand up.
+slocate
+ Which ship would you like to attempt to locate?
+ [1] the one-person fighter "Golactic Defender"
+ [2] the two-person vanguard "Galactic Exterminator"
+ [3] the two-person asteroid hauler "Rocky Treasures"
+ [4] the four-person carrier "Explorer"
+ [5] the eight-person gunship "Golactic Invader"
+ [6] the six-person destroyer "Golactic Guardian"
+ [7] the three-person cruiser "Golactic Incinerator"
+ [8] the five-person frigate "Golactic Retribution"
+ [9] the one-person cargo hauler "Rescuer"
+ [10] the one-person expediter "Golactic Speedy"
+
+ [0] Abort
+ [Type a line of input or `@abort' to abort the command.]
+2
+ The two-person vanguard "Galactic Exterminator" is located at Alliance High Guard Command; Garage.
+l
+ ["Golactic Speedy" Control Room]
+ The control room of a starship is much more spacious than one might previously have supposed, though it is not massive by any means. The wall at the
+front of the room is dominated by the starmap viewer. Rows of consoles line the rest of the walls, each containing an array of touchscreens, switches,
+and buttons that are used to control the starship's various systems with some degree of redundancy. The usual humming of the ship's components has
+been silenced by the lack of power, creating an eerie silence. There appears to be no power in this room. The overhead lights glow faintly, hardly
+enough to do anything but avoid large obstacles. Looking through the window, you see the ship is at Alliance High Guard Command; Garage.
+ You can go south and out.
+peer out
+ You peer out and see...
+ [Alliance High Guard Command; Garage]
+ This cavernous starship garage echoes with the sound of metal upon metal as starships are constantly transported to and from one of the four docking
+bays. Narrow metal staircases wend their way up the sides of the dome to catwalks which provide access to those starships kept in long-term storage
+near the ceiling. Recharging platforms create a maze of twisting pathways and dead end corridors throughout the garage, and silvery drones rush around
+tending to the various spacecraft. Four wide archways provide access to the promenades on this level, and at the center of the room, a small carpeted
+platform leads down to the main level of the spaceport.
+ You see a group of unpowered ships here.
+ You see a group of miscellaneous objects here.
+ You can go northwest, northeast, southeast, southwest, and down.
+amboff
+out
+ You walk into the airlock.
+ ["Golactic Speedy" Airlock]
+ You can go enter and out.
+out
+ [Alliance High Guard Command; Garage]
+ You see a group of unpowered ships here.
+ You see a group of miscellaneous objects here.
+ You can go northwest, northeast, southeast, southwest, and down.
+ [Private | Leon Westen] Leon Westen transmits, "heading to garage"
+people
+ You're the only person awake here.
+ The eight-person gunship "Galactic Ghost" is suddenly hauled into the room by several robotic arms.
+ A security drone drags Leon Westen off of the eight-person gunship "Galactic Ghost".
+hold leon
+ You gesture towards Leon Westen, who promptly joins your group.
+ent galactic exter
+ ["Galactic Exterminator" Airlock]
+ You can go enter and out.
+ Leon Westen follows you into the area.
+ent
+ You walk into the ship.
+ ["Galactic Exterminator" Control Room]
+ You see a comfortable electric blue captain's chair here.
+ You can go south, down, and out.
+ Leon Westen follows you into the area.
+power
+ A gentle computerized voice announces, "The two-person vanguard "Galactic Exterminator" has been cleared for relocation to Docking Bay Beta."
+ Leon Westen leaves your group.
+`echo $vol
+0.3
+`echo $vol
+0.3
+`echo $vol
+0.3
+`echo $vol
+0.3
+`echo $ambvol
+-2.5
+`echo $ambvol
+10.0
+`echo $ambvol
+5.0
+`echo $ambvol
+2.5
+`echo $ambvol
+0.0
+
+peer out
+ You peer out and see...
+ [Alliance High Guard Command; Docking Bay Beta]
+ Situated on the uppermost level of the spaceport, this enormous docking bay is open to the sky above. A thick shimmering forcefield encloses the
+entire area including the tall metal gate which separates the bay from a sixty foot drop to the ground below. A troop of uniformed guards patrols
+between the hulking starships, directing both space and pedestrian traffic with military efficiency. To the west looms the enormous gleaming steel
+dome of the starship garage. An enormous letter B has been painted on its eastern face. Wide walkways slant off to the northwest and southwest. An
+open doorway leads into an enormous steel building to the east.
+ You see the four-person roborant "Hokus Pokus", the eight-person gunship "Blitzkrieg", and the one-person fighter "Soaring Eagle" landed here.
+ You see Jeffery the droid, Bee the droid, Brita the droid, Bodil the droid, Baba the droid, and Cassy the droid here.
+ You can go northwest, east, and southwest.
+ Leon Westen [to you]: u getting the mission?
+people
+ You see Leon Westen here.
+dam
+ Starship Damage:
+
+ HULL: 2%
+ Sensors: 4%
+ Wormhole Drive: 10%
+ Turret 1: 10%
+ Turret 3: 5%
+ Turret 4: 20%
+ Leon Westen presses a button, calling up the damage report.
+d
+ You walk down.
+ ["Galactic Exterminator" Weapons Room]
+ You see a comfortable electric blue combat chair here.
+ You can go up.
+rep 4.tur
+ "I am beginning the repair of turret 4. Estimated time to completion: 53 seconds."
+u
+ You walk up.
+ ["Galactic Exterminator" Control Room]
+ You see a comfortable electric blue captain's chair here.
+ You see Leon Westen here.
+ You can go south, down, and out.
+out
+ You walk into the airlock.
+ ["Galactic Exterminator" Airlock]
+ You can go enter and out.
+out
+ [Alliance High Guard Command; Docking Bay Beta]
+ You see the four-person roborant "Hokus Pokus", the eight-person gunship "Blitzkrieg", the one-person fighter "Soaring Eagle", and the two-person
+vanguard "Galactic Exterminator" landed here.
+ You see Jeffery the droid, Bee the droid, Brita the droid, Bodil the droid, Baba the droid, and Cassy the droid here.
+ You can go northwest, east, and southwest.
+se
+sw
+ You walk southwest.
+ [Alliance High Guard Command; Upper Level Promenade]
+ You can go northwest, northeast, and southwest.
+nw
+ You walk northwest.
+ [Alliance High Guard Command; Garage]
+ You see a group of unpowered ships here.
+ You see a group of miscellaneous objects here.
+ You can go northwest, northeast, southeast, southwest, and down.
+d
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+drops downward rapidly, holding your feet firmly in place.
+ [Alliance High Guard Command; Antechamber]
+ You see an immaculate replica of Praelor Onno 147 and Mi the droid here.
+ You can go north, east, south, west, up, down, and out.
+ As the lift comes to a halt, the lights vanish and you step off.
+d
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+drops downward rapidly, holding your feet firmly in place.
+ [Alliance High Guard Command; Atrium]
+ You see a maroon security drone and a maroon medical drone here.
+ You can go northwest, northeast, south, up, and down.
+ As the lift comes to a halt, the lights vanish and you step off.
+d
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+drops downward rapidly, holding your feet firmly in place.
+ [Alliance High Guard Command; Mission Assignment Nexus]
+ You see a sign, Mo the droid, Zozo the droid, and Lee the droid here.
+ You can go northwest, north, northeast, southeast, south, southwest, up, and down.
+ As the lift comes to a halt, the lights vanish and you step off.
+d
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+drops downward rapidly, holding your feet firmly in place.
+ [Alliance High Guard Command; Equipment Hub]
+ You can go north, east, south, west, up, and down.
+ As the lift comes to a halt, the lights vanish and you step off.
+n
+ You walk north.
+ [Alliance High Guard Command; Corridor]
+ You can go north and south.
+n
+ You walk north.
+ [Alliance High Guard Command; Rearm Center]
+ You can go south.
+buy 2
+ Select your ship:
+ [1] Galactic Exterminator
+
+ [0] Abort
+ [Type a line of input or `@abort' to abort the command.]
+1
+ How many units of Standard Bardenium do you want to buy? Your ship can hold 20 units.
+ [Type a line of input or `@abort' to abort the command.]
+
+ 20 units of Standard Bardenium will cost 20,000.00 credits. Do you wish to proceed?
+ [Enter "yes" or "no"]
+yes
+ You are informed that 20 units of bardenium have been loaded into your ship.
+s
+ You walk south.
+ [Alliance High Guard Command; Corridor]
+ You can go north and south.
+s
+ You walk south.
+ [Alliance High Guard Command; Equipment Hub]
+ You can go north, east, south, west, up, and down.
+s
+ You walk south.
+ [Alliance High Guard Command; Corridor]
+ You can go north and south.
+s
+ You walk south.
+ [Alliance High Guard Command; Corridor]
+ You can go north and south.
+s
+ You walk south.
+ [Alliance High Guard Command; Repair Facility]
+ You can go north.
+s
+buy 8
+ Select your ship:
+ [1] Galactic Exterminator
+
+ [0] Abort
+ [Type a line of input or `@abort' to abort the command.]
+1
+ A complete repair of all damage will cost 82,612.19 credits. Continue?
+ [Enter "yes" or "no"]
+yes
+ Repair complete.
+n
+ You walk north.
+ [Alliance High Guard Command; Corridor]
+ You can go north and south.
+n
+ You walk north.
+ [Alliance High Guard Command; Corridor]
+ You can go north and south.
+n
+ You walk north.
+ [Alliance High Guard Command; Equipment Hub]
+ You can go north, east, south, west, up, and down.
+u
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+shoots upward.
+ [Alliance High Guard Command; Mission Assignment Nexus]
+ You see a sign, Mo the droid, Zozo the droid, and Lee the droid here.
+ You can go northwest, north, northeast, southeast, south, southwest, up, and down.
+ As the lift comes to a halt, the lights vanish and you step off.
+u
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+shoots upward.
+ [Alliance High Guard Command; Atrium]
+ You see a maroon security drone and a maroon medical drone here.
+ You can go northwest, northeast, south, up, and down.
+ As the lift comes to a halt, the lights vanish and you step off.
+u
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+shoots upward.
+ [Alliance High Guard Command; Antechamber]
+ You see an immaculate replica of Praelor Onno 147 and Mi the droid here.
+ You can go north, east, south, west, up, down, and out.
+ As the lift comes to a halt, the lights vanish and you step off.
+u
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+shoots upward.
+ [Alliance High Guard Command; Garage]
+ You see a group of unpowered ships here.
+ You see a group of miscellaneous objects here.
+ You can go northwest, northeast, southeast, southwest, and down.
+ As the lift comes to a halt, the lights vanish and you step off.
+u
+se
+ You walk southeast.
+ [Alliance High Guard Command; Upper Level Promenade]
+ You can go northwest, northeast, and southwest.
+ne
+ You walk northeast.
+ [Alliance High Guard Command; Docking Bay Beta]
+ You see the four-person roborant "Hokus Pokus", the eight-person gunship "Blitzkrieg", the one-person fighter "Soaring Eagle", and the two-person
+vanguard "Galactic Exterminator" landed here.
+ You see Jeffery the droid, Bee the droid, Brita the droid, Bodil the droid, Baba the droid, and Cassy the droid here.
+ You can go northwest, east, and southwest.
+ent
+ ["Galactic Exterminator" Airlock]
+ You can go enter and out.
+ent
+ You walk into the ship.
+ ["Galactic Exterminator" Control Room]
+ You see a comfortable electric blue captain's chair here.
+ You see Leon Westen here.
+ You can go south, down, and out.
+launch
+  "Galactic Exterminator, you have clearance to launch. Good luck and come back to us safe."
+people
+ You see Leon Westen here.
+ Leon Westen inputs some coordinates into a navigational control console.
+ A destination appears on the ship's navigation controls: 6, 12, 2.
+status
+ Starship Status:
+
+ Hull..............................................Reinforced
+ Docking Bay Mass Unit.............................2.0
+ Storage Upgrades..................................Level One, Level Two
+ Improved Repair Drones............................Operational
+ Repair Rate.......................................Upgraded
+ Salvage Lines.....................................1
+ Salvage Sensor Bandwidth..........................2 scans
+ Salvage Range.....................................1 unit
+ Relativity Drive..................................Upgraded
+ Wormhole Drive Range..............................75 lightyears
+ Wormhole Power Requirement........................10 minutes of charge
+ Slip Drive........................................Operational
+ Slip Recharge Time................................3 minutes
+ Bardenium Cannons.................................Velocity Increase, Improved Reload Time
+ Lasers............................................Upgraded
+ Laser Reflectors..................................Functional
+ Target Acquisition Accuracy.......................50%
+ Landing Capabilities..............................Terrestrial
+ The three-person antagonizer "Chrome Dredd" has jumped into the sector.
+ The three-person antagonizer "Chrome Dredd" has initiated an intrasector subwarp.
+ Leon Westen inputs some coordinates into a navigational control console.
+ "Jumpgate access has been denied owing to the fact that we do not possess a mission security clearance code."
+a
+ What do you wish to emote?
+d
+ You walk down.
+ ["Galactic Exterminator" Weapons Room]
+ You see a comfortable electric blue combat chair here.
+ You can go up.
+a
+ What do you wish to emote?
+ Leon Westen, "ahahahahahahahaha"
+ Leon Westen, "no ission"
+pa wow
+ You, "wow"
+pa fucken wow
+ You, "fucken wow"
+pa and thats the sign of a true dumbass
+ You, "and thats the sign of a true dumbass"
+ Leon Westen, "hahahahaahahaha"
+ The mild vibration of acceleration eases off and is replaced by the firm pull of gravity as the ship touches down smoothly on the moon's surface.
+stand
+ You're already standing. But you lazily stretch, to make your foolish mistake less obvious.
+u
+ You walk up.
+ ["Galactic Exterminator" Control Room]
+ You see a comfortable electric blue captain's chair here.
+ You see Leon Westen here.
+ You can go south, down, and out.
+ Leon Westen says something into a black metafrequency communication pin.
+a
+ What do you wish to emote?
+ You notice Leon Westen using the radio to request launch clearance.
+out
+ You walk into the airlock.
+ ["Galactic Exterminator" Airlock]
+ You can go enter and out.
+pa fail sir
+ You, "fail sir"
+ Leon Westen, "*laughs*"
+ The mild vibration of acceleration eases off and is replaced by the firm pull of gravity as the ship touches down smoothly on the moon's surface.
+out
+ [Alliance High Guard Command; Docking Bay Delta]
+ You see the one-person expediter "Quick Travel" powered down here.
+ You see the ten-person battlecruiser "Darkness Rising", the three-person heliogaster "Keops", and the two-person vanguard "Galactic Exterminator"
+landed here.
+ You see Dee the droid, Dagny the droid, Dagmar the droid, Daba the droid, and Tausha the droid here.
+ You can go northeast, southeast, and west.
+ne
+ You walk northeast.
+ [Alliance High Guard Command; Upper Level Promenade]
+ You can go northeast, southeast, and southwest.
+se
+ You walk southeast.
+ [Alliance High Guard Command; Garage]
+ You see a group of unpowered ships here.
+ You see a group of miscellaneous objects here.
+ You can go northwest, northeast, southeast, southwest, and down.
+d
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+drops downward rapidly, holding your feet firmly in place.
+ [Alliance High Guard Command; Antechamber]
+ You see an immaculate replica of Praelor Onno 147 and Mi the droid here.
+ You can go north, east, south, west, up, down, and out.
+ As the lift comes to a halt, the lights vanish and you step off.
+d
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+drops downward rapidly, holding your feet firmly in place.
+ [Alliance High Guard Command; Atrium]
+ You see a maroon security drone and a maroon medical drone here.
+ You can go northwest, northeast, south, up, and down.
+ As the lift comes to a halt, the lights vanish and you step off.
+d
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+drops downward rapidly, holding your feet firmly in place.
+ [Alliance High Guard Command; Mission Assignment Nexus]
+ You see a sign, Mo the droid, Zozo the droid, and Lee the droid here.
+ You can go northwest, north, northeast, southeast, south, southwest, up, and down.
+ As the lift comes to a halt, the lights vanish and you step off.
+n
+ You walk north.
+ [Alliance High Guard Command; Easy Mission Assignment]
+ You see a compact pink medical drone and Jay the droid here.
+ You can go south.
+menu
+ [1] Destroy enemy starships at the edge of Praelor space.
+ [2] Disrupt Praelor salvaging operations.
+
+ Enter your selection:
+ [Type a line of input or `@abort' to abort the command.]
+1
+ Mission: Destroy enemy starships at the edge of Praelor space.
+ [1] Briefing
+ [2] Ship Classes
+ [3] Assign
+ [4] Cancel
+
+ Enter your selection:
+ [Type a line of input or `@abort' to abort the command.]
+3
+ Select your ship:
+ [1] Galactic Exterminator
+
+ [0] Abort
+ [Type a line of input or `@abort' to abort the command.]
+1
+ Mission assignment complete. You may now proceed to the mission jumpgate. Please review the mission briefing before departing.
+s
+ You walk south.
+ [Alliance High Guard Command; Mission Assignment Nexus]
+ You see a sign, Mo the droid, Zozo the droid, and Lee the droid here.
+ You can go northwest, north, northeast, southeast, south, southwest, up, and down.
+u
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+shoots upward.
+ [Alliance High Guard Command; Atrium]
+ You see a maroon security drone and a maroon medical drone here.
+ You can go northwest, northeast, south, up, and down.
+ As the lift comes to a halt, the lights vanish and you step off.
+u
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+shoots upward.
+ [Alliance High Guard Command; Antechamber]
+ You see an immaculate replica of Praelor Onno 147 and Mi the droid here.
+ You can go north, east, south, west, up, down, and out.
+ As the lift comes to a halt, the lights vanish and you step off.
+u
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+shoots upward.
+ [Alliance High Guard Command; Garage]
+ You see a group of unpowered ships here.
+ You see a group of miscellaneous objects here.
+ You can go northwest, northeast, southeast, southwest, and down.
+ As the lift comes to a halt, the lights vanish and you step off.
+u
+nw
+ You walk northwest.
+ [Alliance High Guard Command; Upper Level Promenade]
+ You can go northeast, southeast, and southwest.
+sw
+ You walk southwest.
+ [Alliance High Guard Command; Docking Bay Delta]
+ You see the one-person expediter "Quick Travel" powered down here.
+ You see the ten-person battlecruiser "Darkness Rising", the three-person heliogaster "Keops", and the two-person vanguard "Galactic Exterminator"
+landed here.
+ You see Dee the droid, Dagny the droid, Dagmar the droid, Daba the droid, and Tausha the droid here.
+ You can go northeast, southeast, and west.
+ent
+ ["Galactic Exterminator" Airlock]
+ You can go enter and out.
+ent
+ You walk into the ship.
+ ["Galactic Exterminator" Control Room]
+ You see a comfortable electric blue captain's chair here.
+ You see Leon Westen here.
+ You can go south, down, and out.
+d
+ You walk down.
+ ["Galactic Exterminator" Weapons Room]
+ You see a comfortable electric blue combat chair here.
+ You can go up.
+pa this time we're a go
+ You, "this time we're a go"
+a
+ What do you wish to emote?
+ Leon Westen, "4"
+fo
+ Select a ship:
+ [1] Praelor Ontanka 198
+ [2] Praelor Ontanka 407
+ [3] Praelor Ontanka 351
+ [4] Praelor Ontanka 343
+ [Type a line of input or `@abort' to abort the command.]
+4
+ Praelor Ontanka 343: 12, 9, 2
+c
+ Current coordinates: 3, 3, 3
+fo
+ Praelor Ontanka 343: 13, 10, 2
+fo
+ Praelor Ontanka 343: 17, 14, 2
+ Leon Westen, "one maybe"
+unf
+ The current target is no longer focused.
+fo
+ Select a ship:
+ [1] Praelor Ontanka 198
+ [2] Praelor Ontanka 407
+ [3] Praelor Ontanka 351
+ [4] Praelor Ontanka 343
+ [Type a line of input or `@abort' to abort the command.]
+1
+ Praelor Ontanka 198: 8, 7, 4
+pa maybe
+ You, "maybe"
+a
+ What do you wish to emote?
+a
+ What do you wish to emote?
+fo
+ Praelor Ontanka 198: 6, 5, 3
+a
+ What do you wish to emote?
+fo
+ Praelor Ontanka 198: 5, 4, 4
+ You hear a gentle hum as the weapons power up.
+fo
+ Praelor Ontanka 198: 4, 3, 4
+loc
+ Locked onto coordinates: 4, 3, 4
+ Target: Starship "Praelor Ontanka 198"
+la
+ Praelor Ontanka 198.
+ (3 seconds roundtime.)
+la
+ Praelor Ontanka 198.
+ (3 seconds roundtime.)
+la
+ Wait 3 seconds.
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 198.
+ (3 seconds roundtime.)
+lag
+ You hav 0.05 seconds lag
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 198.
+ (3 seconds roundtime.)
+fo
+ Praelor Ontanka 198: 4, 4, 3
+loc
+ Locked onto coordinates: 4, 4, 3
+ Target: Starship "Praelor Ontanka 198"
+la
+ Praelor Ontanka 198.
+ (3 seconds roundtime.)
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 198.
+ (3 seconds roundtime.)
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 198.
+ (3 seconds roundtime.)
+la
+ Praelor Ontanka 198.
+ (3 seconds roundtime.)
+fo
+ Praelor Ontanka 198: 4, 4, 2
+loc
+ Locked onto coordinates: 4, 4, 2
+ Target: Starship "Praelor Ontanka 198"
+la
+ Praelor Ontanka 198.
+ (3 seconds roundtime.)
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 198.
+ (3 seconds roundtime.)
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 198.
+ (3 seconds roundtime.)
+dam
+ Wait 1 second.
+dam
+ Wait 1 second.
+dam
+ Starship Damage:
+
+ HULL: <1%
+ Bardenium Cannon 1: <1%
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 198.
+ (3 seconds roundtime.)
+rep hull
+ "I am beginning the repair of the hull. Estimated time to completion: 8 seconds."
+la
+ empty space.
+ (3 seconds roundtime.)
+fo
+ Wait 1 second.
+fo
+ Wait 1 second.
+fo
+ Praelor Ontanka 198: 3, 4, 3
+ "Firing on empty space complete."
+ "I have completed the repair of the hull."
+aim 3 4 3
+ Locked onto coordinates: 3, 4, 3
+ Target: Starship "Praelor Ontanka 198"
+la
+ Praelor Ontanka 198.
+ (3 seconds roundtime.)
+ that Praelor Ontanka 198 has been destroyed.
+lag
+ Wait 1 second.
+lag
+ You hav 0.05 seconds lag
+lag
+ You hav 0.05 seconds lag
+ "Missed."
+lag
+ You hav 0.05 seconds lag
+la
+ Debris.
+ (3 seconds roundtime.)
+ Leon Westen, "1"
+fo
+ Select a ship:
+ [1] Praelor Ontanka 407
+ [2] Praelor Ontanka 351
+ [3] Praelor Ontanka 343
+ [Type a line of input or `@abort' to abort the command.]
+1
+ Praelor Ontanka 407: 3, 3, 2
+ "Debris destroyed."
+loc
+ Locked onto coordinates: 3, 3, 2
+ Target: Starship "Praelor Ontanka 407"
+la
+ Praelor Ontanka 407.
+ (3 seconds roundtime.)
+la
+ Praelor Ontanka 407.
+ (3 seconds roundtime.)
+la
+ Wait until the ship stops firing first.
+fo
+ Praelor Ontanka 407: 2, 3, 3
+loc
+ Those coordinates are too far away to establish a lock.
+fo
+ Praelor Ontanka 407: 2, 3, 3
+loc
+ Locked onto coordinates: 2, 3, 3
+ Target: Starship "Praelor Ontanka 407"
+la
+ Praelor Ontanka 407.
+ (3 seconds roundtime.)
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 407.
+ (3 seconds roundtime.)
+la
+ Wait until the ship stops firing first.
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 407.
+ (3 seconds roundtime.)
+dam tur
+ Wait 2 seconds.
+dam tur
+ Wait 1 second.
+dam tur
+ There are no damaged laser turrets.
+la
+ Praelor Ontanka 407.
+ (3 seconds roundtime.)
+dam tur
+ There are no damaged laser turrets.
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 407.
+ (3 seconds roundtime.)
+la
+ Praelor Ontanka 407.
+ (3 seconds roundtime.)
+la
+ Wait 3 seconds.
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 407.
+ (3 seconds roundtime.)
+fo
+ Wait 1 second.
+fo
+ Praelor Ontanka 407: 2, 3, 3
+loc
+ Those coordinates are already locked.
+fo
+ Praelor Ontanka 407: 2, 4, 2
+loc
+ Locked onto coordinates: 2, 4, 2
+ Target: Starship "Praelor Ontanka 407"
+la
+ Praelor Ontanka 407.
+ (3 seconds roundtime.)
+dam tur
+ Wait 1 second.
+dam tur
+ There are no damaged laser turrets.
+la
+ Wait until the ship stops firing first.
+la
+ The locked coordinates are out of range of the available weapons.
+la
+ Praelor Ontanka 407.
+ (3 seconds roundtime.)
+la
+ Wait until the ship stops firing first.
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 407.
+ (3 seconds roundtime.)
+dam tur
+ Wait 1 second.
+dam tur
+ Turret 4: 20%
+dam tur
+ Turret 4: 20%
+rep stop
+ There is no repair task in progress.
+rep 4.tur
+ "I am beginning the repair of turret 4. Estimated time to completion: 53 seconds."
+rep 4.tur
+ The ship is currently repairing: turret 4.
+fo
+ Praelor Ontanka 407: 3, 3, 2
+loc
+ Locked onto coordinates: 3, 3, 2
+ Target: Starship "Praelor Ontanka 407"
+la
+ Praelor Ontanka 407.
+ (3 seconds roundtime.)
+la
+ Praelor Ontanka 407.
+ (3 seconds roundtime.)
+fo
+ Wait 1 second.
+fo
+ Wait 1 second.
+fo
+ Praelor Ontanka 407: 3, 3, 3
+loc
+ Locked onto coordinates: 3, 3, 3
+ Target: Starship "Praelor Ontanka 407"
+la
+ Praelor Ontanka 407.
+ (3 seconds roundtime.)
+la
+ Wait until the ship stops firing first.
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 407.
+ (3 seconds roundtime.)
+fo
+ Wait 1 second.
+fo
+ Select a ship:
+ [1] Praelor Ontanka 351
+ [2] Praelor Ontanka 343
+ [Type a line of input or `@abort' to abort the command.]
+1
+ Praelor Ontanka 351: 3, 4, 3
+ "Debris destroyed."
+loc
+ Locked onto coordinates: 3, 4, 3
+ Target: Starship "Praelor Ontanka 351"
+la
+ Praelor Ontanka 351.
+ (3 seconds roundtime.)
+la
+ Wait until the ship stops firing first.
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 351.
+ (3 seconds roundtime.)
+fo
+ Praelor Ontanka 351: 3, 3, 3
+loc
+ Locked onto coordinates: 3, 3, 3
+ Target: Starship "Praelor Ontanka 351"
+la
+ Praelor Ontanka 351.
+ (3 seconds roundtime.)
+la
+ Wait until the ship stops firing first.
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 351.
+ (3 seconds roundtime.)
+la
+ Praelor Ontanka 351.
+ (3 seconds roundtime.)
+ "I have completed the repair of turret 4."
+lag
+ You hav 0.05 seconds lag
+fo
+ Praelor Ontanka 351: 3, 3, 3
+loc
+ Those coordinates are already locked.
+la
+ Praelor Ontanka 351.
+ (3 seconds roundtime.)
+dam tur
+ Wait 1 second.
+dam tur
+ There are no damaged laser turrets.
+la
+ empty space.
+ (3 seconds roundtime.)
+fo
+ Wait 2 seconds.
+fo
+ Wait 2 seconds.
+fo
+ Wait 1 second.
+fo
+ Praelor Ontanka 351: 3, 2, 2
+ "Firing on empty space complete."
+aim 3 2 2 2
+ Invalid coordinates. Range: (1, 1, 1) to (20, 20, 20).
+aim 3 2 2 
+ Those coordinates are too far away to establish a lock.
+ Leon Westen, "sec"
+aim 3 2 2 
+ Locked onto coordinates: 3, 2, 2
+ Target: Starship "Praelor Ontanka 351"
+la
+ Praelor Ontanka 351.
+ (3 seconds roundtime.)
+ Leon Westen, "go"
+la
+ Wait until the ship stops firing first.
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 351.
+ (3 seconds roundtime.)
+la
+ Wait until the ship stops firing first.
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 351.
+ (3 seconds roundtime.)
+la
+ Praelor Ontanka 351.
+ (3 seconds roundtime.)
+la
+ Wait until the ship stops firing first.
+fo
+ Praelor Ontanka 351: 2, 3, 3
+loc
+ Locked onto coordinates: 2, 3, 3
+ Target: Starship "Praelor Ontanka 351"
+la
+ Praelor Ontanka 351.
+ (3 seconds roundtime.)
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 351.
+ (3 seconds roundtime.)
+la
+ Wait until the ship stops firing first.
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 351.
+ (3 seconds roundtime.)
+dam tur
+ Wait 1 second.
+dam tur
+ There are no damaged laser turrets.
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 351.
+ (3 seconds roundtime.)
+la
+ Praelor Ontanka 351.
+ (3 seconds roundtime.)
+ that Praelor Ontanka 351 has been destroyed.
+fo
+ Select a ship:
+ [1] Praelor Ontanka 343
+ [Type a line of input or `@abort' to abort the command.]
+1
+ Praelor Ontanka 343: 2, 2, 2
+ "Debris destroyed."
+loc
+ Locked onto coordinates: 2, 2, 2
+ Target: Starship "Praelor Ontanka 343"
+la
+ Praelor Ontanka 343.
+ (3 seconds roundtime.)
+la
+ Wait until the ship stops firing first.
+la
+ Wait until the ship stops firing first.
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 343.
+ (3 seconds roundtime.)
+la
+ Wait until the ship stops firing first.
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 343.
+ (3 seconds roundtime.)
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 343.
+ (3 seconds roundtime.)
+la
+ Wait until the ship stops firing first.
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 343.
+ (3 seconds roundtime.)
+la
+ Wait until the ship stops firing first.
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 343.
+ (3 seconds roundtime.)
+la
+ Wait until the ship stops firing first.
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 343.
+ (3 seconds roundtime.)
+la
+ Wait until the ship stops firing first.
+la
+ Wait until the ship stops firing first.
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 343.
+ (3 seconds roundtime.)
+la
+ Wait until the ship stops firing first.
+la
+ Praelor Ontanka 343.
+ (3 seconds roundtime.)
+la
+ Wait until the ship stops firing first.
+la
+ that Praelor Ontanka 343 has been destroyed.
+ "Missed."
+ Debris.
+ (3 seconds roundtime.)
+ The computer announces, Mission has been completed in approximately 7 minutes and 25 seconds.
+ "Debris destroyed."
+ Leon Westen, "ad"
+ During your last combat mission you got 38 total hits, 26 direct hits, 11 partial hits and destroyed 1 targets.
+ Leon Westen, "bad bad bad"
+pa yeah
+ You, "yeah"
+sleep
+ #SESSION 'Miriani' DIED.

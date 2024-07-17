@@ -1,0 +1,700 @@
+ *** Connected ***
+ #$#mcp version: 2.1 to: 2.1
+ ["Golactic Invader" Engineering Room] (lying on the floor)
+ You see a velvet-covered cherrywood crew chair, an internal stun turret, and a gleaming black sanitation drone here.
+ You can go northwest, north, northeast, east, southeast, south, southwest, west, and down.
+ there are new messages in OOC / Suggestions/Ideas, OOC / Quoted Out of Context, General / General, General / Name Changes, OOC / Donations/Tradespeop
+le, OOC / Gameplay Concerns, OOC / Announcements, and OOC / General.
+ Your soundpack appears to be out of date! You're using version '1.1', but the most recent version is '1.5'. You can download the most recent version
+from: https://github.com/techman246/tmir
+amboff
+ A gleaming black sanitation drone goes southeast.
+ A gleaming black sanitation drone arrives.
+a
+ What do you wish to emote?
+ A gleaming black sanitation drone arrives.
+ A bulky stun armor battery pack emits a long,  high-pitched beep before suddenly powering down.
+ The faint glow emanating from a black stun armor top, a black stun armor bottom, a black stun armor helmet, and a pair of black stun armor boots
+slowly fades.
+a
+ What do you wish to emote?
+l
+ ["Golactic Invader" Engineering Room] (lying on the floor)
+ Rather than being filled with large machines and grease covered tools, the engineering room is clean and elegant, containing nothing more than a row
+of consoles. A large diagram of the starship is displayed on a monitor on the wall, though it contains no information of value in its unpowered state.
+The room is eerily silent without any of the ship's systems being powered. Beneath your feet, covering the expanse of the room, is a polished hardwood
+floor. There appears to be no power in this room. The overhead lights glow faintly, hardly enough to do anything but avoid large obstacles. Looking
+through the window, you see the ship is at Outreach; Starship Garage.
+ You see a velvet-covered cherrywood crew chair, an internal stun turret, and two gleaming black sanitation drones here.
+ You can go northwest, north, northeast, east, southeast, south, southwest, west, and down.
+a
+ What do you wish to emote?
+launch
+ I don't understand that.
+power
+ I don't understand that.
+l
+ ["Golactic Invader" Engineering Room] (lying on the floor)
+ Rather than being filled with large machines and grease covered tools, the engineering room is clean and elegant, containing nothing more than a row
+of consoles. A large diagram of the starship is displayed on a monitor on the wall, though it contains no information of value in its unpowered state.
+The room is eerily silent without any of the ship's systems being powered. Beneath your feet, covering the expanse of the room, is a polished hardwood
+floor. There appears to be no power in this room. The overhead lights glow faintly, hardly enough to do anything but avoid large obstacles. Looking
+through the window, you see the ship is at Outreach; Starship Garage.
+ You see a velvet-covered cherrywood crew chair, an internal stun turret, and two gleaming black sanitation drones here.
+ You can go northwest, north, northeast, east, southeast, south, southwest, west, and down.
+stand
+ You stand up.
+n
+ You walk north.
+ ["Golactic Invader" Control Room]
+ You see a group of miscellaneous objects here.
+ You can go south, down, and out.
+launch
+ You can't launch from here.
+power
+launch
+  "Golactic Invader, you have clearance to launch. Good luck and come back to us safe."
+ A massive smiley face flickers into existence and announces, "A star, two planets, and four space stations have been detected in the sector."
+ftl 12
+ftl 15
+ftl 15
+shop recharging station
+ You make a selection on a compact black Lore computer.
+ The Lore shopping network is experiencing heavy load right now. Your search may take a moment longer than usual!
+ Item                   Price         Points   Combat   Location   Store
+ ----                   -----         ------   ------   --------   -----
+ Recharging Stations    30000000.0    3000.0   1500.0   Rolukssica Experimental Armor Sales
+ A massive smiley face flickers into existence and announces, "A star, two planets, and six space stations have been detected in the sector."
+cred
+ You have 626,802.82 credits.
+ftl 30
+ You suddenly lose your footing and fall to the ground.
+ A massive smiley face flickers into existence and announces, "A star, two planets, and four space stations have been detected in the sector."
+m ou
+ A destination appears on the ship's navigation controls: Outreach.
+l bat
+ A bulky stun armor battery pack
+ You see nothing special.
+ It appears to be off.
+ The charge indicator reads 0%.
+ It has a black stun armor top, a black stun armor bottom, a black stun armor helmet, and a pair of black stun armor boots connected to it.
+disconnect bat
+ You begin carefully disconnecting pieces of armor from a bulky stun armor battery pack.
+ (20 seconds roundtime.)
+ You finish disconnecting armor from a bulky stun armor battery pack.
+take bat
+ You already have that!
+remove bat
+ You need a free hand for that.
+h
+ You are carrying a small circular hunk of metal in your left hand and a stun turret in your right hand.
+holster
+remove bat
+ You remove a bulky stun armor battery pack.
+ (Engineering Room) A gleaming black sanitation drone goes west.
+put bat in pants
+ You can't put anything in there.
+drop bat
+ You set a bulky stun armor battery pack down on the ground.
+take bat from back
+ You remove an application for the ten-person battlecruiser "" from a huge sapphire blue mesh backpack with blue comfortable straps and a black
+magnetic front pocket.
+  "Hello, Golactic Invader. We read your Hale transponder. You are cleared to land."
+put application in bac
+ You put an application for the ten-person battlecruiser "" in a huge sapphire blue mesh backpack with blue comfortable straps and a black magnetic
+front pocket.
+ The mild vibration of acceleration eases off and is replaced by the firm pull of gravity as the ship touches down smoothly on the planet's surface.
+l station in back
+ Look at what in a huge sapphire blue mesh backpack with blue comfortable straps and a black magnetic front pocket?
+l station in back
+ Look at what in a huge sapphire blue mesh backpack with blue comfortable straps and a black magnetic front pocket?
+out
+ You must stand up first.
+stand
+ You stand up.
+out
+ You walk into the airlock.
+ ["Golactic Invader" Airlock]
+ You see an internal stun turret, a lighted gold diamond garden fountain with water streaming from the hands of an angel kneeling in its basin, and
+two gleaming black security drones here.
+ You can go enter and out.
+out
+ [Outreach; Landing Bay]
+ You see the one-person expediter "Golactic Speedy" powered down here.
+ You see the Hale evacuation ship "Thoron" and the eight-person gunship "Golactic Invader" landed here.
+ You see a group of miscellaneous objects here.
+ You can go northwest, north, northeast, east, southeast, south, southwest, west, up, and down.
+ne
+ You walk northeast.
+ [Outreach; Northeast Corridor]
+ You can go northeast and southwest.
+ne
+ You walk northeast.
+ [Outreach; Northeast Elevator Station]
+ You see a shiny chrome sanitation drone here.
+ You can go northwest, southeast, southwest, and down.
+d
+ You step into a pod.
+ [A pod]
+ You see nowhere obvious to go.
+ [Outreach; Northeast Elevator Station]
+ You can go north, southwest, and up.
+n
+ You walk north.
+ [Outreach; Opportunity Avenue]
+ You can go northwest, east, southeast, and south.
+se
+ You walk southeast.
+ [Outreach; First Galactic Fund Branch 3816]
+ You see an automatic teller machine here.
+ You can go northwest.
+menu
+ [1] New Fund
+ [2] Private Funds
+ [3] Public Funds
+ [4] Manage Options
+
+ Enter your selection:
+ [Type a line of input or `@abort' to abort the command.]
+2
+ Select a private fund to access:
+ [1] Ray money (Started by Ray Roxxan)
+ [2] Emergency fund (Started by Ray Roxxan)
+
+ Enter your selection:
+ [Type a line of input or `@abort' to abort the command.]
+1
+ Fund: ray money
+ Value: 493,000,000.000
+
+ [1] Deposit Credits
+ [2] Set Auto-Deposit
+ [3] Withdraw Credits
+ [4] View Fund History
+ [5] View Auto-deposit History
+ [6] Set Fund Privacy
+ [7] Manage Acceptable Depositors
+ [8] Manage Acceptable Withdrawers
+ [9] Rename Fund
+ [10] Delete Fund
+
+ Enter your selection:
+ [Type a line of input or `@abort' to abort the command.]
+3
+ The fund currently has 493,000,000.000 credits. How many do you wish to withdraw?
+ [Type a line of input or `@abort' to abort the command.]
+30000000
+ You withdraw 30,000,000.00 credits.
+nw
+ You walk northwest.
+ [Outreach; Opportunity Avenue]
+ You can go northwest, east, southeast, and south.
+s
+ You walk south.
+ [Outreach; Northeast Elevator Station]
+ You can go north, southwest, and up.
+u
+ You step into a pod.
+ [A pod]
+ You see nowhere obvious to go.
+ [Outreach; Northeast Elevator Station]
+ You see a shiny chrome sanitation drone here.
+ You can go northwest, southeast, southwest, and down.
+sw
+ You walk southwest.
+ [Outreach; Northeast Corridor]
+ You can go northeast and southwest.
+sw
+ You walk southwest.
+ [Outreach; Landing Bay]
+ You see the one-person expediter "Golactic Speedy" powered down here.
+ You see the Hale evacuation ship "Thoron" and the eight-person gunship "Golactic Invader" landed here.
+ You see a group of miscellaneous objects here.
+ You can go northwest, north, northeast, east, southeast, south, southwest, west, up, and down.
+ent
+ ["Golactic Speedy" Airlock]
+ You can go enter and out.
+ent
+ You walk into the ship.
+ ["Golactic Speedy" Control Room]
+ You can go south and out.
+power
+charge
+ --------------------------
+ Charge Readout:
+ --------------------------
+ 7 hours of charge remaining.
+ This is sufficient for approximately 42 wormhole jumps, 840 subwarps, and 840 intrasector slips.
+ This ship can fire 1260 shots from all turrets.
+
+ Power Status: Online.
+ Charge Level: 100%
+ --------------------------
+launch
+sit chair
+ You don't see that here.
+  "Golactic Speedy, you have clearance to launch. Good luck and come back to us safe."
+lie
+ You lie down on the floor.
+ftl 12
+ftl 12
+subwarp 17 10 6
+subwarp 4 10 6
+ "Subwarp drive locked on coordinates 4, 10, 6."
+land
+ There are multiple destinations available. Please choose one.
+ [1] Rolukssica
+ [2] Zander
+
+ Enter your selection:
+ [Type a line of input or `@abort' to abort the command.]
+1
+ Multiple landing sites detected. Where do you wish to land?
+ [1] High Guard Command
+ [2] Moon Surface
+ [Type a line of input or `@abort' to abort the command.]
+1
+  "Hello, Golactic Speedy. We read your Hale transponder. You are cleared to land."
+stand
+ You stand up.
+ The mild vibration of acceleration eases off and is replaced by the firm pull of gravity as the ship touches down smoothly on the moon's surface.
+power
+stand
+ You're already standing. But you lazily stretch, to make your foolish mistake less obvious.
+out
+ You walk into the airlock.
+ ["Golactic Speedy" Airlock]
+ You can go enter and out.
+out
+ [Alliance High Guard Command; Garage]
+ You see a group of unpowered ships here.
+ You see a group of miscellaneous objects here.
+ You can go northwest, northeast, southeast, southwest, and down.
+map exp
+ Directions from Alliance High Guard Command; Garage to Alliance High Guard Command; Experimental Armor Sales: down, down, down, down, down,
+southeast, southeast, south, and west.
+d
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+drops downward rapidly, holding your feet firmly in place.
+ [Alliance High Guard Command; Antechamber]
+ You see an immaculate replica of Praelor Onno 147 and Mi the droid here.
+ You can go north, east, south, west, up, down, and out.
+ As the lift comes to a halt, the lights vanish and you step off.
+d
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+drops downward rapidly, holding your feet firmly in place.
+ [Alliance High Guard Command; Atrium]
+ You see a maroon security drone and a maroon medical drone here.
+ You can go northwest, northeast, south, up, and down.
+ As the lift comes to a halt, the lights vanish and you step off.
+d
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+drops downward rapidly, holding your feet firmly in place.
+ [Alliance High Guard Command; Mission Assignment Nexus]
+ You see a sign, Mo the droid, Zozo the droid, and Lee the droid here.
+ You can go northwest, north, northeast, southeast, south, southwest, up, and down.
+ As the lift comes to a halt, the lights vanish and you step off.
+d
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+drops downward rapidly, holding your feet firmly in place.
+ [Alliance High Guard Command; Equipment Hub]
+ You can go north, east, south, west, up, and down.
+ As the lift comes to a halt, the lights vanish and you step off.
+map ext
+ No room with that name could be found.
+map exp
+ Directions from Alliance High Guard Command; Equipment Hub to Alliance High Guard Command; Experimental Armor Sales: down, southeast, southeast,
+south, and west.
+d
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+drops downward rapidly, holding your feet firmly in place.
+ [Alliance High Guard Command; Official Operations Center]
+ You can go north, southeast, southwest, up, and down.
+ As the lift comes to a halt, the lights vanish and you step off.
+se
+ You walk southeast.
+ [Alliance High Guard Command; Research Corridor]
+ You can go northwest and southeast.
+se
+ You walk southeast.
+ [Alliance High Guard Command; Research Corridor]
+ You can go northwest and south.
+w
+map exp
+ Directions from Alliance High Guard Command; Research Corridor to Alliance High Guard Command; Experimental Armor Sales: south and west.
+s
+ You walk south.
+ [Alliance High Guard Command; Research And Development Lab]
+ You see a long aluminum table against the back wall here.
+ You can go north and west.
+w
+ You walk west.
+ [Alliance High Guard Command; Experimental Armor Sales]
+ You can go east.
+menu
+         - Experimental Armor Sales -        
+
+   Stun Armor
+ 1)  Helmets                        20,000,000.00
+ 2)  Tops                           20,000,000.00
+ 3)  Gloves                         20,000,000.00
+ 4)  Bottoms                        20,000,000.00
+ 5)  Boots                          20,000,000.00
+
+   Chargers
+ 6)  Recharging Stations            30,000,000.00
+ 7)  Battery Packs                  10,000,000.00
+
+   Storage
+ 8)  Storage Bags                   10,000,000.00
+buy 6
+ You pay 30,000,000.00 credits for a stun armor power pack recharging station.
+e
+ You walk east.
+ [Alliance High Guard Command; Research And Development Lab]
+ You see a long aluminum table against the back wall here.
+ You can go north and west.
+nw
+nw
+n
+ You walk north.
+ [Alliance High Guard Command; Research Corridor]
+ You can go northwest and south.
+nw
+ You walk northwest.
+ [Alliance High Guard Command; Research Corridor]
+ You can go northwest and southeast.
+nw
+ You walk northwest.
+ [Alliance High Guard Command; Official Operations Center]
+ You can go north, southeast, southwest, up, and down.
+u
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+shoots upward.
+ [Alliance High Guard Command; Equipment Hub]
+ You can go north, east, south, west, up, and down.
+ As the lift comes to a halt, the lights vanish and you step off.
+u
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+shoots upward.
+ [Alliance High Guard Command; Mission Assignment Nexus]
+ You see a sign, Mo the droid, Zozo the droid, and Lee the droid here.
+ You can go northwest, north, northeast, southeast, south, southwest, up, and down.
+ As the lift comes to a halt, the lights vanish and you step off.
+u
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+shoots upward.
+ [Alliance High Guard Command; Atrium]
+ You see a maroon security drone and a maroon medical drone here.
+ You can go northwest, northeast, south, up, and down.
+ As the lift comes to a halt, the lights vanish and you step off.
+u
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+shoots upward.
+ [Alliance High Guard Command; Antechamber]
+ You see an immaculate replica of Praelor Onno 147 and Mi the droid here.
+ You can go north, east, south, west, up, down, and out.
+ As the lift comes to a halt, the lights vanish and you step off.
+u
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+shoots upward.
+ [Alliance High Guard Command; Garage]
+ You see a group of unpowered ships here.
+ You see a group of miscellaneous objects here.
+ You can go northwest, northeast, southeast, southwest, and down.
+ As the lift comes to a halt, the lights vanish and you step off.
+u
+ent golact speed
+ You don't see that here.
+ent golactic speed
+ ["Golactic Speedy" Airlock]
+ You can go enter and out.
+ent
+ You walk into the ship.
+ ["Golactic Speedy" Control Room]
+ You can go south and out.
+a
+ What do you wish to emote?
+a
+ What do you wish to emote?
+h
+ You are carrying a small circular hunk of metal in your left hand and a stun armor power pack recharging station in your right hand.
+peer out
+ You peer out and see...
+ [Alliance High Guard Command; Garage]
+ This cavernous starship garage echoes with the sound of metal upon metal as starships are constantly transported to and from one of the four docking
+bays. Narrow metal staircases wend their way up the sides of the dome to catwalks which provide access to those starships kept in long-term storage
+near the ceiling. Recharging platforms create a maze of twisting pathways and dead end corridors throughout the garage, and silvery drones rush around
+tending to the various spacecraft. Four wide archways provide access to the promenades on this level, and at the center of the room, a small carpeted
+platform leads down to the main level of the spaceport.
+ You see a group of unpowered ships here.
+ You see a group of miscellaneous objects here.
+ You can go northwest, northeast, southeast, southwest, and down.
+powr
+ I don't understand that.
+power
+ A gentle computerized voice announces, "The one-person expediter "Golactic Speedy" has been cleared for relocation to Docking Bay Delta."
+launch
+  "Golactic Speedy, you have clearance to launch. Good luck and come back to us safe."
+ftl 30
+ftl 30
+ You suddenly lose your footing and fall to the ground.
+subwarp 17 10 6
+ "Subwarp drive locked on coordinates 17, 10, 6."
+land
+  "Hello, Golactic Speedy. We read your Hale transponder. You are cleared to land."
+ The mild vibration of acceleration eases off and is replaced by the firm pull of gravity as the ship touches down smoothly on the planet's surface.
+power
+out
+ You must stand up first.
+stand
+ You stand up.
+out
+ You walk into the airlock.
+ ["Golactic Speedy" Airlock]
+ You can go enter and out.
+out
+ [Outreach; Starship Garage]
+ You see a group of unpowered ships here.
+ You see several small terminals here.
+ You can go east and up.
+u
+ You walk up.
+ [Outreach; Landing Bay]
+ You see the Hale evacuation ship "Thoron" and the eight-person gunship "Golactic Invader" landed here.
+ You see a group of miscellaneous objects here.
+ You can go northwest, north, northeast, east, southeast, south, southwest, west, up, and down.
+nw
+ You walk northwest.
+ [Outreach; Northwest Corridor]
+ You can go northwest and southeast.
+nw
+ You walk northwest.
+ [Outreach; Northwest Elevator Station]
+ You can go northeast, southeast, southwest, and down.
+d
+ You step into a pod.
+ [A pod]
+ You see nowhere obvious to go.
+ [Outreach; Northwest Elevator Station]
+ You can go southeast, west, and up.
+w
+ You walk west.
+ [Outreach; Anthony Tapioca Street]
+ You can go north, east, south, and west.
+w
+ You walk west.
+ [Outreach; Anthony Tapioca Street]
+ You can go north, east, south, and west.
+n
+ You walk north.
+ [Outreach; Apartment Block C]
+ You can go south.
+ent
+ You are escorted to apartment 169122 by a small robot.
+ [Apartment 169122; Foyer]
+ You can go north, east, south, west, and out.
+e
+ You walk east.
+ [Apartment 169122; Living Room]
+ You can go west.
+w
+ You walk west.
+ [Apartment 169122; Foyer]
+ You can go north, east, south, west, and out.
+w
+ You walk west.
+ [Apartment 169122; Kitchen]
+ You can go east.
+e
+ You walk east.
+ [Apartment 169122; Foyer]
+ You can go north, east, south, west, and out.
+n
+ You walk north.
+ [Apartment 169122; Bedroom]
+ You can go south.
+bolt charge
+ Bolt what?
+bolt power
+ You can't drop anything here until the design has been finalized.
+menu
+ [ Apartment Menu System - Apartment 169122; Bedroom ]
+ You currently have 5 rooms built. You can build a total of 8 rooms. You have 3 rooms left.
+ Your rent is currently 5,000 credits per month. This is calculated from a base cost of 1,000 credits per room.
+
+ Room Options
+ ------------
+ [1] Set room type
+ [2] Set room details
+
+ Apartment Options
+ -----------------
+ [3] Build new room
+ [4] Delete this room
+ [5] Buy additional rooms
+ [6] Manage keys
+ [7] Manage owners
+
+ [8] Finalize design
+ [9] Destroy apartment
+ [10] Finish
+ [Type a line of input or `@abort' to abort the command.]
+8
+ Are you SURE you want to finalize your apartment design? You will be able to decorate it, but the cost of buying new rooms will be double. [Enter
+"yes" or "no"]
+yes
+ You finalize your apartment design.
+ [ Apartment Menu System - Apartment 169122; Bedroom ]
+ You currently have 5 rooms built. You can build a total of 8 rooms. You have 3 rooms left.
+ Your rent is currently 5,000 credits per month. This is calculated from a base cost of 1,000 credits per room.
+
+ Room Options
+ ------------
+ [1] Set room type
+ [2] Set room details
+
+ Apartment Options
+ -----------------
+ [3] Build new room
+ [4] Delete this room
+ [5] Buy additional rooms
+ [6] Manage keys
+ [7] Manage owners
+
+ [8] Destroy apartment
+ [9] Finish
+ [Type a line of input or `@abort' to abort the command.]
+@abort
+ >> Command Aborted <<
+bolt power
+ You carefully bolt a stun armor power pack recharging station down. It's not going anywhere anytime soon.
+put bat on station
+ I don't see that here.
+h
+ You are carrying a small circular hunk of metal in your left hand.
+s
+ You walk south.
+ [Apartment 169122; Foyer]
+ You can go north, east, south, west, and out.
+out
+ You walk out.
+ [Outreach; Apartment Block C]
+ You can go south.
+s
+ You walk south.
+ [Outreach; Anthony Tapioca Street]
+ You can go north, east, south, and west.
+e
+ You walk east.
+ [Outreach; Anthony Tapioca Street]
+ You can go north, east, south, and west.
+e
+ You walk east.
+ [Outreach; Northwest Elevator Station]
+ You can go southeast, west, and up.
+u
+ You step into a pod.
+ [A pod]
+ You see nowhere obvious to go.
+ [Outreach; Northwest Elevator Station]
+ You can go northeast, southeast, southwest, and down.
+se
+ You walk southeast.
+ [Outreach; Northwest Corridor]
+ You can go northwest and southeast.
+se
+ You walk southeast.
+ [Outreach; Landing Bay]
+ You see the Hale evacuation ship "Thoron" and the eight-person gunship "Golactic Invader" landed here.
+ You see a group of miscellaneous objects here.
+ You can go northwest, north, northeast, east, southeast, south, southwest, west, up, and down.
+d
+ You walk down.
+ [Outreach; Starship Garage]
+ You see a group of unpowered ships here.
+ You see several small terminals here.
+ You can go east and up.
+ent
+ ["Golactic Speedy" Airlock]
+ You can go enter and out.
+out
+ [Outreach; Starship Garage]
+ You see a group of unpowered ships here.
+ You see several small terminals here.
+ You can go east and up.
+ent invader
+ You don't see that here.
+u
+ You walk up.
+ [Outreach; Landing Bay]
+ You see the Hale evacuation ship "Thoron" and the eight-person gunship "Golactic Invader" landed here.
+ You see a group of miscellaneous objects here.
+ You can go northwest, north, northeast, east, southeast, south, southwest, west, up, and down.
+ent invader
+ ["Golactic Invader" Airlock]
+ You see an internal stun turret, a lighted gold diamond garden fountain with water streaming from the hands of an angel kneeling in its basin, and
+two gleaming black security drones here.
+ You can go enter and out.
+ent
+ You walk into the ship.
+ ["Golactic Invader" Control Room]
+ You see a group of miscellaneous objects here.
+ You can go south, down, and out.
+take bat
+ You pick a bulky stun armor battery pack up off of the ground.
+out
+ You walk into the airlock.
+ ["Golactic Invader" Airlock]
+ You see an internal stun turret, a lighted gold diamond garden fountain with water streaming from the hands of an angel kneeling in its basin, and
+two gleaming black security drones here.
+ You can go enter and out.
+out
+ [Outreach; Landing Bay]
+ You see the Hale evacuation ship "Thoron" and the eight-person gunship "Golactic Invader" landed here.
+ You see a group of miscellaneous objects here.
+ You can go northwest, north, northeast, east, southeast, south, southwest, west, up, and down.
+nw
+ You walk northwest.
+ [Outreach; Northwest Corridor]
+ You can go northwest and southeast.
+nw
+ You walk northwest.
+ [Outreach; Northwest Elevator Station]
+ You can go northeast, southeast, southwest, and down.
+
+d
+ You step into a pod.
+ [A pod]
+ You see nowhere obvious to go.
+ [Outreach; Northwest Elevator Station]
+ You can go southeast, west, and up.
+w
+ You walk west.
+ [Outreach; Anthony Tapioca Street]
+ You can go north, east, south, and west.
+w
+ You walk west.
+ [Outreach; Anthony Tapioca Street]
+ You can go north, east, south, and west.
+n
+ You walk north.
+ [Outreach; Apartment Block C]
+ You can go south.
+ent
+ You are escorted to apartment 169122 by a small robot.
+ [Apartment 169122; Foyer]
+ You can go north, east, south, west, and out.
+n
+ You walk north.
+ [Apartment 169122; Bedroom]
+ You see a stun armor power pack recharging station here.
+ You can go south.
+put bat on station
+ you carefully place a bulky stun armor battery pack on a stun armor power pack recharging station, sliding it forward until the power couplings
+connect with a solid click.
+ A small green indicator light on a stun armor power pack recharging station blinks on, indicating that connected equipment is being charged.
+a
+ What do you wish to emote?
+sleep
+ #SESSION 'Miriani' DIED.

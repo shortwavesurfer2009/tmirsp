@@ -1,0 +1,2087 @@
+ *** Connected ***
+ #$#mcp version: 2.1 to: 2.1
+ ["Golactic Invader" Control Room] (buckled into a velvet-covered cherrywood captain's chair)
+ You see a group of miscellaneous objects here.
+ You can go south, down, and out.
+ there are new messages in OOC / Suggestions/Ideas, OOC / Quoted Out of Context, General / General, General / Name Changes, OOC / Donations/Tradespeop
+le, OOC / Gameplay Concerns, OOC / Announcements, and OOC / General.
+ Your soundpack appears to be out of date! You're using version '1.1', but the most recent version is '1.5'. You can download the most recent version
+from: https://github.com/techman246/tmir
+who evanna
+ Evanna Fairchild (A) (Female) is asleep!
+tr links
+ Linked With                                       Status                                            
+ -----------                                       ------                                            
+ Aria Hunter                                       Available                                         
+ Carl Corey                                        Available                                         
+ Dorion Hunter                                     Available                                         
+ Emelia Roxxan                                     Available                                         
+ Gareth Salvatore                                  Available                                         
+ James Sefdon                                      Available                                         
+ Josh Westen                                       Available                                         
+ Leon Westen                                       Available                                         
+ Quintavious Thomas                                Available                                         
+ Stanton Sefdon                                    Available                                         
+tr leon ur up early
+ [Private | Leon Westen] You transmit, "ur up early"
+ [Private | Leon Westen] Leon Westen transmits, "yep"
+tr atmoin again?
+ Invalid channel.
+tr leon atmoin again?
+ [Private | Leon Westen] You transmit, "atmoin again?"
+ [Private | Leon Westen] Leon Westen transmits, "not yet"
+tr leon ah
+ [Private | Leon Westen] You transmit, "ah"
+amboff
+who evanna
+ Evanna Fairchild (A) (Female) is asleep!
+l
+ ["Golactic Invader" Control Room] (buckled into a velvet-covered cherrywood captain's chair)
+ The control room of a starship is much more spacious than one might previously have supposed, though it is not massive by any means. The wall at the
+front of the room is dominated by the starmap viewer. Rows of consoles line the rest of the walls, each containing an array of touchscreens, switches,
+and buttons that are used to control the starship's various systems with some degree of redundancy. The usual humming of the ship's components has
+been silenced by the lack of power, creating an eerie silence. Beneath your feet, covering the expanse of the room, is a polished hardwood floor.
+There appears to be no power in this room. The overhead lights glow faintly, hardly enough to do anything but avoid large obstacles. Looking through
+the window, you see the ship is at Mercury; Surface Landing Site.
+ You see a group of miscellaneous objects here.
+ You can go south, down, and out.
+tranck stoner
+ I don't understand that.
+track stoner
+ You make a selection on a compact black Lore computer.
+ LoreTech Personal Lore Computer - [Lore Tracker]
+
+ "stoner" reports current location pinpointed aboard the eight-person gunship "Galactic Ghost" at Mercury.
+stand
+ You stand up.
+`echo $vol
+0.0
+`variable {vol} {0.04}
+#OK. VARIABLE {vol} HAS BEEN SET TO {0.04}.
+cred
+ You have 249,313,219.49 credits.
+s
+ You walk south.
+ ["Golactic Invader" Engineering Room]
+ You see a velvet-covered cherrywood crew chair, an internal stun turret, and a gleaming black sanitation drone here.
+ You can go northwest, north, northeast, east, southeast, south, southwest, west, and down.
+s
+ You walk south.
+ ["Golactic Invader" Docking Bay]
+ You see the one-person expediter "Golactic Speedy" powered down here.
+ You see an internal stun turret here.
+ You can go north.
+s
+go hatch
+ You walk through the hatch.
+ ["Golactic Invader" Vehicle Docking Bay]
+ You see a standard atmospheric salvager and a standard atmospheric salvager called "Explosive gasses" here.
+ You can go out.
+ent expl
+ You open the hatch of a standard atmospheric salvager called "Explosive gasses" and climb inside.
+ ["Explosive gasses" Cockpit] (sitting in the flight seat)
+ You can go out.
+launch
+ The eight-person gunship "Golactic Invader" must be powered for an assisted launch.
+out
+ You climb out of the vehicle.
+ ["Golactic Invader" Vehicle Docking Bay]
+ You see a standard atmospheric salvager and a standard atmospheric salvager called "Explosive gasses" here.
+ You can go out.
+out
+ You walk out.
+ ["Golactic Invader" Docking Bay]
+ You see the one-person expediter "Golactic Speedy" powered down here.
+ You see an internal stun turret here.
+ You can go north.
+n
+ You walk north.
+ ["Golactic Invader" Engineering Room]
+ You see a velvet-covered cherrywood crew chair, an internal stun turret, and a gleaming black sanitation drone here.
+ You can go northwest, north, northeast, east, southeast, south, southwest, west, and down.
+n
+ You walk north.
+ ["Golactic Invader" Control Room]
+ You see a group of miscellaneous objects here.
+ You can go south, down, and out.
+power
+s
+ You walk south.
+ ["Golactic Invader" Engineering Room]
+ You see a velvet-covered cherrywood crew chair, an internal stun turret, and a gleaming black sanitation drone here.
+ You can go northwest, north, northeast, east, southeast, south, southwest, west, and down.
+s
+ You walk south.
+ ["Golactic Invader" Docking Bay]
+ You see the one-person expediter "Golactic Speedy" powered down here.
+ You see an internal stun turret here.
+ You can go north.
+go hatch
+ You walk through the hatch.
+ ["Golactic Invader" Vehicle Docking Bay]
+ You see a standard atmospheric salvager and a standard atmospheric salvager called "Explosive gasses" here.
+ You can go out.
+ent expl
+ You open the hatch of a standard atmospheric salvager called "Explosive gasses" and climb inside.
+ ["Explosive gasses" Cockpit] (sitting in the flight seat)
+ You can go out.
+launch
+ You carefully pilot the vehicle into a small chamber above the docking bay.
+ "Vehicle catapult active. Prepare for extreme acceleration."
+ The ship comes to a halt in the planet's atmosphere.
+sm
+  --------------------
+ |:                   |   
+ |   :                |   
+ |:                   |   Atmosphere of Mercury
+ |        :      :  : |   Power Remaining: 100%
+ |    :     :X      : |   Cargo Capacity: 0/30
+ |          :         |   Distance to Ship: 1 unit
+ |    :           :   |   Current Coordinates: 12, 5
+ |         :          |
+ | :     : :          |
+ |                    |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+ "Processing complete. One unit of carbon dioxide has been secured."
+sm
+  --------------------
+ |:                   |   
+ |   :                |   
+ |:                   |   Atmosphere of Mercury
+ |        :      :  : |   Power Remaining: 96%
+ |    :             : |   Cargo Capacity: 2/30
+ |                    |   Distance to Ship: 1 unit
+ |    :    X      :   |   Current Coordinates: 10, 7
+ |         :          |
+ | :     : :          |
+ |                    |
+  --------------------
+ Flight control in Sector 15, a Commonwealth starship has launched combat drones.
+ "Processing complete. One unit of carbon dioxide has been secured."
+ "Processing complete. One unit of xenon has been secured."
+ The vehicle suddenly hits a pocket of fierce wind. With gut-wrenching force, it pummels the vehicle, lifting it in an uncontrolled climb.
+ "Processing complete. One unit of xenon has been secured."
+ The vehicle manages to break free from the pocket of wind and stabilize its course.
+sm
+  --------------------
+ |   :                |   
+ |                    |   
+ |             :    : |   Atmosphere of Mercury
+ |    :      X   :    |   Power Remaining: 92%
+ |   :                |   Cargo Capacity: 5/30
+ |                    |   Distance to Ship: 2 units
+ |   :                |   Current Coordinates: 12, 4
+ |     :            : |
+ |              :     |
+ |  : :     :      :  |
+  --------------------
+ Pax (Hale Docking Station) to Sector 15 flight control, somebody's shooting out there.
+ "Processing complete. One unit of xenon has been secured."
+ "Processing complete. One unit of xenon has been secured."
+ "Processing complete. One unit of carbon dioxide has been secured."
+-
+sm
+  --------------------
+ |  :                 |   
+ |                    |   
+ |                  X |   Atmosphere of Mercury
+ |                    |   Power Remaining: 83%
+ |             :  :   |   Cargo Capacity: 8/30
+ |      :          :  |   Distance to Ship: 1 unit
+ |            ::      |   Current Coordinates: 19, 3
+ |               :    |
+ |                    |
+ |  :          : :    |
+  --------------------
+sm
+  --------------------
+ |  :                 |   
+ |                    |   
+ |                    |   Atmosphere of Mercury
+ |                 X  |   Power Remaining: 83%
+ |             :  :   |   Cargo Capacity: 8/30
+ |      :          :  |   Distance to Ship: 1 unit
+ |            ::      |   Current Coordinates: 18, 4
+ |               :    |
+ |                    |
+ |  :          : :    |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+ "Processing complete. One unit of xenon has been secured."
+sm
+  --------------------
+ |  :                 |   
+ |                    |   
+ |                    |   Atmosphere of Mercury
+ |                    |   Power Remaining: 79%
+ |             :      |   Cargo Capacity: 10/30
+ |      :             |   Distance to Ship: 1 unit
+ |            ::  X   |   Current Coordinates: 17, 7
+ |               :    |
+ |                    |
+ |  :          : :    |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+ "Processing complete. One unit of xenon has been secured."
+ "Processing complete. One unit of carbon dioxide has been secured."
+ The vehicle suddenly hits a pocket of fierce wind. With gut-wrenching force, it pummels the vehicle, lifting it in an uncontrolled climb.
+ The vehicle manages to break free from the pocket of wind and stabilize its course.
+sm
+  --------------------
+ |          :  : :   :|   
+ |                    |   
+ |       :        X  :|   Atmosphere of Mercury
+ |                    |   Power Remaining: 73%
+ |     :              |   Cargo Capacity: 13/30
+ |                :   |   Distance to Ship: 2 units
+ |                    |   Current Coordinates: 17, 3
+ | :                  |
+ |                    |
+ |   :        :       |
+  --------------------
+sm
+  --------------------
+ |          :  : :   :|   
+ |                X   |   
+ |       :           :|   Atmosphere of Mercury
+ |                    |   Power Remaining: 73%
+ |     :              |   Cargo Capacity: 13/30
+ |                :   |   Distance to Ship: 2 units
+ |                    |   Current Coordinates: 17, 2
+ | :                  |
+ |                    |
+ |   :        :       |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+ "Processing complete. One unit of xenon has been secured."
+ The vehicle suddenly hits a pocket of fierce wind. With gut-wrenching force, it pummels the vehicle, sending it plummeting downward in an
+uncontrolled descent.
+sm
+  --------------------
+ |          :        :|   
+ |            X       |   
+ |       :           :|   Atmosphere of Mercury
+ |                    |   Power Remaining: 68%
+ |     :              |   Cargo Capacity: 15/30
+ |                :   |   Distance to Ship: 2 units
+ |                    |   Current Coordinates: 13, 2
+ | :                  |
+ |                    |
+ |   :        :       |
+  --------------------
+ The vehicle manages to break free from the pocket of wind and stabilize its course.
+sm
+  --------------------
+ |     :              |   
+ |     X:             |   
+ |     :     :        |   Atmosphere of Mercury
+ |       :            |   Power Remaining: 68%
+ |           :        |   Cargo Capacity: 15/30
+ |  :                 |   Distance to Ship: 1 unit
+ |       :   ::      :|   Current Coordinates: 6, 2
+ |         :        : |
+ |     :   :          |
+ |                    |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+ "Processing complete. One unit of carbon dioxide has been secured."
+ "Processing complete. One unit of xenon has been secured."
+ The craft is already moving.
+ The craft is currently in the process of scooping.
+ The craft is currently in the process of scooping.
+@atmo 5-
+ Invalid range.
+ "Processing complete. One unit of xenon has been secured."
+sm
+  --------------------
+ |                    |   
+ |                    |   
+ |           :        |   Atmosphere of Mercury
+ |       X            |   Power Remaining: 62%
+ |           :        |   Cargo Capacity: 19/30
+ |  :                 |   Distance to Ship: 1 unit
+ |       :   ::      :|   Current Coordinates: 8, 4
+ |         :        : |
+ |     :   :          |
+ |                    |
+  --------------------
+sm
+  --------------------
+ |                    |   
+ |                    |   
+ |           :        |   Atmosphere of Mercury
+ |                    |   Power Remaining: 61%
+ |      X    :        |   Cargo Capacity: 19/30
+ |  :                 |   Distance to Ship: 1 unit
+ |       :   ::      :|   Current Coordinates: 7, 5
+ |         :        : |
+ |     :   :          |
+ |                    |
+  --------------------
+sm
+  --------------------
+ |                    |   
+ |                    |   
+ |           :        |   Atmosphere of Mercury
+ |                    |   Power Remaining: 61%
+ |           :        |   Cargo Capacity: 19/30
+ |  :    X            |   Distance to Ship: 1 unit
+ |       :   ::      :|   Current Coordinates: 8, 6
+ |         :        : |
+ |     :   :          |
+ |                    |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+sm
+  --------------------
+ |                    |   
+ |                    |   
+ |           :        |   Atmosphere of Mercury
+ |                    |   Power Remaining: 59%
+ |           :        |   Cargo Capacity: 20/30
+ |  :                 |   Distance to Ship: 1 unit
+ |           ::      :|   Current Coordinates: 9, 8
+ |        X:        : |
+ |     :   :          |
+ |                    |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+ "Processing complete. One unit of carbon dioxide has been secured."
+sm
+  --------------------
+ |                    |   
+ |                    |   
+ |           :        |   Atmosphere of Mercury
+ |                    |   Power Remaining: 56%
+ |           :        |   Cargo Capacity: 22/30
+ |  :                 |   Distance to Ship: 1 unit
+ |          X::      :|   Current Coordinates: 11, 7
+ |                  : |
+ |     :              |
+ |                    |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+ "Processing complete. One unit of carbon dioxide has been secured."
+sm
+  --------------------
+ |                    |   
+ |                    |   
+ |           :        |   Atmosphere of Mercury
+ |                    |   Power Remaining: 54%
+ |           :        |   Cargo Capacity: 24/30
+ |  :                 |   Distance to Ship: 1 unit
+ |            X      :|   Current Coordinates: 13, 7
+ |                  : |
+ |     :              |
+ |                    |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+ "Processing complete. One unit of xenon has been secured."
+=
+sm
+  --------------------
+ |                    |   
+ |                    |   
+ |           X:       |   Atmosphere of Mercury
+ |                    |   Power Remaining: 47%
+ |          :         |   Cargo Capacity: 26/30
+ |                    |   Distance to Ship: 2 units
+ |                    |   Current Coordinates: 12, 3
+ | :          :       |
+ |::                  |
+ |            :      :|
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+sm
+  --------------------
+ |                    |   
+ |                    |   
+ |                    |   Atmosphere of Mercury
+ |           X        |   Power Remaining: 46%
+ |          :         |   Cargo Capacity: 27/30
+ |                    |   Distance to Ship: 2 units
+ |                    |   Current Coordinates: 12, 4
+ | :          :       |
+ |::                  |
+ |            :      :|
+  --------------------
+ "Processing complete. One unit of argon has been secured."
+sm
+  --------------------
+ |                    |   
+ |                    |   
+ |                    |   Atmosphere of Mercury
+ |                    |   Power Remaining: 44%
+ |                    |   Cargo Capacity: 28/30
+ |                    |   Distance to Ship: 2 units
+ |            X       |   Current Coordinates: 13, 7
+ | :          :       |
+ |::                  |
+ |            :      :|
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+ The vehicle suddenly hits a pocket of fierce wind. With gut-wrenching force, it pummels the vehicle, lifting it in an uncontrolled climb.
+ The vehicle manages to break free from the pocket of wind and stabilize its course.
+sm
+  --------------------
+ |                    |   
+ |                    |   
+ |                    |   Atmosphere of Mercury
+ |           :        |   Power Remaining: 41%
+ |                 :  |   Cargo Capacity: 29/30
+ |       :            |   Distance to Ship: 3 units
+ |               :  : |   Current Coordinates: 9, 8
+ |        X           |
+ |  :                 |
+ |      :             |
+  --------------------
+sm
+  --------------------
+ |                    |   
+ |                    |   
+ |                    |   Atmosphere of Mercury
+ |           :        |   Power Remaining: 40%
+ |                 :  |   Cargo Capacity: 29/30
+ |       :            |   Distance to Ship: 3 units
+ |       X       :  : |   Current Coordinates: 8, 7
+ |                    |
+ |  :                 |
+ |      :             |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+ "Cargo capacity has been filled. Shutting down atmospheric scooper."
+-
+sm
+  --------------------
+ |     :              |   
+ |                 :  |   
+ |                    |   Atmosphere of Mercury
+ |                    |   Power Remaining: 37%
+ |:       : :         |   Cargo Capacity: 30/30
+ |       X        :   |   Distance to Ship: 2 units
+ |         :   :   :  |   Current Coordinates: 8, 6
+ |                    |
+ |                    |
+ |                    |
+  --------------------
+-
+-
+ You hear a sharp whine as the vehicle accelerates through the planet's atmosphere.
+ The vehicle carefully maneuvers into the docking bay.
+ You hear a gentle thud as the salvager sets down in the docking bay.
+transfer
+ [1] Carbon dioxide
+ [2] Xenon
+ [3] Argon
+ [4] All
+
+ Enter your selection:
+ [Type a line of input or `@abort' to abort the command.]
+4
+ "Beginning cargo transfer."
+out
+ You climb out of the vehicle.
+ ["Golactic Invader" Vehicle Docking Bay]
+ You see a standard atmospheric salvager and a standard atmospheric salvager called "Explosive gasses" here.
+ You can go out.
+ent atmo
+ You open the hatch of a standard atmospheric salvager and climb inside.
+ [Atmospheric Salvager Cockpit] (sitting in the flight seat)
+ You can go out.
+launch
+ You carefully pilot the vehicle into a small chamber above the docking bay.
+ "Vehicle catapult active. Prepare for extreme acceleration."
+radio 1
+ The ship comes to a halt in the planet's atmosphere.
+sm
+  --------------------
+ |                : : |   
+ |           :X       |   
+ |                    |   Atmosphere of Mercury
+ |        :       :   |   Power Remaining: 100%
+ |             :      |   Cargo Capacity: 0/30
+ |                    |   Distance to Ship: 1 unit
+ |     :         :    |   Current Coordinates: 13, 2
+ |    :               |
+ |    :            :  |
+ |                    |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+
+sm
+  --------------------
+ |                : : |   
+ |                    |   
+ |            X       |   Atmosphere of Mercury
+ |        :       :   |   Power Remaining: 98%
+ |             :      |   Cargo Capacity: 1/30
+ |                    |   Distance to Ship: 1 unit
+ |     :         :    |   Current Coordinates: 13, 3
+ |    :               |
+ |    :            :  |
+ |                    |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+`system killall mplayer
+#OK: EXECUTING 'killall mplayer'
+sm
+  --------------------
+ |                : : |   
+ |                    |   
+ |                    |   Atmosphere of Mercury
+ |        :       :   |   Power Remaining: 95%
+ |             X      |   Cargo Capacity: 2/30
+ |                    |   Distance to Ship: 1 unit
+ |     :         :    |   Current Coordinates: 14, 5
+ |    :               |
+ |    :            :  |
+ |                    |
+  --------------------
+
+sm
+  --------------------
+ |                : : |   
+ |                    |   
+ |                    |   Atmosphere of Mercury
+ |        :       :   |   Power Remaining: 95%
+ |                    |   Cargo Capacity: 2/30
+ |              X     |   Distance to Ship: 1 unit
+ |     :         :    |   Current Coordinates: 15, 6
+ |    :               |
+ |    :            :  |
+ |                    |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+ "Processing complete. One unit of xenon has been secured."
+sm
+  --------------------
+ |                : : |   
+ |                    |   
+ |                    |   Atmosphere of Mercury
+ |        :       :   |   Power Remaining: 91%
+ |                    |   Cargo Capacity: 4/30
+ |                    |   Distance to Ship: 1 unit
+ |     :              |   Current Coordinates: 18, 8
+ |    :            X  |
+ |    :               |
+ |                    |
+  --------------------
+sm
+  --------------------
+ |                : : |   
+ |                    |   
+ |                    |   Atmosphere of Mercury
+ |        :       :   |   Power Remaining: 90%
+ |                    |   Cargo Capacity: 4/30
+ |                    |   Distance to Ship: 1 unit
+ |     :           X  |   Current Coordinates: 18, 7
+ |    :               |
+ |    :               |
+ |                    |
+  --------------------
+sm
+  --------------------
+ |                : : |   
+ |                    |   
+ |                    |   Atmosphere of Mercury
+ |        :       :   |   Power Remaining: 89%
+ |                X   |   Cargo Capacity: 4/30
+ |                    |   Distance to Ship: 1 unit
+ |     :              |   Current Coordinates: 17, 5
+ |    :               |
+ |    :               |
+ |                    |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+sm
+  --------------------
+ |                : : |   
+ |                    |   
+ |                 X  |   Atmosphere of Mercury
+ |        :           |   Power Remaining: 87%
+ |                    |   Cargo Capacity: 5/30
+ |                    |   Distance to Ship: 1 unit
+ |     :              |   Current Coordinates: 18, 3
+ |    :               |
+ |    :               |
+ |                    |
+  --------------------
+sm
+  --------------------
+ |                : : |   
+ |                  X |   
+ |                    |   Atmosphere of Mercury
+ |        :           |   Power Remaining: 87%
+ |                    |   Cargo Capacity: 5/30
+ |                    |   Distance to Ship: 1 unit
+ |     :              |   Current Coordinates: 19, 2
+ |    :               |
+ |    :               |
+ |                    |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+ "Processing complete. One unit of xenon has been secured."
+=
+sm
+  --------------------
+ |                X   |   
+ |                    |   
+ |                    |   Atmosphere of Mercury
+ |    :           :   |   Power Remaining: 81%
+ |                   :|   Cargo Capacity: 7/30
+ |                    |   Distance to Ship: 2 units
+ |:                   |   Current Coordinates: 17, 1
+ |                    |
+ |                    |
+ |    :: :     :      |
+  --------------------
+ "Movement in that direction is not possible."
+sm
+  --------------------
+ |                    |   
+ |                    |   
+ |                X   |   Atmosphere of Mercury
+ |    :           :   |   Power Remaining: 80%
+ |                   :|   Cargo Capacity: 7/30
+ |                    |   Distance to Ship: 2 units
+ |:                   |   Current Coordinates: 17, 3
+ |                    |
+ |                    |
+ |    :: :     :      |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+ "Processing complete. One unit of carbon dioxide has been secured."
+-
+sm
+  --------------------
+ |         :          |   
+ |       :            |   
+ |        :           |   Atmosphere of Mercury
+ |                    |   Power Remaining: 72%
+ |           :       X|   Cargo Capacity: 9/30
+ |          :       : |   Distance to Ship: 1 unit
+ |                   :|   Current Coordinates: 20, 5
+ |  :            :    |
+ |                    |
+ |         :          |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+ "Processing complete. One unit of xenon has been secured."
+sm
+  --------------------
+ |         :          |   
+ |       :            |   
+ |        :           |   Atmosphere of Mercury
+ |                    |   Power Remaining: 69%
+ |           :        |   Cargo Capacity: 11/30
+ |          :         |   Distance to Ship: 1 unit
+ |                    |   Current Coordinates: 18, 9
+ |  :            :    |
+ |                 X  |
+ |         :          |
+  --------------------
+ The vehicle suddenly hits a pocket of fierce wind. With gut-wrenching force, it pummels the vehicle, lifting it in an uncontrolled climb.
+ "Processing complete. One unit of carbon dioxide has been secured."
+sm
+  --------------------
+ |         :          |   
+ |       :            |   
+ |        :           |   Atmosphere of Mercury
+ |                    |   Power Remaining: 67%
+ |           :        |   Cargo Capacity: 12/30
+ |          :         |   Distance to Ship: 1 unit
+ |                    |   Current Coordinates: 17, 8
+ |  :             X   |
+ |                    |
+ |         :          |
+  --------------------
+ The vehicle manages to break free from the pocket of wind and stabilize its course.
+sm
+  --------------------
+ |  : :      :        |   
+ |      :   :         |   
+ |            :       |   Atmosphere of Mercury
+ |:    :   :  X       |   Power Remaining: 67%
+ |  :                 |   Cargo Capacity: 12/30
+ |                   :|   Distance to Ship: 2 units
+ |           :        |   Current Coordinates: 13, 4
+ |                ::  |
+ |      :           : |
+ |                    |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+ "Processing complete. One unit of xenon has been secured."
+sm
+  --------------------
+ |  : :      X        |   
+ |      :   :         |   
+ |                    |   Atmosphere of Mercury
+ |:    :   :          |   Power Remaining: 64%
+ |  :                 |   Cargo Capacity: 14/30
+ |                   :|   Distance to Ship: 2 units
+ |           :        |   Current Coordinates: 12, 1
+ |                ::  |
+ |      :           : |
+ |                    |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+sm
+  --------------------
+ |  : :               |   
+ |      :             |   
+ |         X          |   Atmosphere of Mercury
+ |:    :   :          |   Power Remaining: 62%
+ |  :                 |   Cargo Capacity: 15/30
+ |                   :|   Distance to Ship: 2 units
+ |           :        |   Current Coordinates: 10, 3
+ |                ::  |
+ |      :           : |
+ |                    |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+sm
+  --------------------
+ |  : :               |   
+ |      :X            |   
+ |                    |   Atmosphere of Mercury
+ |:    :              |   Power Remaining: 58%
+ |  :                 |   Cargo Capacity: 16/30
+ |                   :|   Distance to Ship: 2 units
+ |           :        |   Current Coordinates: 8, 2
+ |                ::  |
+ |      :           : |
+ |                    |
+  --------------------
+ The vehicle suddenly hits a pocket of fierce wind. With gut-wrenching force, it pummels the vehicle, lifting it in an uncontrolled climb.
+ "Processing complete. One unit of carbon dioxide has been secured."
+ The vehicle manages to break free from the pocket of wind and stabilize its course.
+sm
+  --------------------
+ |                    |   
+ |:                   |   
+ | :   :          :   |   Atmosphere of Mercury
+ |                    |   Power Remaining: 57%
+ |X   :               |   Cargo Capacity: 17/30
+ |   :                |   Distance to Ship: 3 units
+ |    :   :           |   Current Coordinates: 1, 5
+ |                    |
+ |    :            :  |
+ |      :             |
+  --------------------
+sm
+  --------------------
+ |                    |   
+ |:                   |   
+ | :   :          :   |   Atmosphere of Mercury
+ | X                  |   Power Remaining: 57%
+ |    :               |   Cargo Capacity: 17/30
+ |   :                |   Distance to Ship: 3 units
+ |    :   :           |   Current Coordinates: 2, 4
+ |                    |
+ |    :            :  |
+ |      :             |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+ "Processing complete. One unit of xenon has been secured."
+sm
+  --------------------
+ |                    |   
+ |                    |   
+ |     :          :   |   Atmosphere of Mercury
+ |  X                 |   Power Remaining: 53%
+ |    :               |   Cargo Capacity: 19/30
+ |   :                |   Distance to Ship: 3 units
+ |    :   :           |   Current Coordinates: 3, 4
+ |                    |
+ |    :            :  |
+ |      :             |
+  --------------------
+ The vehicle suddenly hits a pocket of fierce wind. With gut-wrenching force, it pummels the vehicle, lifting it in an uncontrolled climb.
+ The vehicle manages to break free from the pocket of wind and stabilize its course.
+sm
+  --------------------
+ |          :         |   
+ |       ::   :       |   
+ |                    |   Atmosphere of Mercury
+ |           :  :    :|   Power Remaining: 52%
+ |      X             |   Cargo Capacity: 19/30
+ |:    : :            |   Distance to Ship: 4 units
+ |                    |   Current Coordinates: 7, 5
+ |             :   :  |
+ |    :           :   |
+ |                    |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+ "Processing complete. One unit of argon has been secured."
+sm
+  --------------------
+ |          :         |   
+ |       ::   :       |   
+ |                    |   Atmosphere of Mercury
+ |           :  :    :|   Power Remaining: 49%
+ |      X             |   Cargo Capacity: 21/30
+ |:                   |   Distance to Ship: 4 units
+ |                    |   Current Coordinates: 7, 5
+ |             :   :  |
+ |    :           :   |
+ |                    |
+  --------------------
+sm
+  --------------------
+ |          :         |   
+ |       ::   :       |   
+ |                    |   Atmosphere of Mercury
+ |     X     :  :    :|   Power Remaining: 49%
+ |                    |   Cargo Capacity: 21/30
+ |:                   |   Distance to Ship: 4 units
+ |                    |   Current Coordinates: 6, 4
+ |             :   :  |
+ |    :           :   |
+ |                    |
+  --------------------
+sm
+  --------------------
+ |          :         |   
+ |       ::   :       |   
+ |      X             |   Atmosphere of Mercury
+ |           :  :    :|   Power Remaining: 47%
+ |                    |   Cargo Capacity: 21/30
+ |:                   |   Distance to Ship: 4 units
+ |                    |   Current Coordinates: 7, 3
+ |             :   :  |
+ |    :           :   |
+ |                    |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+ "Processing complete. One unit of argon has been secured."
+sm
+  --------------------
+ |         X:         |   
+ |            :       |   
+ |                    |   Atmosphere of Mercury
+ |           :  :    :|   Power Remaining: 44%
+ |                    |   Cargo Capacity: 23/30
+ |:                   |   Distance to Ship: 4 units
+ |                    |   Current Coordinates: 10, 1
+ |             :   :  |
+ |    :           :   |
+ |                    |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+sm
+  --------------------
+ |                    |   
+ |            X       |   
+ |                    |   Atmosphere of Mercury
+ |           :  :    :|   Power Remaining: 41%
+ |                    |   Cargo Capacity: 24/30
+ |:                   |   Distance to Ship: 4 units
+ |                    |   Current Coordinates: 13, 2
+ |             :   :  |
+ |    :           :   |
+ |                    |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+sm
+  --------------------
+ |                    |   
+ |                    |   
+ |           X        |   Atmosphere of Mercury
+ |           :  :    :|   Power Remaining: 40%
+ |                    |   Cargo Capacity: 25/30
+ |:                   |   Distance to Ship: 4 units
+ |                    |   Current Coordinates: 12, 3
+ |             :   :  |
+ |    :           :   |
+ |                    |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+ "Processing complete. One unit of xenon has been secured."
+sm
+  --------------------
+ |                    |   
+ |                    |   
+ |                    |   Atmosphere of Mercury
+ |                   :|   Power Remaining: 35%
+ |               X    |   Cargo Capacity: 27/30
+ |:                   |   Distance to Ship: 4 units
+ |                    |   Current Coordinates: 16, 5
+ |             :   :  |
+ |    :           :   |
+ |                    |
+  --------------------
+sm
+  --------------------
+ |                    |   
+ |                    |   
+ |                    |   Atmosphere of Mercury
+ |                   :|   Power Remaining: 34%
+ |                    |   Cargo Capacity: 27/30
+ |:                   |   Distance to Ship: 4 units
+ |                 X  |   Current Coordinates: 18, 7
+ |             :   :  |
+ |    :           :   |
+ |                    |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+ "Processing complete. One unit of carbon dioxide has been secured."
+-
+sm
+  --------------------
+ |    :             : |   
+ |         :       :  |   
+ |          :         |   Atmosphere of Mercury
+ |         :      :   |   Power Remaining: 29%
+ |  :            :    |   Cargo Capacity: 29/30
+ |                   :|   Distance to Ship: 3 units
+ |                    |   Current Coordinates: 17, 9
+ |       ::           |
+ |             :  X   |
+ |                 :: |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+ "Cargo capacity has been filled. Shutting down atmospheric scooper."
+-
+-
+-
+ You hear a sharp whine as the vehicle accelerates through the planet's atmosphere.
+ The vehicle carefully maneuvers into the docking bay.
+ You hear a gentle thud as the salvager sets down in the docking bay.
+transfer
+ [1] Carbon dioxide
+ [2] Xenon
+ [3] Argon
+ [4] All
+
+ Enter your selection:
+ [Type a line of input or `@abort' to abort the command.]
+4
+ "Beginning cargo transfer."
+out
+ You climb out of the vehicle.
+ ["Golactic Invader" Vehicle Docking Bay]
+ You see a standard atmospheric salvager called "Explosive gasses" and a standard atmospheric salvager here.
+ You can go out.
+ent expl
+ You open the hatch of a standard atmospheric salvager called "Explosive gasses" and climb inside.
+ ["Explosive gasses" Cockpit] (sitting in the flight seat)
+ You can go out.
+launch
+ You carefully pilot the vehicle into a small chamber above the docking bay.
+ "Vehicle catapult active. Prepare for extreme acceleration."
+ The ship comes to a halt in the planet's atmosphere.
+sm
+  --------------------
+ |                    |   
+ |   :         : :    |   
+ |  :                 |   Atmosphere of Mercury
+ |                    |   Power Remaining: 100%
+ |           ::       |   Cargo Capacity: 0/30
+ |       X    :       |   Distance to Ship: 1 unit
+ |           :  :     |   Current Coordinates: 8, 6
+ |:     :   :    :    |
+ |          :         |
+ |                    |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+sm
+  --------------------
+ |                    |   
+ |   :         : :    |   
+ |  :                 |   Atmosphere of Mercury
+ |                    |   Power Remaining: 98%
+ |           ::       |   Cargo Capacity: 1/30
+ |            :       |   Distance to Ship: 1 unit
+ |           :  :     |   Current Coordinates: 8, 9
+ |:         :    :    |
+ |       X  :         |
+ |                    |
+  --------------------
+sm
+  --------------------
+ |                    |   
+ |   :         : :    |   
+ |  :                 |   Atmosphere of Mercury
+ |                    |   Power Remaining: 96%
+ |           ::       |   Cargo Capacity: 1/30
+ |            :       |   Distance to Ship: 1 unit
+ |           :  :     |   Current Coordinates: 10, 9
+ |:         :    :    |
+ |         X:         |
+ |                    |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+ "Processing complete. One unit of carbon dioxide has been secured."
+ The vehicle suddenly hits a pocket of fierce wind. With gut-wrenching force, it pummels the vehicle, lifting it in an uncontrolled climb.
+ "Processing complete. One unit of xenon has been secured."
+sm
+  --------------------
+ |                    |   
+ |   :         : :    |   
+ |  :                 |   Atmosphere of Mercury
+ |                    |   Power Remaining: 93%
+ |           ::       |   Cargo Capacity: 4/30
+ |            :       |   Distance to Ship: 1 unit
+ |              :     |   Current Coordinates: 11, 8
+ |:         X    :    |
+ |                    |
+ |                    |
+  --------------------
+ The vehicle manages to break free from the pocket of wind and stabilize its course.
+ "Movement in that direction is not possible."
+ "Movement in that direction is not possible."
+sm
+  --------------------
+ |                  : |   
+ |                    |   
+ |                    |   Atmosphere of Mercury
+ |        :           |   Power Remaining: 92%
+ |  :                 |   Cargo Capacity: 4/30
+ |       :           X|   Distance to Ship: 2 units
+ |                    |   Current Coordinates: 20, 6
+ |            :       |
+ |                    |
+ |          :        :|
+  --------------------
+sm
+  --------------------
+ |                  : |   
+ |                    |   
+ |                    |   Atmosphere of Mercury
+ |        :           |   Power Remaining: 91%
+ |  :                 |   Cargo Capacity: 4/30
+ |       :            |   Distance to Ship: 2 units
+ |                    |   Current Coordinates: 17, 8
+ |            :   X   |
+ |                    |
+ |          :        :|
+  --------------------
+sm
+  --------------------
+ |                  : |   
+ |                    |   
+ |                    |   Atmosphere of Mercury
+ |        :           |   Power Remaining: 88%
+ |  :                 |   Cargo Capacity: 4/30
+ |       :            |   Distance to Ship: 2 units
+ |                    |   Current Coordinates: 13, 8
+ |            X       |
+ |                    |
+ |          :        :|
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+sm
+  --------------------
+ |                  : |   
+ |                    |   
+ |                    |   Atmosphere of Mercury
+ |        :           |   Power Remaining: 87%
+ |  :                 |   Cargo Capacity: 5/30
+ |       :            |   Distance to Ship: 2 units
+ |                    |   Current Coordinates: 12, 9
+ |                    |
+ |           X        |
+ |          :        :|
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+-
+sm
+  --------------------
+ |          :         |   
+ |                    |   
+ |                    |   Atmosphere of Mercury
+ |     :              |   Power Remaining: 84%
+ | :                  |   Cargo Capacity: 6/30
+ |           :        |   Distance to Ship: 1 unit
+ |           ::       |   Current Coordinates: 11, 10
+ |   :                |
+ |            :       |
+ |          X         |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+ "Processing complete. One unit of carbon dioxide has been secured."
+ "Processing complete. One unit of xenon has been secured."
+ "Processing complete. One unit of xenon has been secured."
+=
+sm
+  --------------------
+ |         :          |   
+ |                    |   
+ | :                  |   Atmosphere of Mercury
+ |                    |   Power Remaining: 75%
+ |  :        :        |   Cargo Capacity: 10/30
+ |           X        |   Distance to Ship: 2 units
+ |    :               |   Current Coordinates: 12, 6
+ |:       :        :  |
+ |      :             |
+ |                    |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+sm
+  --------------------
+ |         :          |   
+ |                    |   
+ | :                  |   Atmosphere of Mercury
+ |                    |   Power Remaining: 72%
+ |  :                 |   Cargo Capacity: 11/30
+ |          X         |   Distance to Ship: 2 units
+ |    :               |   Current Coordinates: 11, 6
+ |:       :        :  |
+ |      :             |
+ |                    |
+  --------------------
+sm
+  --------------------
+ |         :          |   
+ |                    |   
+ | :                  |   Atmosphere of Mercury
+ |                    |   Power Remaining: 72%
+ |  :                 |   Cargo Capacity: 11/30
+ |                    |   Distance to Ship: 2 units
+ |    :    X          |   Current Coordinates: 10, 7
+ |:       :        :  |
+ |      :             |
+ |                    |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+ "Processing complete. One unit of xenon has been secured."
+sm
+  --------------------
+ |         :          |   
+ |                    |   
+ | :                  |   Atmosphere of Mercury
+ |                    |   Power Remaining: 68%
+ |  :                 |   Cargo Capacity: 13/30
+ |                    |   Distance to Ship: 2 units
+ |    :               |   Current Coordinates: 6, 8
+ |:    X           :  |
+ |                    |
+ |                    |
+  --------------------
+ "Processing complete. One unit of argon has been secured."
+sm
+  --------------------
+ |         :          |   
+ |                    |   
+ | :                  |   Atmosphere of Mercury
+ |                    |   Power Remaining: 66%
+ |  :                 |   Cargo Capacity: 14/30
+ |   X                |   Distance to Ship: 2 units
+ |                    |   Current Coordinates: 4, 6
+ |:                :  |
+ |                    |
+ |                    |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+-
+sm
+  --------------------
+ |      :             |   
+ |                    |   
+ |   :   :            |   Atmosphere of Mercury
+ |           :        |   Power Remaining: 62%
+ |  X                 |   Cargo Capacity: 15/30
+ |: :             :   |   Distance to Ship: 1 unit
+ |    :        :      |   Current Coordinates: 3, 5
+ |                    |
+ |                    |
+ |  :         :       |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+ "Processing complete. One unit of xenon has been secured."
+sm
+  --------------------
+ |      :             |   
+ |                    |   
+ |   :   :            |   Atmosphere of Mercury
+ |           :        |   Power Remaining: 59%
+ |                    |   Cargo Capacity: 17/30
+ |:    X          :   |   Distance to Ship: 1 unit
+ |             :      |   Current Coordinates: 6, 6
+ |                    |
+ |                    |
+ |  :         :       |
+  --------------------
+sm
+  --------------------
+ |      :             |   
+ |                    |   
+ |   :   :            |   Atmosphere of Mercury
+ |           :        |   Power Remaining: 58%
+ |      X             |   Cargo Capacity: 17/30
+ |:               :   |   Distance to Ship: 1 unit
+ |             :      |   Current Coordinates: 7, 5
+ |                    |
+ |                    |
+ |  :         :       |
+  --------------------
+sm
+  --------------------
+ |      :             |   
+ |                    |   
+ |   :   :            |   Atmosphere of Mercury
+ |      X    :        |   Power Remaining: 57%
+ |                    |   Cargo Capacity: 17/30
+ |:               :   |   Distance to Ship: 1 unit
+ |             :      |   Current Coordinates: 7, 4
+ |                    |
+ |                    |
+ |  :         :       |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+ "Processing complete. One unit of carbon dioxide has been secured."
+=
+sm
+  --------------------
+ |     :              |   
+ |     :              |   
+ |:                   |   Atmosphere of Mercury
+ |           X        |   Power Remaining: 50%
+ |                    |   Cargo Capacity: 19/30
+ |                    |   Distance to Ship: 2 units
+ | :                  |   Current Coordinates: 12, 4
+ |                    |
+ |                :   |
+ |          : :    :  |
+  --------------------
+-
+sm
+  --------------------
+ |                    |   
+ |     :              |   
+ |:                   |   Atmosphere of Mercury
+ |           X        |   Power Remaining: 48%
+ |                   :|   Cargo Capacity: 19/30
+ |                    |   Distance to Ship: 1 unit
+ |            :   :   |   Current Coordinates: 12, 4
+ | :    :             |
+ |            :   :   |
+ |                    |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+ "Processing complete. One unit of xenon has been secured."
+sm
+  --------------------
+ |                    |   
+ |     :              |   
+ |:                   |   Atmosphere of Mercury
+ |                    |   Power Remaining: 43%
+ |                   :|   Cargo Capacity: 21/30
+ |                    |   Distance to Ship: 1 unit
+ |                :   |   Current Coordinates: 14, 8
+ | :    :      X      |
+ |                :   |
+ |                    |
+  --------------------
+ The vehicle suddenly hits a pocket of fierce wind. With gut-wrenching force, it pummels the vehicle, lifting it in an uncontrolled climb.
+ The craft is already moving.
+ The vehicle manages to break free from the pocket of wind and stabilize its course.
+sm
+  --------------------
+ |                   :|   
+ | :              :X  |   
+ |             :      |   Atmosphere of Mercury
+ |                    |   Power Remaining: 43%
+ |        :    :  ::  |   Cargo Capacity: 21/30
+ |       :           :|   Distance to Ship: 2 units
+ |         :       :  |   Current Coordinates: 18, 2
+ |                   :|
+ |                    |
+ |    ::              |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+sm
+  --------------------
+ |                   :|   
+ | :                  |   
+ |             :X     |   Atmosphere of Mercury
+ |                    |   Power Remaining: 40%
+ |        :    :  ::  |   Cargo Capacity: 22/30
+ |       :           :|   Distance to Ship: 2 units
+ |         :       :  |   Current Coordinates: 15, 3
+ |                   :|
+ |                    |
+ |    ::              |
+  --------------------
+ "Processing complete. One unit of argon has been secured."
+sm
+  --------------------
+ |                   :|   
+ | :                  |   
+ |                    |   Atmosphere of Mercury
+ |              X     |   Power Remaining: 39%
+ |        :    :  ::  |   Cargo Capacity: 23/30
+ |       :           :|   Distance to Ship: 2 units
+ |         :       :  |   Current Coordinates: 15, 4
+ |                   :|
+ |                    |
+ |    ::              |
+  --------------------
+sm
+  --------------------
+ |                   :|   
+ | :                  |   
+ |                    |   Atmosphere of Mercury
+ |               X    |   Power Remaining: 38%
+ |        :    :  ::  |   Cargo Capacity: 23/30
+ |       :           :|   Distance to Ship: 2 units
+ |         :       :  |   Current Coordinates: 16, 4
+ |                   :|
+ |                    |
+ |    ::              |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+ "Processing complete. One unit of carbon dioxide has been secured."
+sm
+  --------------------
+ |                   :|   
+ | :                  |   
+ |                    |   Atmosphere of Mercury
+ |                    |   Power Remaining: 33%
+ |        :    :X     |   Cargo Capacity: 25/30
+ |       :           :|   Distance to Ship: 2 units
+ |         :       :  |   Current Coordinates: 15, 5
+ |                   :|
+ |                    |
+ |    ::              |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+sm
+  --------------------
+ |                   :|   
+ | :                  |   
+ |                    |   Atmosphere of Mercury
+ |                    |   Power Remaining: 31%
+ |        :           |   Cargo Capacity: 26/30
+ |       :    X      :|   Distance to Ship: 2 units
+ |         :       :  |   Current Coordinates: 13, 6
+ |                   :|
+ |                    |
+ |    ::              |
+  --------------------
+sm
+  --------------------
+ |                   :|   
+ | :                  |   
+ |                    |   Atmosphere of Mercury
+ |                    |   Power Remaining: 29%
+ |        :           |   Cargo Capacity: 26/30
+ |       :           :|   Distance to Ship: 2 units
+ |         :X      :  |   Current Coordinates: 11, 7
+ |                   :|
+ |                    |
+ |    ::              |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+sm
+  --------------------
+ |                   :|   
+ | :                  |   
+ |                    |   Atmosphere of Mercury
+ |                    |   Power Remaining: 28%
+ |        :           |   Cargo Capacity: 27/30
+ |       :           :|   Distance to Ship: 2 units
+ |         X       :  |   Current Coordinates: 10, 7
+ |                   :|
+ |                    |
+ |    ::              |
+  --------------------
+ The craft is currently in the process of scooping.
+ The craft is currently in the process of scooping.
+ "Processing complete. One unit of argon has been secured."
+ "Processing complete. One unit of xenon has been secured."
+-
+sm
+  --------------------
+ |         :         :|   
+ |    ::              |   
+ |   : :       :  :  :|   Atmosphere of Mercury
+ |                    |   Power Remaining: 22%
+ |    :           :   |   Cargo Capacity: 29/30
+ |       X            |   Distance to Ship: 1 unit
+ |              :     |   Current Coordinates: 8, 6
+ |                 : :|
+ |     :              |
+ |                    |
+  --------------------
+sm
+  --------------------
+ |         :         :|   
+ |    ::              |   
+ |   : :       :  :  :|   Atmosphere of Mercury
+ |                    |   Power Remaining: 21%
+ |    : X         :   |   Cargo Capacity: 29/30
+ |                    |   Distance to Ship: 1 unit
+ |              :     |   Current Coordinates: 7, 5
+ |                 : :|
+ |     :              |
+ |                    |
+  --------------------
+sm
+  --------------------
+ |         :         :|   
+ |    ::              |   
+ |   : :       :  :  :|   Atmosphere of Mercury
+ |     X              |   Power Remaining: 21%
+ |    :           :   |   Cargo Capacity: 29/30
+ |                    |   Distance to Ship: 1 unit
+ |              :     |   Current Coordinates: 6, 4
+ |                 : :|
+ |     :              |
+ |                    |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+ "Cargo capacity has been filled. Shutting down atmospheric scooper."
+-
+ You hear a sharp whine as the vehicle accelerates through the planet's atmosphere.
+ The vehicle carefully maneuvers into the docking bay.
+l
+ ["Explosive gasses" Cockpit] (sitting in the flight seat)
+ This small, cramped control area provides little room for movement. Directly in front of you is a control console and a small information display.
+The rest of the cockpit is taken up by windows. Outside, you see Mercury.
+ You can go out.
+ You hear a gentle thud as the salvager sets down in the docking bay.
+transfer
+ [1] Xenon
+ [2] Carbon dioxide
+ [3] Argon
+ [4] All
+
+ Enter your selection:
+ [Type a line of input or `@abort' to abort the command.]
+4
+ "Beginning cargo transfer."
+out
+ You climb out of the vehicle.
+ ["Golactic Invader" Vehicle Docking Bay]
+ You see a standard atmospheric salvager and a standard atmospheric salvager called "Explosive gasses" here.
+ You can go out.
+ent atmo
+ You open the hatch of a standard atmospheric salvager and climb inside.
+ [Atmospheric Salvager Cockpit] (sitting in the flight seat)
+ You can go out.
+launch
+ You carefully pilot the vehicle into a small chamber above the docking bay.
+ "Vehicle catapult active. Prepare for extreme acceleration."
+ The ship comes to a halt in the planet's atmosphere.
+sm
+  --------------------
+ |  :     :           |   
+ |             :      |   
+ |    :               |   Atmosphere of Mercury
+ |       :  :    :    |   Power Remaining: 100%
+ |       :            |   Cargo Capacity: 0/30
+ |                    |   Distance to Ship: 1 unit
+ |   :          : :   |   Current Coordinates: 18, 10
+ |                    |
+ | :                  |
+ |              :  X: |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+sm
+  --------------------
+ |  :     :           |   
+ |             :      |   
+ |    :               |   Atmosphere of Mercury
+ |       :  :    :    |   Power Remaining: 97%
+ |       :            |   Cargo Capacity: 1/30
+ |                    |   Distance to Ship: 1 unit
+ |   :          : :   |   Current Coordinates: 17, 8
+ |                X   |
+ | :                  |
+ |              :     |
+  --------------------
+ The craft is currently in the process of scooping.
+ "Processing complete. One unit of xenon has been secured."
+ The vehicle suddenly hits a pocket of fierce wind. With gut-wrenching force, it pummels the vehicle, lifting it in an uncontrolled climb.
+ "Processing complete. One unit of xenon has been secured."
+sm
+  --------------------
+ |  :     :           |   
+ |             :      |   
+ |    :               |   Atmosphere of Mercury
+ |       :  :    :    |   Power Remaining: 95%
+ |       :            |   Cargo Capacity: 3/30
+ |                    |   Distance to Ship: 1 unit
+ |   :           X    |   Current Coordinates: 16, 7
+ |                    |
+ | :                  |
+ |              :     |
+  --------------------
+ The vehicle manages to break free from the pocket of wind and stabilize its course.
+sm
+  --------------------
+ |                    |   
+ |                    |   
+ |                    |   Atmosphere of Mercury
+ | : :       :        |   Power Remaining: 94%
+ |               :    |   Cargo Capacity: 3/30
+ |  :             :   |   Distance to Ship: 2 units
+ |     :   :          |   Current Coordinates: 4, 10
+ |                  : |
+ |                    |
+ |   X          :     |
+  --------------------
+-
+sm
+  --------------------
+ |:                 : |   
+ |         : : :      |   
+ |                    |   Atmosphere of Mercury
+ |  :  : :            |   Power Remaining: 91%
+ |                    |   Cargo Capacity: 3/30
+ |                    |   Distance to Ship: 1 unit
+ |                    |   Current Coordinates: 4, 10
+ |               :    |
+ |     : ::     ::    |
+ |   X    :           |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+ "Processing complete. One unit of carbon dioxide has been secured."
+sm
+  --------------------
+ |:                 : |   
+ |         : : :      |   
+ |                    |   Atmosphere of Mercury
+ |  :  : :            |   Power Remaining: 87%
+ |                    |   Cargo Capacity: 5/30
+ |                    |   Distance to Ship: 1 unit
+ |                    |   Current Coordinates: 8, 9
+ |               :    |
+ |       X:     ::    |
+ |        :           |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+ "Processing complete. One unit of xenon has been secured."
+sm
+  --------------------
+ |:                 : |   
+ |         : : :      |   
+ |                    |   Atmosphere of Mercury
+ |  :  : :            |   Power Remaining: 84%
+ |                    |   Cargo Capacity: 7/30
+ |                    |   Distance to Ship: 1 unit
+ |                    |   Current Coordinates: 11, 8
+ |          X    :    |
+ |              ::    |
+ |                    |
+  --------------------
+sm
+  --------------------
+ |:                 : |   
+ |         : : :      |   
+ |                    |   Atmosphere of Mercury
+ |  :  : :            |   Power Remaining: 83%
+ |                    |   Cargo Capacity: 7/30
+ |                    |   Distance to Ship: 1 unit
+ |                    |   Current Coordinates: 13, 9
+ |               :    |
+ |            X ::    |
+ |                    |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+sm
+  --------------------
+ |:                 : |   
+ |         : : :      |   
+ |                    |   Atmosphere of Mercury
+ |  :  : :            |   Power Remaining: 81%
+ |                    |   Cargo Capacity: 8/30
+ |                    |   Distance to Ship: 1 unit
+ |                    |   Current Coordinates: 15, 9
+ |               :    |
+ |              X:    |
+ |                    |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+ "Processing complete. One unit of xenon has been secured."
+=
+sm
+  --------------------
+ |               :    |   
+ |  :                 |   
+ |                    |   Atmosphere of Mercury
+ |                    |   Power Remaining: 76%
+ |                    |   Cargo Capacity: 10/30
+ |              :    :|   Distance to Ship: 2 units
+ |         :          |   Current Coordinates: 16, 8
+ |  :            X    |
+ |          :         |
+ |        :           |
+  --------------------
+sm
+  --------------------
+ |               :    |   
+ |  :                 |   
+ |                    |   Atmosphere of Mercury
+ |                    |   Power Remaining: 75%
+ |                    |   Cargo Capacity: 10/30
+ |              :    :|   Distance to Ship: 2 units
+ |         :    X     |   Current Coordinates: 15, 7
+ |  :                 |
+ |          :         |
+ |        :           |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+sm
+  --------------------
+ |               :    |   
+ |  :                 |   
+ |                    |   Atmosphere of Mercury
+ |                    |   Power Remaining: 73%
+ |                    |   Cargo Capacity: 11/30
+ |                   :|   Distance to Ship: 2 units
+ |         :   X      |   Current Coordinates: 14, 7
+ |  :                 |
+ |          :         |
+ |        :           |
+  --------------------
+sm
+  --------------------
+ |               :    |   
+ |  :                 |   
+ |                    |   Atmosphere of Mercury
+ |                    |   Power Remaining: 71%
+ |                    |   Cargo Capacity: 11/30
+ |                   :|   Distance to Ship: 2 units
+ |         :          |   Current Coordinates: 13, 8
+ |  :         X       |
+ |          :         |
+ |        :           |
+  --------------------
+sm
+  --------------------
+ |               :    |   
+ |  :                 |   
+ |                    |   Atmosphere of Mercury
+ |                    |   Power Remaining: 71%
+ |                    |   Cargo Capacity: 11/30
+ |                   :|   Distance to Ship: 2 units
+ |         :          |   Current Coordinates: 12, 9
+ |  :                 |
+ |          :X        |
+ |        :           |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+ "Processing complete. One unit of xenon has been secured."
+sm
+  --------------------
+ |               :    |   
+ |  :                 |   
+ |                    |   Atmosphere of Mercury
+ |                    |   Power Remaining: 67%
+ |                    |   Cargo Capacity: 13/30
+ |                   :|   Distance to Ship: 2 units
+ |         :          |   Current Coordinates: 10, 9
+ |  :                 |
+ |         X          |
+ |                    |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+-
+sm
+  --------------------
+ |           :        |   
+ |        :           |   
+ |    :             : |   Atmosphere of Mercury
+ |                    |   Power Remaining: 63%
+ |             :      |   Cargo Capacity: 14/30
+ |:                   |   Distance to Ship: 1 unit
+ |         X         :|   Current Coordinates: 10, 7
+ |                    |
+ |                :   |
+ | :  :             : |
+  --------------------
+sm
+  --------------------
+ |           :        |   
+ |        :           |   
+ |    :             : |   Atmosphere of Mercury
+ |                    |   Power Remaining: 63%
+ |             :      |   Cargo Capacity: 14/30
+ |:         X         |   Distance to Ship: 1 unit
+ |                   :|   Current Coordinates: 11, 6
+ |                    |
+ |                :   |
+ | :  :             : |
+  --------------------
+sm
+  --------------------
+ |           :        |   
+ |        :           |   
+ |    :             : |   Atmosphere of Mercury
+ |                    |   Power Remaining: 62%
+ |           X :      |   Cargo Capacity: 14/30
+ |:                   |   Distance to Ship: 1 unit
+ |                   :|   Current Coordinates: 12, 5
+ |                    |
+ |                :   |
+ | :  :             : |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+sm
+  --------------------
+ |           :        |   
+ |        :           |   
+ |    :             : |   Atmosphere of Mercury
+ |                    |   Power Remaining: 58%
+ |                    |   Cargo Capacity: 15/30
+ |:                   |   Distance to Ship: 1 unit
+ |               X   :|   Current Coordinates: 16, 7
+ |                    |
+ |                :   |
+ | :  :             : |
+  --------------------
+sm
+  --------------------
+ |           :        |   
+ |        :           |   
+ |    :             : |   Atmosphere of Mercury
+ |                    |   Power Remaining: 58%
+ |                    |   Cargo Capacity: 15/30
+ |:                   |   Distance to Ship: 1 unit
+ |                   :|   Current Coordinates: 17, 8
+ |                X   |
+ |                :   |
+ | :  :             : |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+ "Processing complete. One unit of xenon has been secured."
+ "Movement in that direction is not possible."
+ "Processing complete. One unit of carbon dioxide has been secured."
+sm
+  --------------------
+ |           :        |   
+ |        :           |   
+ |    :             : |   Atmosphere of Mercury
+ |                    |   Power Remaining: 52%
+ |                    |   Cargo Capacity: 18/30
+ |:                   |   Distance to Ship: 1 unit
+ |                   X|   Current Coordinates: 20, 7
+ |                    |
+ |                    |
+ | :  :               |
+  --------------------
+sm
+  --------------------
+ |           :        |   
+ |        :           |   
+ |    :             : |   Atmosphere of Mercury
+ |                    |   Power Remaining: 51%
+ |                  X |   Cargo Capacity: 18/30
+ |:                   |   Distance to Ship: 1 unit
+ |                    |   Current Coordinates: 19, 5
+ |                    |
+ |                    |
+ | :  :               |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+=
+sm
+  --------------------
+ |                  : |   
+ |                    |   
+ |                  X |   Atmosphere of Mercury
+ |      :             |   Power Remaining: 47%
+ |                  : |   Cargo Capacity: 19/30
+ |             :      |   Distance to Ship: 2 units
+ |             :   :  |   Current Coordinates: 19, 3
+ |                    |
+ |                    |
+ |                   :|
+  --------------------
+ The vehicle suddenly hits a pocket of fierce wind. With gut-wrenching force, it pummels the vehicle, lifting it in an uncontrolled climb.
+ The vehicle manages to break free from the pocket of wind and stabilize its course.
+sm
+  --------------------
+ |       :         :: |   
+ |               :   :|   
+ |                    |   Atmosphere of Mercury
+ |         :  :       |   Power Remaining: 46%
+ |                    |   Cargo Capacity: 19/30
+ |            :       |   Distance to Ship: 3 units
+ |                 :  |   Current Coordinates: 7, 10
+ |      :        :    |
+ | :                  |
+ |      X           : |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+sm
+  --------------------
+ |       :         :: |   
+ |               :   :|   
+ |                    |   Atmosphere of Mercury
+ |         :  :       |   Power Remaining: 44%
+ |                    |   Cargo Capacity: 20/30
+ |            :       |   Distance to Ship: 3 units
+ |       X         :  |   Current Coordinates: 8, 7
+ |               :    |
+ | :                  |
+ |                  : |
+  --------------------
+sm
+  --------------------
+ |       :         :: |   
+ |               :   :|   
+ |                    |   Atmosphere of Mercury
+ |         :  :       |   Power Remaining: 43%
+ |                    |   Cargo Capacity: 20/30
+ |        X   :       |   Distance to Ship: 3 units
+ |                 :  |   Current Coordinates: 9, 6
+ |               :    |
+ | :                  |
+ |                  : |
+  --------------------
+sm
+  --------------------
+ |       :         :: |   
+ |               :   :|   
+ |                    |   Atmosphere of Mercury
+ |         :  :       |   Power Remaining: 42%
+ |        X           |   Cargo Capacity: 20/30
+ |            :       |   Distance to Ship: 3 units
+ |                 :  |   Current Coordinates: 9, 5
+ |               :    |
+ | :                  |
+ |                  : |
+  --------------------
+ The vehicle suddenly hits a pocket of fierce wind. With gut-wrenching force, it pummels the vehicle, lifting it in an uncontrolled climb.
+ "Processing complete. One unit of carbon dioxide has been secured."
+ The vehicle manages to break free from the pocket of wind and stabilize its course.
+sm
+  --------------------
+ |                    |   
+ |                    |   
+ |     :      ::   :  |   Atmosphere of Mercury
+ |                    |   Power Remaining: 40%
+ |      X             |   Cargo Capacity: 21/30
+ |:      :   :        |   Distance to Ship: 4 units
+ |                    |   Current Coordinates: 7, 5
+ |          :    :    |
+ |:    :   :          |
+ | :            :     |
+  --------------------
+ "Processing complete. One unit of xenon has been secured."
+sm
+  --------------------
+ |                    |   
+ |                    |   
+ |     :      ::   :  |   Atmosphere of Mercury
+ |                    |   Power Remaining: 39%
+ |                    |   Cargo Capacity: 22/30
+ |:          :        |   Distance to Ship: 4 units
+ |        X           |   Current Coordinates: 9, 7
+ |          :    :    |
+ |:    :   :          |
+ | :            :     |
+  --------------------
+sm
+  --------------------
+ |                    |   
+ |                    |   
+ |     :      ::   :  |   Atmosphere of Mercury
+ |                    |   Power Remaining: 38%
+ |                    |   Cargo Capacity: 22/30
+ |:          :        |   Distance to Ship: 4 units
+ |                    |   Current Coordinates: 9, 8
+ |        X :    :    |
+ |:    :   :          |
+ | :            :     |
+  --------------------
+ "Processing complete. One unit of argon has been secured."
+ "Processing complete. One unit of carbon dioxide has been secured."
+sm
+  --------------------
+ |                    |   
+ |                    |   
+ |     :      ::   :  |   Atmosphere of Mercury
+ |                    |   Power Remaining: 35%
+ |                    |   Cargo Capacity: 24/30
+ |:          :        |   Distance to Ship: 4 units
+ |           X        |   Current Coordinates: 12, 7
+ |               :    |
+ |:    :              |
+ | :            :     |
+  --------------------
+ [General Communication] Quintavious Thomas transmits, "Diffs?"
+ "Processing complete. One unit of xenon has been secured."
+sm
+  --------------------
+ |                    |   
+ |                    |   
+ |     :      ::   :  |   Atmosphere of Mercury
+ |                    |   Power Remaining: 33%
+ |                    |   Cargo Capacity: 25/30
+ |:                   |   Distance to Ship: 4 units
+ |            X       |   Current Coordinates: 13, 7
+ |               :    |
+ |:    :              |
+ | :            :     |
+  --------------------
+ [General Communication] Quintavious Thomas transmits, "No? Oh, alright."
+sm
+  --------------------
+ |                    |   
+ |                    |   
+ |     :      ::   :  |   Atmosphere of Mercury
+ |                    |   Power Remaining: 32%
+ |                    |   Cargo Capacity: 25/30
+ |:                   |   Distance to Ship: 4 units
+ |                    |   Current Coordinates: 15, 8
+ |              X:    |
+ |:    :              |
+ | :            :     |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+sm
+  --------------------
+ |                    |   
+ |                    |   
+ |     :      ::   :  |   Atmosphere of Mercury
+ |                    |   Power Remaining: 29%
+ |                    |   Cargo Capacity: 26/30
+ |:                   |   Distance to Ship: 4 units
+ |                    |   Current Coordinates: 15, 9
+ |                    |
+ |:    :        X     |
+ | :            :     |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+-
+sm
+  --------------------
+ |         : :        |   
+ |                  : |   
+ |       ::          :|   Atmosphere of Mercury
+ |                    |   Power Remaining: 26%
+ |                    |   Cargo Capacity: 27/30
+ |     ::             |   Distance to Ship: 3 units
+ |          :         |   Current Coordinates: 15, 10
+ | :                  |
+ |      :            :|
+ |              X     |
+  --------------------
+sm
+  --------------------
+ |         : :        |   
+ |                  : |   
+ |       ::          :|   Atmosphere of Mercury
+ |                    |   Power Remaining: 24%
+ |                    |   Cargo Capacity: 27/30
+ |     ::             |   Distance to Ship: 3 units
+ |          :         |   Current Coordinates: 13, 8
+ | :          X       |
+ |      :            :|
+ |                    |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+sm
+  --------------------
+ |         : :        |   
+ |                  : |   
+ |       ::          :|   Atmosphere of Mercury
+ |                    |   Power Remaining: 20%
+ |        X           |   Cargo Capacity: 28/30
+ |     ::             |   Distance to Ship: 3 units
+ |                    |   Current Coordinates: 9, 5
+ | :                  |
+ |      :            :|
+ |                    |
+  --------------------
+ "Processing complete. One unit of carbon dioxide has been secured."
+-
+sm
+  --------------------
+ |                    |   
+ |                    |   
+ |        :           |   Atmosphere of Mercury
+ |   :   :            |   Power Remaining: 16%
+ |      :             |   Cargo Capacity: 29/30
+ |     :X            :|   Distance to Ship: 2 units
+ |      :             |   Current Coordinates: 7, 6
+ |          :    :    |
+ |                    |
+ |                    |
+  --------------------
+ "Warning, power level has dropped to 15%."
+ "Processing complete. One unit of carbon dioxide has been secured."
+ "Cargo capacity has been filled. Shutting down atmospheric scooper."
+-
+-
+ The craft is already moving.
+-
+ You hear a sharp whine as the vehicle accelerates through the planet's atmosphere.
+-
+ The craft is already moving.
+ The vehicle carefully maneuvers into the docking bay.
+ You hear a gentle thud as the salvager sets down in the docking bay.
+l
+ [Atmospheric Salvager Cockpit] (sitting in the flight seat)
+ This small, cramped control area provides little room for movement. Directly in front of you is a control console and a small information display.
+The rest of the cockpit is taken up by windows. Outside, you see "Golactic Invader" Vehicle Docking Bay.
+ You can go out.
+transfer
+ [1] Xenon
+ [2] Carbon dioxide
+ [3] Argon
+ [4] All
+
+ Enter your selection:
+ [Type a line of input or `@abort' to abort the command.]
+4
+ "Beginning cargo transfer."
+out
+ You climb out of the vehicle.
+ ["Golactic Invader" Vehicle Docking Bay]
+ You see a standard atmospheric salvager called "Explosive gasses" and a standard atmospheric salvager here.
+ You can go out.
+out
+ You walk out.
+ ["Golactic Invader" Docking Bay]
+ You see the one-person expediter "Golactic Speedy" powered down here.
+ You see an internal stun turret here.
+ You can go north.
+n
+ You walk north.
+ ["Golactic Invader" Engineering Room]
+ You see a velvet-covered cherrywood crew chair, an internal stun turret, and a gleaming black sanitation drone here.
+ You can go northwest, north, northeast, east, southeast, south, southwest, west, and down.
+n
+ You walk north.
+ ["Golactic Invader" Control Room]
+ You see a group of miscellaneous objects here.
+ You can go south, down, and out.
+n
+cargo
+ Name                                    #    Units
+ ----                                    -    -----
+ a canister of carbon dioxide            37   37
+ a canister of xenon                     50   50
+ a canister of argon                     6    6
+ Weapons-grade Bardenium                 1    6775
+ Proximity Weapons                       1    1810
+
+ Weight Capacity:                        -    9500
+ Total Weight:                           95   8678
+                                              ----
+ Remaining Weight Capacity:                   822
+ A massive smiley face flickers into existence and announces, "Transfer of materials from the vehicle bay is complete."
+cargo
+ Name                                    #    Units
+ ----                                    -    -----
+ a canister of carbon dioxide            52   52
+ a canister of xenon                     61   61
+ a canister of argon                     7    7
+ Weapons-grade Bardenium                 1    6775
+ Proximity Weapons                       1    1810
+
+ Weight Capacity:                        -    9500
+ Total Weight:                           122  8705
+                                              ----
+ Remaining Weight Capacity:                   795
+power
+a
+ What do you wish to emote?
+sleep
+ #SESSION 'Miriani' DIED.

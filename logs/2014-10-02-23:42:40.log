@@ -1,0 +1,48 @@
+ *** Connected ***
+ #$#mcp version: 2.1 to: 2.1
+ ["Golactic Speedy" Control Room] (lying on the floor)
+ You can go south and out.
+ there are new messages in OOC / Suggestions/Ideas, OOC / Quoted Out of Context, General / General, General / Name Changes, OOC / Donations/Tradespeop
+le, OOC / Gameplay Concerns, OOC / Announcements, and OOC / General.
+ Your soundpack appears to be out of date! You're using version '1.1', but the most recent version is '1.5'. You can download the most recent version
+from: https://github.com/techman246/tmir
+
+ There are two new entries in the changelog. To view them, type: @changes
+`echo $charname
+
+`echo $charname
+
+whoami
+ Ray Roxxan
+`echo $charname
+
+ [General Communication] Erica Schultz transmits, "Never mind. It vas a false alarm. Thought a fuzzy broke my ship, but that vas not the case. Thanks
+though."
+amboff
+a
+ What do you wish to emote?
+`history list;`grep {1} {1 - }
+     1 - davidb
+     2 - 1
+     3 - whoami
+     4 - `echo $charname
+     5 - amboff
+     6 - a
+     7 - `history list;`grep {1} {1 - }
+clear
+`history list;`system grep "1 - "
+     1 - davidb
+     2 - 1
+     3 - whoami
+     4 - `echo $charname
+     5 - amboff
+     6 - a
+     7 - `history list;`grep {1} {1 - }
+     8 - clear
+     9 - `history list;`system grep "1 - "
+#OK: EXECUTING 'grep "1 - "'
+a
+ What do you wish to emote?
+a
+ What do you wish to emote?
+ #SESSION 'Miriani' DIED.

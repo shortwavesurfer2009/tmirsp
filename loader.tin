@@ -1,0 +1,14 @@
+`read aliases.tin
+`read combat.tin
+`read comm.tin
+`read gags.tin
+`read macros.tin
+`read misc.tin
+`read radio.tin
+`read repair.tin
+`read ship.tin
+`read socials.tin
+`nop {`read sounds.tin}
+`read substitutes.tin
+`read tickers.tin
+`nop {`read scripts/combat.tin}

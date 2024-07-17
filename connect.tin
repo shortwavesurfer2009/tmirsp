@@ -1,0 +1,38 @@
+#config {tintin char} {`}
+`config {log} {plain}
+`format DateVar {%t} {%Y-%m-%d-%T}
+`read loader.tin
+`variable {ambcount} {0}
+`variable {DUR} {.}
+`variable {os} {>/dev/null 2>&1 &}
+`class {userprefs} {OPEN}
+`variable {ambvol} {15}
+`variable {vol} {0.3}
+`variable {ambstat} {}
+`class {userprefs} {CLOSE}
+`variable {cdhits} {0}
+`variable {cphits} {0}
+`variable {tdest} {0}
+
+`alias {audio} {`system mplayer ./audio_test.wav $os}
+
+`delay {2} {
+`showme {Miriani Soundpack By David, - (tmirsp@gmail.com),};
+`showme {Follow me on twitter,: https://twitter.com/DavidBLinux,};
+`showme {Donations are always welcome,};
+`showme {	Paypal, techman246@gmail.com,};
+`showme {	For other donation methods please see the included readme,};
+`showme {Thanks for playing! Enjoy,};
+`showme {type "login" to begin};
+}
+
+`alias {login}
+{`session {Miriani} {toastsoft.net} {1234}}
+
+`action {*** Connected ***}
+{`log {o} {./logs/$DateVar.log}}
+
+`alias {sleep} {`showme {Saving game data};`class {userprefs} {WRITE} {./.userprefs.tin};`send sleep}
+
+`action {*** Disconnected ***}
+{#system killall mplayer $os;`end}

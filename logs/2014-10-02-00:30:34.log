@@ -1,0 +1,403 @@
+ *** Connected ***
+ #$#mcp version: 2.1 to: 2.1
+ [Apartment 169122; Bedroom] (lying on the floor)
+ You see a stun armor power pack recharging station here.
+ You can go south.
+ there are new messages in OOC / Suggestions/Ideas, OOC / Quoted Out of Context, General / General, General / Name Changes, OOC / Donations/Tradespeop
+le, OOC / Gameplay Concerns, OOC / Announcements, and OOC / General.
+ Your soundpack appears to be out of date! You're using version '1.1', but the most recent version is '1.5'. You can download the most recent version
+from: https://github.com/techman246/tmir
+ambon
+l
+ [Apartment 169122; Bedroom] (lying on the floor)
+ You see a cozy little bedroom with wood floors and drywall walls. The walls are painted white.
+ You see a stun armor power pack recharging station here.
+ You can go south.
+amboff
+stand
+ You stand up.
+take pack from stat
+ You can't pick that up.
+commands stat
+ The obvious commands for a stun armor power pack recharging station are: put <any> on top of/on/onto/upon <this>, unload <this>, give <this> at/to
+<any>, brandish <this> at/to <any>, trash <this>, unhang <this>, and drop <this>.
+unload station
+ You firmly grip the top of a bulky stun armor battery pack and press a small release button. The power couplings disengage, and it slides smoothly
+off of a stun armor power pack recharging station.
+connect bat
+ You have to be wearing that first.
+wear bat
+ You don a bulky stun armor battery pack.
+connect bat
+ You begin carefully connecting pieces of armor to a bulky stun armor battery pack.
+ (20 seconds roundtime.)
+ You finish connecting armor to a bulky stun armor battery pack.
+l bat
+ A bulky stun armor battery pack
+ You see nothing special.
+ It appears to be off.
+ The charge indicator reads 100%.
+ It has a black stun armor top, a black stun armor bottom, a black stun armor helmet, and a pair of black stun armor boots connected to it.
+e
+w
+s
+ You walk south.
+ [Apartment 169122; Foyer]
+ You can go north, east, south, west, and out.
+s
+ You walk south.
+ [Apartment 169122; Hot Tub Room]
+ You can go north.
+ent
+ You don't see that here.
+n
+ You walk north.
+ [Apartment 169122; Foyer]
+ You can go north, east, south, west, and out.
+out
+ You walk out.
+ [Outreach; Apartment Block C]
+ You see a shiny chrome sanitation drone here.
+ You can go south.
+s
+ You walk south.
+ [Outreach; Anthony Tapioca Street]
+ You can go north, east, south, and west.
+e
+ You walk east.
+ [Outreach; Anthony Tapioca Street]
+ You can go north, east, south, and west.
+e
+ You walk east.
+ [Outreach; Northwest Elevator Station]
+ You can go southeast, west, and up.
+u
+ You step into a pod.
+ [A pod]
+ You see nowhere obvious to go.
+ [Outreach; Northwest Elevator Station]
+ You can go northeast, southeast, southwest, and down.
+se
+ You walk southeast.
+ [Outreach; Northwest Corridor]
+ You can go northwest and southeast.
+se
+ You walk southeast.
+ [Outreach; Landing Bay]
+ You see the Hale evacuation ship "Thoron", the eight-person gunship "Golactic Invader", and the eight-person gunship "Illusion's Incursion" landed
+here.
+ You see a group of miscellaneous objects here.
+ You can go northwest, north, northeast, east, southeast, south, southwest, west, up, and down.
+ent
+ ["Golactic Invader" Airlock]
+ You see an internal stun turret, a lighted gold diamond garden fountain with water streaming from the hands of an angel kneeling in its basin, two
+gleaming black security drones, and a gleaming black sanitation drone here.
+ You can go enter and out.
+ent
+ You walk into the ship.
+ ["Golactic Invader" Control Room]
+ You see a group of miscellaneous objects here.
+ You can go south, down, and out.
+a
+ What do you wish to emote?
+charge
+ --------------------------
+ Charge Readout:
+ --------------------------
+ 17 hours, 58 minutes, and 55 seconds of charge remaining.
+ This is sufficient for approximately 107 wormhole jumps, 2157 subwarps, and 2157 intrasector slips.
+ This ship can fire 202 shots from all turrets and 647 shots from all cannons.
+
+ Power Status: Online.
+ Charge Level: 42%
+ --------------------------
+power
+who evanna
+ Evanna Fairchild (A) (Female) is awake!
+tr evanna just out of curiosity where do u live ooc?
+ [Private | Evanna Fairchild] You transmit, "just out of curiosity where do u live ooc?"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "arizona. you?"
+tr evanna georgia
+ [Private | Evanna Fairchild] You transmit, "georgia"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "ah"
+a
+ What do you wish to emote?
+tr evanna u always seem to get on very late at night was y i was wondering
+ [Private | Evanna Fairchild] You transmit, "u always seem to get on very late at night was y i was wondering"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "how old are ya"
+tr evanna 19
+ [Private | Evanna Fairchild] You transmit, "19"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "ah haha nah my sleeping scheduel is all screwed up from not having school"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "and 18. will be 19 in a month."
+tr evanna i was gunna guess 17 but okay
+ [Private | Evanna Fairchild] You transmit, "i was gunna guess 17 but okay"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "haha. people think i'm like 13 since i'm so short and small."
+tr evanna how tall are you?
+ [Private | Evanna Fairchild] You transmit, "how tall are you?"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "4 11... only way like 82 pounds."
+tr evanna sounds like a friend of mine
+ [Private | Evanna Fairchild] You transmit, "sounds like a friend of mine"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "i love being little! its more fun."
+tr evanna i always say that big things come in little packages
+ [Private | Evanna Fairchild] You transmit, "i always say that big things come in little packages"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "its definatly true."
+tr evanna take that as you will. cuz that can be taken more then 1 way
+ [Private | Evanna Fairchild] You transmit, "take that as you will. cuz that can be taken more then 1 way"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "haha"
+tr evanna what u up to 
+ [Private | Evanna Fairchild] You transmit, "what u up to "
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "gunna have to get used to the time difference when i move to colorado."
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "and watching a movie ooc."
+tr evanna is that ahead or behind?
+ [Private | Evanna Fairchild] You transmit, "is that ahead or behind?"
+a
+ What do you wish to emote?
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "their ahead of me by an hour."
+tr evanna ah. im going to minisota to a center in about 11 days and they are an hour behind me
+ [Private | Evanna Fairchild] You transmit, "ah. im going to minisota to a center in about 11 days and they are an hour behind me"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "ah, that's why i'm going to colorado. i'll be taking classes their for their ITP program at
+Colorado center for the blind."
+tr evanna ah cool. im going to the full program at BLIND Inc.
+ [Private | Evanna Fairchild] You transmit, "ah cool. im going to the full program at BLIND Inc."
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "oh wow. i met some people their during the NFB convention this past summer."
+tr evanna cool my friend is actually starting CCB on the 13th
+ [Private | Evanna Fairchild] You transmit, "cool my friend is actually starting CCB on the 13th"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "i may know them. what's their name?"
+tr evanna Malik
+ [Private | Evanna Fairchild] You transmit, "Malik"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "i've heard his name a lot. i think i know of him. how old is he?"
+tr evanna 18
+ [Private | Evanna Fairchild] You transmit, "18"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "think we are thinking of the same person. It's nice to know there will be at least one or
+two people my age there. the program in colorado is for all ages of adults so."
+a
+ What do you wish to emote?
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "i'm glad it wont just be 30 year olds haha"
+tr evanna what is your name. i don't know but i may have heard of you
+ [Private | Evanna Fairchild] You transmit, "what is your name. i don't know but i may have heard of you"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "my name's haylee."
+tr evanna i know a lot of those
+ [Private | Evanna Fairchild] You transmit, "i know a lot of those"
+tr evanna you use twitter?
+ [Private | Evanna Fairchild] You transmit, "you use twitter?"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "haha haylee holland. if you know derrick westen out of game then you may know of me. and
+yeh i do."
+tr no. i don't think i have heard of you. my name is David. im a friend of malik's
+ Invalid channel.
+tr evanna no. i don't think i have heard of you. my name is David. im a friend of malik's
+ [Private | Evanna Fairchild] You transmit, "no. i don't think i have heard of you. my name is David. im a friend of malik's"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "well, its nice to meet you ooc."
+tr evanna lol
+ [Private | Evanna Fairchild] You transmit, "lol"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "haha i sware there's a lot of people who play miriani that are way older then me so, again,
+its nice to meet people at least around my age. haha"
+a
+ What do you wish to emote?
+tr evanna i know josh westen, Leon weston and some others ooc
+ [Private | Evanna Fairchild] You transmit, "i know josh westen, Leon weston and some others ooc"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "hmm i have met josh ooc. not sure who leon westen is ooc though."
+tr josh sterlend?
+ [Private | Josh Westen] You transmit, "sterlend?"
+tr josh mc
+ [Private | Josh Westen] You transmit, "mc"
+tr evanna sterland?
+ [Private | Evanna Fairchild] You transmit, "sterland?"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "i know madison salvatore and gareth salvatore, elijah elric, derrick westen..."
+tr isn't gerith a guy named gazz?
+ Invalid channel.
+tr evanna isn't gerith a guy named gazz?
+ [Private | Evanna Fairchild] You transmit, "isn't gerith a guy named gazz?"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "ive talked to a few others on skype in the past but, dont really know them very well"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "and yup"
+tr evanna have you ever heard of grenade radio?
+ [Private | Evanna Fairchild] You transmit, "have you ever heard of grenade radio?"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "sounds familear. like really familear."
+tr evanna do you know of an application called teamtalk?
+ [Private | Evanna Fairchild] You transmit, "do you know of an application called teamtalk?"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "yes. i used to use it."
+tr evanna grenade radio has a tt server that im on all the time
+ [Private | Evanna Fairchild] You transmit, "grenade radio has a tt server that im on all the time"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "ah sweet"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "i need to like, learn how to actually use it. my x used to help me with it all the time."
+tr evanna its not difficult
+ [Private | Evanna Fairchild] You transmit, "its not difficult"
+tr evanna i could help you with it
+ [Private | Evanna Fairchild] You transmit, "i could help you with it"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "i just need to stop being lazy and actually look at things lol."
+tr evanna no lazyness!
+ [Private | Evanna Fairchild] You transmit, "no lazyness!"
+tr evanna oh and btw i'm @DavidBLinux on twitter
+ [Private | Evanna Fairchild] You transmit, "oh and btw i'm @DavidBLinux on twitter"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "haha i know right! hoping to maybe at least get my sleeping schedule fixed before i go to
+colorado. then i'll be really screwed over."
+tr evanna fix it!
+ [Private | Evanna Fairchild] You transmit, "fix it!"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "that's the plan... if i can ever fall asleep before 8 AM."
+tr evanna you just need a work out
+ [Private | Evanna Fairchild] You transmit, "you just need a work out"
+tr evanna *caughs*
+ [Private | Evanna Fairchild] You transmit, "*caughs*"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "god i miss goalball. after practice i'd sleep like a baby."
+tr evanna lol
+ [Private | Evanna Fairchild] You transmit, "lol"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "goalball for the win!"
+tr evanna not a big fan of goalball
+ [Private | Evanna Fairchild] You transmit, "not a big fan of goalball"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "ah! that is too bad. i love it! do you have any vision at all?"
+a
+ What do you wish to emote?
+tr evanna yeah. enough to read print under magnification
+ [Private | Evanna Fairchild] You transmit, "yeah. enough to read print under magnification"
+tr evanna once you become non-lazy you should come on tt
+ [Private | Evanna Fairchild] You transmit, "once you become non-lazy you should come on tt"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "i think you have a little more vision then me. I can read if things are super big but, i'm
+a braille and jaws user."
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "and yes i will."
+tr evanna i read assignments and thing in braille. have since first grade. i use the orca screen reader for linux but mainly when i'm either reading
+something very long or playing MUDs
+ [Private | Evanna Fairchild] You transmit, "i read assignments and thing in braille. have since first grade. i use the orca screen reader for linux
+but mainly when i'm either reading something very long or playing MUDs"
+tr evanna fuckin runons
+ [Private | Evanna Fairchild] You transmit, "fuckin runons"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "haha i do that to. yeh every so often i need a break from jaws. it gives me headaches. same
+with voice over on the iphone but, gotta love screen readers."
+tr evanna yeah
+ [Private | Evanna Fairchild] You transmit, "yeah"
+tr evanna this tt server is like completely empty
+ [Private | Evanna Fairchild] You transmit, "this tt server is like completely empty"
+tr evanna fix it!
+ [Private | Evanna Fairchild] You transmit, "fix it!"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "haha maybe after i eat my version of lunch."
+tr evanna you mean 2am snace?
+ [Private | Evanna Fairchild] You transmit, "you mean 2am snace?"
+tr evanna snack rather
+ [Private | Evanna Fairchild] You transmit, "snack rather"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "well, i woke up so late today that everyone else's dinner was my breakfast."
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "so, now i am hungry lol"
+tr evanna what do ur parrents thinik of this?
+ [Private | Evanna Fairchild] You transmit, "what do ur parrents thinik of this?"
+tr evanna p a r r e n t s! learn to spell ray
+ [Private | Evanna Fairchild] You transmit, "p a r r e n t s! learn to spell ray"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "they think i'm crazy for staying up so late haha. I'm supposed to go with my mom to her
+school tomorrow since she's a teacher and show her students braille."
+tr evanna i find it funny. ray was so trying to flirt with you ic. but ooc this is so hilarious
+ [Private | Evanna Fairchild] You transmit, "i find it funny. ray was so trying to flirt with you ic. but ooc this is so hilarious"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "haha i know right!"
+tr evanna did u figure that out?
+ [Private | Evanna Fairchild] You transmit, "did u figure that out?"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "like 90 percent of the guys on here have hit on every one of my characters."
+tr evanna lol
+ [Private | Evanna Fairchild] You transmit, "lol"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "and yah lol from the start"
+tr evanna ray is not that ood at covering up his intentions
+ [Private | Evanna Fairchild] You transmit, "ray is not that ood at covering up his intentions"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "haha. evanna knew that elijah was gunna ask her out so she just left it."
+tr evanna lol
+ [Private | Evanna Fairchild] You transmit, "lol"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "he's like my best friend ooc so i dont have to worry about things getting weird."
+tr evanna coolness
+ [Private | Evanna Fairchild] You transmit, "coolness"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "how long has ray been around?"
+tr evanna since roughly october of 2013
+ [Private | Evanna Fairchild] You transmit, "since roughly october of 2013"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "so you probably knew two of my past chars."
+tr evanna who?
+ [Private | Evanna Fairchild] You transmit, "who?"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "i was rayne delacey, and then kiersten elric. i think angel thomas was to early for you to
+have known her."
+tr evanna i remember rayne delacey. i stopped playing for a long time so i didn't know the other one
+ [Private | Evanna Fairchild] You transmit, "i remember rayne delacey. i stopped playing for a long time so i didn't know the other one"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "ah. i miss rayne. she was awesome."
+tr evanna well ray seems to think evanna is awsome
+ [Private | Evanna Fairchild] You transmit, "well ray seems to think evanna is awsome"
+tr evanna *smirks*
+ [Private | Evanna Fairchild] You transmit, "*smirks*"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "awe"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "i love evanna's name. i dont know how i even came up with it."
+a
+ What do you wish to emote?
+tr evanna i wouldnt know. ive gotta figure out how ray is going to react when evanna tells him she's got  a bf
+ [Private | Evanna Fairchild] You transmit, "i wouldnt know. ive gotta figure out how ray is going to react when evanna tells him she's got  a bf"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "yeh, i gotta figure out how evanna's gunna tell him. wayne used to flirt with her all the
+time to so, she's gunna have to tell him to."
+tr evanna lol
+ [Private | Evanna Fairchild] You transmit, "lol"
+tr evanna what kind of music do you like?
+ [Private | Evanna Fairchild] You transmit, "what kind of music do you like?"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "i pretty much like anything but rap and really heavy metal."
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "how about you?"
+tr evanna malik is a producer and pop/rap artist. he just released an E P that is really good
+ [Private | Evanna Fairchild] You transmit, "malik is a producer and pop/rap artist. he just released an E P that is really good"
+tr evanna and i like pop and dubstep
+ [Private | Evanna Fairchild] You transmit, "and i like pop and dubstep"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "ah sweet!"
+tr evanna along with some older rap like 2008 and before
+ [Private | Evanna Fairchild] You transmit, "along with some older rap like 2008 and before"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "yeh, i just cant stand the newer rap stuff."
+tr evanna um no. if you want ill get you a link to this  E P
+ [Private | Evanna Fairchild] You transmit, "um no. if you want ill get you a link to this  E P"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "that'd be cool."
+a
+ What do you wish to emote?
+tr evanna 1 min
+ [Private | Evanna Fairchild] You transmit, "1 min"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "i'll be back. gunna find something to eat."
+a
+ What do you wish to emote?
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "but i'll be loged in"
+a
+ What do you wish to emote?
+a
+ What do you wish to emote?
+tr evanna okay. i found the link
+ [Private | Evanna Fairchild] You transmit, "okay. i found the link"
+tr evanna http://grenadeinteractive.com/the_truth_is_in_the_question.zip
+ [Private | Evanna Fairchild] You transmit, "http://grenadeinteractive.com/the_truth_is_in_the_question.zip"
+ A gleaming black sanitation drone arrives from the airlock.
+who jade
+ Jade Starling (H) (Female) is awake!
+a
+ What do you wish to emote?
+radio 1
+a
+ What do you wish to emote?
+radio 6
+a
+ A gleaming black sanitation drone goes down.
+ What do you wish to emote?
+a
+ What do you wish to emote?
+tr evanna so how is/was your food?
+ [Private | Evanna Fairchild] You transmit, "so how is/was your food?"
+radio 1
+a
+ What do you wish to emote?
+a cheese
+ Ray Roxxan cheese
+`action {Ray Roxxan %*} {`variable {test} {%1}}
+#OK. {Ray Roxxan %*} NOW TRIGGERS {`variable {test} {%1}} @ {5}.
+a hugs himself
+ Ray Roxxan hugs himself
+`echo $test
+hugs himself
+`unaction {Ray Roxxan %*}
+#OK. {Ray Roxxan %*} IS NO LONGER AN ACTION.
+`action {Username:} {`variable {test} {%0}}
+#OK. {Username:} NOW TRIGGERS {`variable {test} {%0}} @ {5}.
+`echo Username
+Username
+abcd
+ I don't understand that.
+`echo $test
+hugs himself
+`action {Username:} {`variable {test} {%1}}
+#OK. {Username:} NOW TRIGGERS {`variable {test} {%1}} @ {5}.
+`echo Username:
+Username:
+davidb
+ I don't understand that.
+`echo $test
+hugs himself
+a
+ I don't understand that.
+ #SESSION 'Miriani' DIED.

@@ -1,0 +1,1416 @@
+ *** Connected ***
+ #$#mcp version: 2.1 to: 2.1
+ ["Golactic Invader" Control Room] (lying on the floor)
+ You see a group of miscellaneous objects here.
+ You can go south, down, and out.
+ there are new messages in OOC / Suggestions/Ideas, OOC / Quoted Out of Context, General / General, General / Name Changes, OOC / Donations/Tradespeop
+le, OOC / Gameplay Concerns, OOC / Announcements, and OOC / General.
+ Your soundpack appears to be out of date! You're using version '1.1', but the most recent version is '1.5'. You can download the most recent version
+from: https://github.com/techman246/tmir
+
+ There are two new entries in the changelog. To view them, type: @changes
+ ISC Mineral Processing Depot to Sector 19 flight control, there's been an attack in the sector.
+ Flight control in Sector 19, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+ ISC Starship Construction Depot Beta to Sector 19 flight control, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just
+got destroyed.
+ Flight control in Sector 19, a Hale starship is firing at an Ontanka starship.
+ Flight control in Sector 19, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+ Flight control in Sector 19, somebody's shooting out there.
+ Flight control in Sector 19, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+ Flight control in Sector 19, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+`history
+################################################################## HISTORY COMMANDS ##################################################################
+  [DELETE       ] Delete last command history entry.
+  [INSERT       ] Insert a new command history entry.
+  [LIST         ] Display command history list.
+  [READ         ] Read a command history list from file.
+  [WRITE        ] Write a command history list to file.
+######################################################################################################################################################
+clear
+`history list
+     1 - davidb
+     2 - 1
+     3 - `history
+     4 - clear
+     5 - `history list
+`history write test.hist
+ ISC Starship Construction Depot Alpha to Sector 19 flight control, a Hale starship is firing at an Ontanka starship.
+ Flight control in Sector 19, shots have been fired!
+ Flight control in Sector 19, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+turn gen
+ You mute the general channel.
+turn gen
+ You unmute the general channel.
+ Flight control in Sector 19, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+ Flight control in Sector 19, we're detecting shots fired on an Ontanka starship by a Hale starship.
+ ISC Starship Construction Depot Alpha to Sector 19 flight control, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just
+got destroyed.
+turn chatter
+ You unmute the chatter channel.
+ ISC Starship Construction Depot Delta to Sector 19 flight control, we detect shots fired!
+a
+ What do you wish to emote?
+a
+ What do you wish to emote?
+ ISC Starship Construction Depot Beta to Sector 19 flight control, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just
+got destroyed.
+ Flight control in Sector 19, there's a battle going on up there!
+a
+ What do you wish to emote?
+tr gen is my help required? just woke up
+ [General Communication] Ray Roxxan transmits, "Is my help required? Just woke up."
+ Flight control in Sector 19, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+ ISC Starship Construction Depot Beta to Sector 19 flight control, we're reading shots fired by an Ontanka starship at a Hale starship!
+beacon 19
+ The ship must be powered before you can do that.
+ ISC Starship Construction Depot Alpha to Sector 19 flight control, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just
+got destroyed.
+a
+ What do you wish to emote?
+peer out
+ You peer out and see...
+ [Outreach; Starship Garage]
+ This enormous, dimly-lit room contains hundreds of sleeping giants. Their hulls gleam at the slightest light, freshly cleaned by the automatic
+cleaning arms that moved from ship to ship. Every once in a while, one will be seized by mechanical arms and brought up to the landing pad, flooding
+the room with light for a few moments. Several terminals stand idle, displaying a list of starships stored here.
+ You see a group of unpowered ships here.
+ You see several small terminals here.
+ You can go east and up.
+use ham
+ You don't see that here.
+take ham from back
+ You remove a droid remote titled "hammerhead" from a huge sapphire blue mesh backpack with blue comfortable straps and a black magnetic front pocket.
+use ham
+ HammerHead the droid [Charge: 100%]
+ [1] Deactivate Camera
+ [2] Speak
+ [3] Camera Feed
+ [4] Examine Objects
+ [5] Move
+ [6] Select Voice Program
+ [7] Perform Action
+ [8] Change Walk Style
+ [9] Diagnose
+
+ Enter your selection:
+ [Type a line of input or `@abort' to abort the command.]
+3
+ From your droid's camera, you see...
+ [Outreach; Observation Room]
+ Little damage has been done to this large room. A row of cracked leather chairs has been bolted to the floor in front of an enormous black screen
+with a row of buttons beneath it. A large sign, obviously much newer than the ship itself, has been taped just below the buttons. There is no
+decoration in this stark room, save for the thin layer of dust coating every surface.
+ You see a sign taped to the button board and Cue the droid here.
+ You can go west.
+use ham
+ HammerHead the droid [Charge: 100%]
+ [1] Deactivate Camera
+ [2] Speak
+ [3] Camera Feed
+ [4] Examine Objects
+ [5] Move
+ [6] Select Voice Program
+ [7] Perform Action
+ [8] Change Walk Style
+ [9] Diagnose
+
+ Enter your selection:
+ [Type a line of input or `@abort' to abort the command.]
+@abort
+ >> Command Aborted <<
+cred
+ You have 626,802.82 credits.
+ ISC Mineral Processing Depot to Sector 19 flight control, somebody's shooting out there.
+a
+ What do you wish to emote?
+a
+ What do you wish to emote?
+amboff
+launch
+ You can't launch from here.
+power
+launch
+  "Golactic Invader, you have clearance to launch. Good luck and come back to us safe."
+ A massive smiley face flickers into existence and announces, "A star, two planets, and four space stations have been detected in the sector."
+ (Outreach; Observation Room) The eight-person gunship "Golactic Invader" has launched from Outreach.
+fo
+ There are no ships here.
+lrscan starships
+ Objects                       Direction                Lightyears  Coordinates                      
+ -------------------------------------------------------------------------------------
+ The sensors detect no objects in range of the long-range scanners.
+beacon 15
+ You instruct the computer to calculate the distance between your current galactic coordinates and the last known location of the standard
+navigational beacons.
+ Sector                                  Direction                LY          Coordinates
+ ------                                  ---------                --          -----------
+ Sector 15: Miriani                      southwest and down       248.0       -603126, 40, 507
+beacon 19
+ You instruct the computer to calculate the distance between your current galactic coordinates and the last known location of the standard
+navigational beacons.
+ Sector                                  Direction                LY          Coordinates
+ ------                                  ---------                --          -----------
+ Sector 19: Venitia                      southwest and up         1006.5      -604622, 27, 167
+beacon 0
+ You instruct the computer to calculate the distance between your current galactic coordinates and the last known location of the standard
+navigational beacons.
+ Sector                                  Direction                LY          Coordinates
+ ------                                  ---------                --          -----------
+ Sector 0: Central Jumpgate Hub          southwest and up         244.5       -603120, 41, 450
+br
+ Sectors within FTL range:
+
+ Sector                                  Lightyears
+ ------                                  ----------
+ Sector 30                               0.0
+ Sector 23                               13.5
+ Sector 29                               30.34
+ Sector 28                               34.91
+ Sector 25                               56.16
+ Sector 39                               82.97
+ Sector 35                               122.66
+ Sector 31                               123.04
+ Sector 34                               124.96
+ Sector 24                               127.17
+ Sector 33                               130.36
+ Sector 32                               143.46
+ Sector 26                               150.25
+ Sector 22                               163.34
+ Sector 40                               184.57
+ Sector 27                               205.06
+ Sector 21                               206.28
+ Sector 20                               219.41
+ Sector 4                                223.86
+ Sector 3                                224.34
+ Sector 2                                224.83
+ Sector 1                                225.31
+ Sector 16                               233.08
+ Sector 14                               238.69
+ Sector 0                                244.55
+ Sector 17                               247.2
+ Sector 15                               248.18
+cred
+ You have 626,802.82 credits.
+land
+  "Hello, Golactic Invader. We read your Hale transponder. You are cleared to land."
+ The mild vibration of acceleration eases off and is replaced by the firm pull of gravity as the ship touches down smoothly on the planet's surface.
+ (Outreach; Observation Room) The eight-person gunship "Golactic Invader" has landed on the planet Outreach.
+put ham in back
+ You put a droid remote titled "hammerhead" in a huge sapphire blue mesh backpack with blue comfortable straps and a black magnetic front pocket.
+ (Engineering Room) A gleaming black sanitation drone goes south.
+ (Docking Bay) A gleaming black sanitation drone arrives.
+tr links
+ Linked With                                       Status                                            
+ -----------                                       ------                                            
+ Brice Garrison                                    Available                                         
+ Carl Corey                                        Available                                         
+ Dorion Hunter                                     Available                                         
+ Grace Westen                                      Available                                         
+ Ivy Panjobi                                       Available                                         
+ Jessica VanPersie                                 Available                                         
+ Josh Westen                                       Available                                         
+ Lacy Seiden                                       Available                                         
+ Lia Long                                          Available                                         
+ Stanton Sefdon                                    Available                                         
+ Tyler Kavanaugh                                   Available                                         
+who
+ There are 55 players connected, 37 of whom have been active recently:
+ Moreli Solo (A)                  Grace Westen (A)                  Lia Long (C)
+ Dorion Hunter (A)                *Larry Jackson (A)                Anthony Petrova (C)
+ Zoey Anderson (A)                *Gidget Falkswell (A)             *Justine Belle (C)
+ Brice Garrison (A)               Josh Westen (A)                   Amber Berns (C)
+ Jade Starling (A)                Stanton Sefdon (A)                Kaeleigh Jackson (C)
+ Noah Salvatore (A)               Erica Schultz (A)                 Ivy Panjobi (H)
+ David Randal (A)                 Kevin Seiden (C)                  *Sebastian Hadford (H)
+ *Hayley Knight (A)               Jessica VanPersie (C)             Ray Roxxan (H)
+ Erik Yobi (A)                    Alec Bane (C)                     Tiberius Black (H)
+ *Karen Strong (A)                Rafael McMafrles (C)              Jonathan Stone (H)
+ *James Sefdon (A)                Anna Young (C)                    *Kenny Marley (H)
+ *Teresa Hamilton (A)             Athena West (C)                   Tyler Kavanaugh (H)
+ *Sherrilyn Sefdon (A)            *Kylar Knight (C)                 *Navi Bane (H)
+ *Maggy West (A)                  *Derrick Westen (C)               Jonathan Panjobi (H)
+ *Brianna West (A)                *Viktoria West (C)                Carl Corey (H)
+ *Allon Martellato (A)            Lacy Seiden (C)                   *Camille Garcia (H)
+ *Nyla Anders (A)                 *Rachel Jackson (C)               Wil l Carter (H)
+ Rothque Torraske (A)             *Tom Tucker (C)                   
+ *Madison Salvatore (A)           Kyle Key (C)                      
+
+ * - Out of communications range.
+ ISC Starship Construction Depot Gamma to Sector 19 flight control, there's a battle going on up there!
+ [General Communication] Aria Hunter transmits, "Anyone need a crew member? Second crew? Anything?"
+ [General Communication] Dorion Hunter transmits, "For the most part cleared, but we need someone to see the non fc sectors."
+ [General Communication] Aria Hunter transmits, "Mk."
+ [General Communication] Alec Bane transmits, "We could use ground help in 19, then a Destroyer or gunship to help with air."
+a
+ What do you wish to emote?
+ [General Communication] Noah Salvatore screams, "OH MY GOD WHAT."
+ [General Communication] Aria Hunter transmits, "Is anyone fighting air presently?"
+a
+ What do you wish to emote?
+ (Engineering Room) A gleaming black sanitation drone goes southeast.
+tr gen im on standby to help with any crew who needs me
+ [General Communication] Ray Roxxan transmits, "I'm on standby to help with any crew who needs me."
+ [General Communication] Dorion Hunter transmits, "We are an for the most part it's cleared up we are just taking care of groun."
+ [General Communication] Aria Hunter transmits, "What's left up there."
+disconnect bat
+ You begin carefully disconnecting pieces of armor from a bulky stun armor battery pack.
+ (20 seconds roundtime.)
+ You finish disconnecting armor from a bulky stun armor battery pack.
+use 2.arm
+ You remove your stun armor and place each piece in the designated area in a black stun armor storage bag.
+use arm
+ You remove your armor from a black armor storage bag and put it on.
+armor
+ You are wearing a complete set of armor.
+   Helmet: a glossy black lightly armored helmet (83.0%)
+   Top: a glossy black lightly armored top (100.0%)
+   Bottom: a glossy black lightly armored bottom (100.0%)
+   Gloves: a pair of glossy black lightly armored gloves (83.0%)
+   Boots: a pair of glossy black lightly armored boots (100.0%)
+launch
+  "Golactic Invader, you have clearance to launch. Good luck and come back to us safe."
+ A massive smiley face flickers into existence and announces, "A star, two planets, and four space stations have been detected in the sector."
+fo
+ There are no ships here.
+ftl 15
+land
+ There are multiple destinations available. Please choose one.
+ [1] Outreach
+ [2] Deneii
+ [3] Cheropovets Industrial Complex Construction Site
+
+ Enter your selection:
+ [Type a line of input or `@abort' to abort the command.]
+1
+slocate speedy
+ The one-person expediter "Golactic Speedy" is located at Outreach; Starship Garage.
+  "Hello, Golactic Invader. We read your Hale transponder. You are cleared to land."
+ The mild vibration of acceleration eases off and is replaced by the firm pull of gravity as the ship touches down smoothly on the planet's surface.
+power
+out
+ You must stand up first.
+out
+ You must stand up first.
+stand
+ You stand up.
+out
+ You walk into the airlock.
+ ["Golactic Invader" Airlock]
+ You see an internal stun turret, a lighted gold diamond garden fountain with water streaming from the hands of an angel kneeling in its basin, and
+two gleaming black security drones here.
+ You can go enter and out.
+out
+ [Outreach; Starship Garage]
+ You see a group of unpowered ships here.
+ You see several small terminals here.
+ You can go east and up.
+ent golactic speed
+ ["Golactic Speedy" Airlock]
+ You can go enter and out.
+emt
+ I don't understand that.
+ent
+ You walk into the ship.
+ ["Golactic Speedy" Control Room]
+ You can go south and out.
+power
+laie
+ I don't understand that.
+launch
+lie
+ You lie down on the floor.
+  "Golactic Speedy, you have clearance to launch. Good luck and come back to us safe."
+ftl 12
+ftl 12
+subwarp 4 10 6
+subwarp 4 10 6
+ "Subwarp drive locked on coordinates 4, 10, 6."
+fo
+ There are no ships here.
+land
+ There are multiple destinations available. Please choose one.
+ [1] Rolukssica
+ [2] Zander
+
+ Enter your selection:
+ [Type a line of input or `@abort' to abort the command.]
+1
+ Multiple landing sites detected. Where do you wish to land?
+ [1] High Guard Command
+ [2] Moon Surface
+ [Type a line of input or `@abort' to abort the command.]
+1
+  "Hello, Golactic Speedy. We read your Hale transponder. You are cleared to land."
+h
+ You are carrying a small circular hunk of metal in your left hand.
+holster
+ You don't have a gun.
+ The mild vibration of acceleration eases off and is replaced by the firm pull of gravity as the ship touches down smoothly on the moon's surface.
+put hunk in belt
+ You load a small circular hunk of metal into an ammunition storage belt.
+draw 3
+ You deftly draw a hollow cylindrical device from a High Guard-issue rifle holster.
+holster
+draw 2
+ You deftly draw a stun rifle from a High Guard-issue rifle holster.
+check rifle
+ A stun rifle has an effective stun power of 21. It is loaded with a Praelor-lethal magazine and has 10 shots left.
+power
+out
+ You must stand up first.
+stand
+ You stand up.
+out
+ You walk into the airlock.
+ ["Golactic Speedy" Airlock]
+ You can go enter and out.
+out
+ [Alliance High Guard Command; Garage]
+ You see a group of unpowered ships here.
+ You see a group of miscellaneous objects here.
+ You can go northwest, northeast, southeast, southwest, and down.
+map armor
+ Directions from Alliance High Guard Command; Garage to Alliance High Guard Command; Experimental Armor Sales: down, down, down, down, down,
+southeast, southeast, south, and west.
+map repair
+ Directions from Alliance High Guard Command; Garage to Alliance High Guard Command; Repair Facility: down, down, down, down, south, south, and south.
+d
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+drops downward rapidly, holding your feet firmly in place.
+ [Alliance High Guard Command; Antechamber]
+ You see an immaculate replica of Praelor Onno 147 and Mi the droid here.
+ You can go north, east, south, west, up, down, and out.
+ As the lift comes to a halt, the lights vanish and you step off.
+d
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+drops downward rapidly, holding your feet firmly in place.
+ [Alliance High Guard Command; Atrium]
+ You see a maroon security drone and a maroon medical drone here.
+ You can go northwest, northeast, south, up, and down.
+ As the lift comes to a halt, the lights vanish and you step off.
+d
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+drops downward rapidly, holding your feet firmly in place.
+ [Alliance High Guard Command; Mission Assignment Nexus]
+ You see a sign, Mo the droid, Zozo the droid, and Lee the droid here.
+ You can go northwest, north, northeast, southeast, south, southwest, up, and down.
+ As the lift comes to a halt, the lights vanish and you step off.
+d
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+drops downward rapidly, holding your feet firmly in place.
+ [Alliance High Guard Command; Equipment Hub]
+ You can go north, east, south, west, up, and down.
+ As the lift comes to a halt, the lights vanish and you step off.
+ne
+n
+ You walk north.
+ [Alliance High Guard Command; Corridor]
+ You can go north and south.
+e
+s
+ You walk south.
+ [Alliance High Guard Command; Equipment Hub]
+ You can go north, east, south, west, up, and down.
+e
+ You walk east.
+ [Alliance High Guard Command; Corridor]
+ You can go east and west.
+e
+ You walk east.
+ [Alliance High Guard Command; Corridor]
+ You can go north, south, and west.
+n
+ You walk north.
+ [Alliance High Guard Command; Armory]
+ You see a black and silver metal trash bin here.
+ You can go south.
+menu
+                                 - Armory -                                 
+
+   Guns
+ 1)   A High Guard-issue stun pistol                                5,000,000.00
+ 2)   A High Guard-issue stun rifle                                 14,000,000.00
+
+   Ammunition
+ 3)   A High Guard-issue magazine (12 shots)                        12,000.00
+ 4)   A 25-pack of High Guard-issue magazines (12 shots)            300,000.00
+ 5)   A Praelor-lethal magazine (12 shots)                          20,000.00
+ 6)   A 25-pack of Praelor-lethal ammunition (12 shots)             400,000.00
+
+   Armor
+ 7)   Light Helmet                                                  500,000.00
+ 8)   Light Gloves                                                  550,000.00
+ 9)   Light Boots                                                   500,000.00
+ 10)  Light Top                                                     500,000.00
+ 11)  Light Bottom                                                  500,000.00
+ 12)  Armor Storage Bag                                             1,000,000.00
+
+   Miscellaneous
+ 13)  Stun Rifle Holster                                            200,000.00
+ 14)  Ammunition Storage Belt                                       400,000.00
+ 15)  Armor Repair Kit                                              300,000.00
+ 16)  Full Armor Repair                                             
+buy 16
+ A full repair of your armor will cost 160,000.00 credits. Do you wish to continue? [Enter "yes" or "no"]
+yes
+ You order a full repair of all of your armor.
+s
+ You walk south.
+ [Alliance High Guard Command; Corridor]
+ You can go north, south, and west.
+s
+ You walk south.
+ [Alliance High Guard Command; Combat Upgrades]
+ You can go north.
+w
+n
+ You walk north.
+ [Alliance High Guard Command; Corridor]
+ You can go north, south, and west.
+w
+ You walk west.
+ [Alliance High Guard Command; Corridor]
+ You can go east and west.
+w
+ You walk west.
+ [Alliance High Guard Command; Equipment Hub]
+ You can go north, east, south, west, up, and down.
+u
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+shoots upward.
+ [Alliance High Guard Command; Mission Assignment Nexus]
+ You see a sign, Mo the droid, Zozo the droid, and Lee the droid here.
+ You can go northwest, north, northeast, southeast, south, southwest, up, and down.
+ As the lift comes to a halt, the lights vanish and you step off.
+u
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+shoots upward.
+ [Alliance High Guard Command; Atrium]
+ You see a maroon security drone and a maroon medical drone here.
+ You can go northwest, northeast, south, up, and down.
+ As the lift comes to a halt, the lights vanish and you step off.
+u
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+shoots upward.
+ [Alliance High Guard Command; Antechamber]
+ You see an immaculate replica of Praelor Onno 147 and Mi the droid here.
+ You can go north, east, south, west, up, down, and out.
+ As the lift comes to a halt, the lights vanish and you step off.
+u
+ You step on to a small platform on the floor. Sensing your presence, a ring of lights along the perimeter of the circle light up as the platform
+shoots upward.
+ [Alliance High Guard Command; Garage]
+ You see a group of unpowered ships here.
+ You see a group of miscellaneous objects here.
+ You can go northwest, northeast, southeast, southwest, and down.
+ As the lift comes to a halt, the lights vanish and you step off.
+ent
+ ["Golactic Defender" Airlock]
+ You can go enter and out.
+out
+ [Alliance High Guard Command; Garage]
+ You see a group of unpowered ships here.
+ You see a group of miscellaneous objects here.
+ You can go northwest, northeast, southeast, southwest, and down.
+ent speedy
+ You are turned away by the locked hatch of "Speedy".
+ent golactic speedy
+ ["Golactic Speedy" Airlock]
+ You can go enter and out.
+ent
+ You walk into the ship.
+ ["Golactic Speedy" Control Room]
+ You can go south and out.
+ [General Communication] Aria Hunter transmits, "Non fc looks clear for now at least."
+ [General Communication] Tyler Kavanaugh transmits, "Ground clear in 19."
+ ISC Starship Construction Depot Gamma to Sector 19 flight control, we detect shots fired! Repeat, shots fired!
+ [General Communication] Dorion Hunter transmits, "Onno an onz left an a ton of little babies."
+ Flight control in Sector 19, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+ Flight control in Sector 19, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+ ISC Starship Construction Depot Delta to Sector 19 flight control, we're reading weapon fire.
+ Flight control in Sector 19, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+ ISC Starship Construction Depot Delta to Sector 19 flight control, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just
+got destroyed.
+`history list %1
+     1 - davidb
+     2 - `history
+     3 - clear
+     4 - `history list
+     5 - `history write test.hist
+     6 - turn gen
+     7 - turn chatter
+     8 - tr gen is my help required? just woke up
+     9 - peer out
+    10 - take ham from back
+    11 - 3
+    12 - use ham
+    13 - @abort
+    14 - amboff
+    15 - lrscan starships
+    16 - beacon 15
+    17 - beacon 19
+    18 - beacon 0
+    19 - br
+    20 - cred
+    21 - put ham in back
+    22 - tr links
+    23 - who
+    24 - a
+    25 - tr gen im on standby to help with any crew who needs me
+    26 - disconnect bat
+    27 - use 2.arm
+    28 - use arm
+    29 - armor
+    30 - ftl 15
+    31 - slocate speedy
+    32 - ent golactic speed
+    33 - emt
+    34 - laie
+    35 - launch
+    36 - lie
+    37 - ftl 12
+    38 - subwarp 4 10 6
+    39 - fo
+    40 - land
+    41 - 1
+    42 - h
+    43 - put hunk in belt
+    44 - draw 3
+    45 - holster
+    46 - draw 2
+    47 - check rifle
+    48 - power
+    49 - stand
+    50 - map armor
+    51 - map repair
+    52 - d
+    53 - ne
+    54 - e
+    55 - menu
+    56 - buy 16
+    57 - yes
+    58 - s
+    59 - n
+    60 - w
+    61 - u
+    62 - out
+    63 - ent speedy
+    64 - ent golactic speedy
+    65 - ent
+    66 - `history list %1
+ ISC Mineral Processing Depot to Sector 19 flight control, a ship is firing weapons here.
+`history list;`grep 1
+     1 - davidb
+     2 - `history
+     3 - clear
+     4 - `history list
+     5 - `history write test.hist
+     6 - turn gen
+     7 - turn chatter
+     8 - tr gen is my help required? just woke up
+     9 - peer out
+    10 - take ham from back
+    11 - 3
+    12 - use ham
+    13 - @abort
+    14 - amboff
+    15 - lrscan starships
+    16 - beacon 15
+    17 - beacon 19
+    18 - beacon 0
+    19 - br
+    20 - cred
+    21 - put ham in back
+    22 - tr links
+    23 - who
+    24 - a
+    25 - tr gen im on standby to help with any crew who needs me
+    26 - disconnect bat
+    27 - use 2.arm
+    28 - use arm
+    29 - armor
+    30 - ftl 15
+    31 - slocate speedy
+    32 - ent golactic speed
+    33 - emt
+    34 - laie
+    35 - launch
+    36 - lie
+    37 - ftl 12
+    38 - subwarp 4 10 6
+    39 - fo
+    40 - land
+    41 - 1
+    42 - h
+    43 - put hunk in belt
+    44 - draw 3
+    45 - holster
+    46 - draw 2
+    47 - check rifle
+    48 - power
+    49 - stand
+    50 - map armor
+    51 - map repair
+    52 - d
+    53 - ne
+    54 - e
+    55 - menu
+    56 - buy 16
+    57 - yes
+    58 - s
+    59 - n
+    60 - w
+    61 - u
+    62 - out
+    63 - ent speedy
+    64 - ent golactic speedy
+    65 - ent
+    66 - `history list %1
+    67 - `history list;`grep 1
+#GREP PAGE {1} FOR WHAT?
+ Varoshna to Sector 19 flight control, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+`history list;`grep {1} {1 - }
+     1 - davidb
+     2 - `history
+     3 - clear
+     4 - `history list
+     5 - `history write test.hist
+     6 - turn gen
+     7 - turn chatter
+     8 - tr gen is my help required? just woke up
+     9 - peer out
+    10 - take ham from back
+    11 - 3
+    12 - use ham
+    13 - @abort
+    14 - amboff
+    15 - lrscan starships
+    16 - beacon 15
+    17 - beacon 19
+    18 - beacon 0
+    19 - br
+    20 - cred
+    21 - put ham in back
+    22 - tr links
+    23 - who
+    24 - a
+    25 - tr gen im on standby to help with any crew who needs me
+    26 - disconnect bat
+    27 - use 2.arm
+    28 - use arm
+    29 - armor
+    30 - ftl 15
+    31 - slocate speedy
+    32 - ent golactic speed
+    33 - emt
+    34 - laie
+    35 - launch
+    36 - lie
+    37 - ftl 12
+    38 - subwarp 4 10 6
+    39 - fo
+    40 - land
+    41 - 1
+    42 - h
+    43 - put hunk in belt
+    44 - draw 3
+    45 - holster
+    46 - draw 2
+    47 - check rifle
+    48 - power
+    49 - stand
+    50 - map armor
+    51 - map repair
+    52 - d
+    53 - ne
+    54 - e
+    55 - menu
+    56 - buy 16
+    57 - yes
+    58 - s
+    59 - n
+    60 - w
+    61 - u
+    62 - out
+    63 - ent speedy
+    64 - ent golactic speedy
+    65 - ent
+    66 - `history list %1
+    67 - `history list;`grep 1
+    68 - `history list;`grep {1} {1 - }
+clear
+a
+ What do you wish to emote?
+ ISC Starship Construction Depot Alpha to Sector 19 flight control, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just
+got destroyed.
+ Flight control in Sector 19, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+ ISC Starship Construction Depot Alpha to Sector 19 flight control, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just
+got destroyed.
+ ISC Starship Construction Depot Alpha to Sector 19 flight control, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just
+got destroyed.
+ ISC Starship Construction Depot Beta to Sector 19 flight control, we're detecting shots fired on an Ontanka starship by a Hale starship.
+ Varoshna to Sector 19 flight control, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+ Flight control in Sector 19, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+ Flight control in Sector 19, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+ ISC Starship Construction Depot Gamma to Sector 19 flight control, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just
+got destroyed.
+ ISC Starship Construction Depot Gamma to Sector 19 flight control, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just
+got destroyed.
+ ISC Starship Construction Depot Beta to Sector 19 flight control, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just
+got destroyed.
+ Flight control in Sector 19, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+ Flight control in Sector 19, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+ ISC Starship Construction Depot Beta to Sector 19 flight control, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just
+got destroyed.
+ ISC Starship Construction Depot Delta to Sector 19 flight control, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just
+got destroyed.
+ Flight control in Sector 19, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+ ISC Starship Construction Depot Alpha to Sector 19 flight control, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just
+got destroyed.
+ ISC Starship Construction Depot Delta to Sector 19 flight control, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just
+got destroyed.
+ Flight control in Sector 19, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+ Flight control in Sector 19, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+ ISC Starship Construction Depot Alpha to Sector 19 flight control, a Hale starship is firing at an Ontanka starship.
+ ISC Mineral Processing Depot to Sector 19 flight control, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got
+destroyed.
+ ISC Starship Construction Depot Gamma to Sector 19 flight control, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just
+got destroyed.
+ ISC Starship Construction Depot Delta to Sector 19 flight control, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just
+got destroyed.
+ Flight control in Sector 19, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+ ISC Starship Construction Depot Beta to Sector 19 flight control, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just
+got destroyed.
+ ISC Starship Construction Depot Beta to Sector 19 flight control, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just
+got destroyed.
+ Flight control in Sector 19, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+ Flight control in Sector 19, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+ Flight control in Sector 19, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+ ISC Starship Construction Depot Beta to Sector 19 flight control, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just
+got destroyed.
+ Flight control in Sector 19, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+ ISC Starship Construction Depot Beta to Sector 19 flight control, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just
+got destroyed.
+ ISC Mineral Processing Depot to Sector 19 flight control, we're reading shots fired by a Hale starship at an Ontanka starship!
+ Flight control in Sector 19, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+ Varoshna to Sector 19 flight control, we're reading an explosion. Spacial bioscanners indicate a Praelor starship just got destroyed.
+ [General Communication] David Randal transmits, "19 clear."
+ [Short-range Communication] Alec Bane transmits, "Dammit! I need a lift to 13."
+a
+ What do you wish to emote?
+ [Short-range Communication] Grace Westen transmits, "Come to delta."
+ [Short-range Communication] Carl Corey transmits, "Enter anteros then."
+ [Short-range Communication] Jade Starling transmits, "We're going there if you want to ride with us."
+ [Short-range Communication] Grace Westen transmits, "I'm going there so."
+ [Short-range Communication] Alec Bane transmits, "I got it. Thanks."
+ [Short-range Communication] Tyler Kavanaugh transmits, "David sir."
+ [Short-range Communication] Tyler Kavanaugh transmits, "Where you at?"
+ [Short-range Communication] Alec Bane transmits, "I'm in Anteros."
+ Empanda Station to Sector 15 flight control, somebody's firing disarmament pulses out there!
+a
+ What do you wish to emote?
+ Flight control in Sector 12, I'm showing a disruption in my controls. It must be an EM weapon.
+ [General Communication] Tyler Kavanaugh transmits, "I'll sector sweep, if yall want."
+ [General Communication] Dorion Hunter transmits, "Na, aria had got it."
+ [General Communication] Aria Hunter transmits, "I did."
+a
+ What do you wish to emote?
+ [General Communication] Tyler Kavanaugh transmits, "Ite."
+ [General Communication] Alec Bane transmits, "Any Praelor we don't know about?"
+ [General Communication] Aria Hunter transmits, "Nope."
+a
+ What do you wish to emote?
+#showme {\e>}
+ I don't understand that.
+`showme {\e>}
+
+`showme {\e=}
+
+`message
+###################################################################### MESSAGES ######################################################################
+  ACTIONS               ON
+  ALIASES               ON
+  CLASSES               ON
+  CONFIGURATIONS        ON
+  DELAYS                ON
+  EVENTS                ON
+  FUNCTIONS             ON
+  GAGS                  ON
+  HIGHLIGHTS            ON
+  HISTORIES             ON
+  MACROS                ON
+  PATHS                 ON
+  PATHDIRS              ON
+  PROMPTS               ON
+  SUBSTITUTIONS         ON
+  TABS                  ON
+  TABCYCLE              ON
+  TICKERS               ON
+  VARIABLES             ON
+######################################################################################################################################################
+whoami
+ Ray Roxxan
+a
+ What do you wish to emote?
+fecho test
+ test
+fecho whoami
+ whoami
+a
+ What do you wish to emote?
+check
+ The ship needs to be powered before you can do that.
+power
+ A gentle computerized voice announces, "The one-person expediter "Golactic Speedy" has been cleared for relocation to Docking Bay Beta."
+check
+ "There is no repair in progress."
+power
+out
+ You walk into the airlock.
+ ["Golactic Speedy" Airlock]
+ You can go enter and out.
+out
+ [Alliance High Guard Command; Garage]
+ You see a group of unpowered ships here.
+ You see a group of miscellaneous objects here.
+ You see Ivy Panjobi (sitting on the three-person antagonizer "Diamond Dredd") here.
+ You can go northwest, northeast, southeast, southwest, and down.
+ent
+ ["Golactic Defender" Airlock]
+ You can go enter and out.
+ent
+ You walk into the ship.
+ ["Golactic Defender" Control Room]
+ You see a dark blue suede crewman chair here.
+ You can go down and out.
+s
+out
+ You walk into the airlock.
+ ["Golactic Defender" Airlock]
+ You can go enter and out.
+out
+ [Alliance High Guard Command; Garage]
+ You see a group of unpowered ships here.
+ You see a group of miscellaneous objects here.
+ You see Ivy Panjobi (sitting on the three-person antagonizer "Diamond Dredd") here.
+ You can go northwest, northeast, southeast, southwest, and down.
+ent golactic guardian
+ Ivy Panjobi waves at you.
+ ["Golactic Guardian" Airlock]
+ You can go enter and out.
+tr short hi
+ [Short-range Communication] Ray Roxxan transmits, "Hi."
+ent
+ You walk into the ship.
+ ["Golactic Guardian" Control Room]
+ You see a velvet-covered cherrywood captain's chair here.
+ You can go south and out.
+power
+ A gentle computerized voice announces, "The six-person destroyer "Golactic Guardian" has been cleared for relocation to Docking Bay Gamma."
+check
+ I don't understand that.
+power
+out
+ You walk into the airlock.
+ ["Golactic Guardian" Airlock]
+ You can go enter and out.
+out
+ [Alliance High Guard Command; Garage]
+ You see a group of unpowered ships here.
+ You see a group of miscellaneous objects here.
+ You see Ivy Panjobi (sitting on the three-person antagonizer "Diamond Dredd") here.
+ You can go northwest, northeast, southeast, southwest, and down.
+people
+ You see Ivy Panjobi (sitting on the three-person antagonizer "Diamond Dredd") here.
+ Ivy Panjobi smiles.
+wave
+ You wave.
+ Ivy Panjobi says, "how are you"
+say fine you?
+ You say, "fine you?"
+ Ivy Panjobi says, "as good to be expected"
+ Ivy Panjobi smiles.
+say no more smiling
+ You say, "no more smiling"
+ Ivy Panjobi says, "no?"
+ Ivy Panjobi frowns.
+ Ivy Panjobi laughs.
+say yay
+ You say, "yay"
+ Ivy Panjobi says, "how is this"
+ Ivy Panjobi glares at the world in general.
+ Ivy Panjobi laughs.
+nod
+ You nod.
+say yes
+ You say, "yes"
+say much better
+ You say, "much better"
+ Ivy Panjobi grins.
+ Ivy Panjobi says, "so what's the plan"
+say what plan?
+ You say, "what plan?"
+ Ivy Panjobi shrugs.
+ Ivy Panjobi says, "you have a gun in your hand"
+ Ivy Panjobi says, "so"
+ Ivy Panjobi says, "i just thought"
+say oh
+ You say, "oh"
+ Ivy Panjobi laughs.
+shoot ray
+ The shot dissolves into a cloud of dust and floats harmlessly away.
+ Ivy Panjobi says, "ground"
+ Ivy Panjobi smiles.
+nod
+ You nod.
+ Ivy Panjobi says, "i see"
+say in case i was asked to come
+ You say, "in case i was asked to come"
+ Ivy Panjobi nods.
+holster
+say so y are you just kinda chillin here?
+ You say, "so y are you just kinda chillin here?"
+ Ivy Panjobi says, "just thinking"
+people
+ You see Ivy Panjobi (sitting on the three-person antagonizer "Diamond Dredd") here.
+say stop it
+ You say, "stop it"
+say its bad for you
+ You say, "its bad for you"
+ Ivy Panjobi says, "really?"
+nod
+ You nod.
+ Ivy Panjobi says, "your probably right"
+ Ivy Panjobi says, "but sometimes it's necessary"
+ Ivy Panjobi smiles.
+a
+ What do you wish to emote?
+say she's smiling again
+ You say, "she's smiling again"
+ Ivy Panjobi leans back her head and laughs out loud!
+ Ivy Panjobi says, "i forgot"
+ Ivy Panjobi glares at the world in general.
+say better
+ You say, "better"
+ Ivy Panjobi says, "coffee?"
+say no thanks
+ You say, "no thanks"
+ Ivy Panjobi says, "i like coffee"
+ Ivy Panjobi giggles quietly.
+say so wheres the bf?
+ You say, "so wheres the bf?"
+ Ivy Panjobi says, "he might be coming though here in a sec"
+ Ivy Panjobi says, "threw"
+nod
+ You nod.
+ Ivy Panjobi says, "i don't know"
+ Ivy Panjobi shrugs.
+a
+ What do you wish to emote?
+people
+ You see Ivy Panjobi (sitting on the three-person antagonizer "Diamond Dredd") here.
+say im tired of standing here
+ You say, "im tired of standing here"
+ Ivy Panjobi says, "sit"
+ Ivy Panjobi laughs.
+sit diamond dredd
+ You awkwardly clamber up the side of the three-person antagonizer "Diamond Dredd", eventually coming to a rest on a convenient flat area of the hull.
+ (4 seconds roundtime.)
+ Ivy Panjobi says, "i didn't know you exist"
+ Ivy Panjobi laughs.
+say i exist
+ You say, "i exist"
+ Ivy Panjobi says something into her communicator.
+ The eight-person gunship "Schism" is suddenly hauled into the room by several robotic arms.
+stand
+ You stand up.
+ Ivy Panjobi says, "ray roxxan"
+ [Chatter] A Proboscis Monkey screams, "WHEN A FRIEND IS IN TROUBLE, DON'T ANNOY HIM BY ASKING IF THERE IS ANYTHING YOU CAN DO. THINK UP SOMETHING
+APPROPRIATE AND DO IT."
+ Ivy Panjobi says, "saranne roxxon"
+turn chatter
+ You mute the chatter channel.
+people
+ You see Ivy Panjobi (sitting on the three-person antagonizer "Diamond Dredd") here.
+ Ivy Panjobi says, "emelda roxxan i think"
+ Ivy Panjobi laughs.
+confused
+ I don't understand that.
+hmm
+ I don't understand that.
+say what?
+ You say, "what?"
+ Ivy Panjobi says, "yall all related right?"
+say yes
+ You say, "yes"
+ Ivy Panjobi smiles.
+say my sisters
+ You say, "my sisters"
+ Ivy Panjobi says, "nice"
+h
+ You are carrying nothing.
+ Ivy Panjobi stretches.
+ Ivy Panjobi says, "i'm getting tired of sitting here"
+say well do something
+ You say, "well do something"
+ Ivy Panjobi says, "i might be going to sleep soon"
+ Ivy Panjobi yawns.
+say no
+ You say, "no"
+say no sleepy
+ You say, "no sleepy"
+ Ivy Panjobi says, "oh?"
+say no
+ You say, "no"
+ Ivy Panjobi says, "damn"
+ Ivy Panjobi says something into her communicator.
+ Ivy Panjobi says something into her communicator.
+pull ivy
+ You pull Ivy Panjobi to her feet.
+ Ivy Panjobi says, "hmm?"
+ Ivy Panjobi politely ends her dance with Matt Valentino.
+say u said u were tired of sitting
+ You say, "u said u were tired of sitting"
+ Ivy Panjobi laughs.
+people
+ You see Ivy Panjobi here.
+ Ivy Panjobi says something into her communicator.
+ Ivy Panjobi says, "so"
+say os
+ You say, "os"
+ Ivy Panjobi says something into her communicator.
+ Ivy Panjobi says, "i want cake i think"
+say no sweets
+ You say, "no sweets"
+ Ivy Panjobi says, "god no no no no"
+say coffee to keep you awake
+ You say, "coffee to keep you awake"
+ Ivy Panjobi laughs.
+ Ivy Panjobi says, "nope"
+ Ivy Panjobi says, "pie"
+say no
+ You say, "no"
+ Ivy Panjobi yawns.
+say no yawning at me
+ You say, "no yawning at me"
+say so who is the bf anyways?
+ You say, "so who is the bf anyways?"
+ Ivy Panjobi says, "tiberius"
+say ah
+ You say, "ah"
+ Ivy Panjobi says something into her communicator.
+armor
+ You are wearing a complete set of armor.
+   Helmet: a glossy black lightly armored helmet (100.0%)
+   Top: a glossy black lightly armored top (100.0%)
+   Bottom: a glossy black lightly armored bottom (100.0%)
+   Gloves: a pair of glossy black lightly armored gloves (100.0%)
+   Boots: a pair of glossy black lightly armored boots (100.0%)
+use arm
+ You remove your armor and place each piece in the designated area in a black armor storage bag.
+ Ivy Panjobi says something into her communicator.
+ Ivy Panjobi says, "you were prepared"
+ Ivy Panjobi laughs.
+say whatcha mean?
+ You say, "whatcha mean?"
+ Ivy Panjobi says, "armor, gun"
+say oh
+ You say, "oh"
+nod
+ You nod.
+ Ivy Panjobi says, "gotta find a jacket"
+say cold?
+ You say, "cold?"
+ Ivy Panjobi says, "nah fuzzy ate my other one"
+say ah
+ You say, "ah"
+say praelor armor helps against that
+ You say, "praelor armor helps against that"
+point arm
+ You point at a black armor storage bag.
+ Ivy Panjobi says something into her communicator.
+ Ivy Panjobi points at a black armor storage bag.
+nod
+ You nod.
+ Ivy Panjobi nods.
+say a praelor once ate all my friends clothes off
+ You say, "a praelor once ate all my friends clothes off"
+ Ivy Panjobi says, "me too"
+say woopse
+ You say, "woopse"
+ there is a new message in OOC / Suggestions/Ideas. It was posted by Alec Bane with the subject "Ship Sizes".
+ Ivy Panjobi says something into her communicator.
+who tib
+ Tiberius Black (H) (Male) is awake!
+ Ivy Panjobi says, "so"
+say os
+ You say, "os"
+ Ivy Panjobi says something into her communicator.
+ Ivy Panjobi says, "why your not running missions?"
+say don't feel like it
+ You say, "don't feel like it"
+ Ivy Panjobi says, "me either"
+ Ivy Panjobi points at the six-person sentinel "Diva".
+point golactic guardian
+ You point at the six-person destroyer "Golactic Guardian".
+ Ivy Panjobi says something into her communicator.
+ Ivy Panjobi says something into her communicator.
+ Ivy Panjobi says something into her communicator.
+poing golactic inciner
+ I don't understand that.
+ Ivy Panjobi says something into her communicator.
+point golactic incin
+ You point at the three-person cruiser "Golactic Incinerator".
+point galactic exter
+ You point at the two-person vanguard "Galactic Exterminator".
+ Ivy Panjobi laughs.
+ Ivy Panjobi points at the two-person vanguard "Deuce Is Wild".
+point ivy
+ You point at Ivy Panjobi.
+laugh
+ You laugh.
+a
+ What do you wish to emote?
+ Ivy Panjobi says something into her communicator.
+ Ivy Panjobi says something into her communicator.
+ Ivy Panjobi says, "oh my"
+ Ivy Panjobi stretches.
+say what
+ You say, "what"
+ Ivy Panjobi says, "just tired"
+say coffee
+ You say, "coffee"
+ Ivy Panjobi shakes her head.
+l bot in back
+ Look at what in a huge sapphire blue mesh backpack with blue comfortable straps and a black magnetic front pocket?
+take bot from back
+ You don't see "bot" in a huge sapphire blue mesh backpack with blue comfortable straps and a black magnetic front pocket.
+l in back
+ A huge sapphire blue mesh backpack with blue comfortable straps and a black magnetic front pocket
+ This backpack is ready to make a statement with it's excellent design and unique style. It has an extremely light-weight and comfortable frame, which
+is designed especially for comfort and even weight distribution.
+ You see a small flat disc containing the image of a gargantuan multi-colored heavily rounded bloated sparkling shiny insectoid creature, a level
+three archaeological dig site scanner, two small lock destroying explosives, a gold Lore faceplate, a hardcopy print of "atmo planet", a custom-made
+pair of elegant black suede dress shoes, a scratched black Lore computer, a pale blue "Civilians for Peace" informational pamphlet, a food robot, a
+gold telescope, a security drone remote labeled "sec alpha", a security drone remote labeled "sec beta", a medical drone remote labeled "Med 1", a
+medical drone remote labeled "Med 2", three armor repair kits, a hardcopy print of "caranza coords", a security drone remote labeled "sec charlie", a
+gold Zippo designer lighter, a charge booster, an asteroid hauling kit, a medium package, a small package, a Loretech printer expansion, a small
+canvas, a letter, two fuzzy corpses, a mutated fuzzy corpse, an application for the ten-person battlecruiser "", and a droid remote titled
+"hammerhead" inside.
+ Ivy Panjobi says something into her communicator.
+take food from back
+ You remove a food robot from a huge sapphire blue mesh backpack with blue comfortable straps and a black magnetic front pocket.
+ Ivy Panjobi says something into her communicator.
+ Ivy Panjobi says, "oooh"
+a
+ Ivy Panjobi says, "food"
+ What do you wish to emote?
+say no
+ You say, "no"
+menu food
+ Available nutri-paste: 90
+ Choose:
+ [1] Orange Soda
+ [2] Screwdriver
+ [3] Grape Soda
+ [4] Chicken Burrito
+ [5] Chicken And Mashed Potatoes
+ [6] Hamburger
+ [7] Chocolate Icecream
+ [8] Cheesecake
+
+ Enter your selection:
+ [Type a line of input or `@abort' to abort the command.]
+ Ivy Panjobi sniffles.
+order 
+ Invalid selection.
+menu food
+ Available nutri-paste: 90
+ Choose:
+ [1] Orange Soda
+ [2] Screwdriver
+ [3] Grape Soda
+ [4] Chicken Burrito
+ [5] Chicken And Mashed Potatoes
+ [6] Hamburger
+ [7] Chocolate Icecream
+ [8] Cheesecake
+
+ Enter your selection:
+ [Type a line of input or `@abort' to abort the command.]
+1
+ You order a glass of orange soda from a food robot.
+give glass to ivy
+ Ivy Panjobi needs a free hand for that.
+ Ivy Panjobi says, "oh"
+ Ivy Panjobi gently places a can of baby milk in a white satin diaper bag patterned with lions.
+give glass to ivy
+ You give a glass of orange soda to Ivy Panjobi.
+ Ivy Panjobi gently places a sparkly red baby bottle patterned with lions in a white satin diaper bag patterned with lions.
+ Ivy Panjobi says, "thanks"
+say np
+ You say, "np"
+say so where is tiberius?
+ You say, "so where is tiberius?"
+ Ivy Panjobi says something into her communicator.
+ Ivy Panjobi says, "don't knwo"
+ Ivy Panjobi says, "know"
+chuckle
+ You chuckle.
+menu
+ I don't understand that.
+menu food
+ Available nutri-paste: 89
+ Choose:
+ [1] Orange Soda
+ [2] Screwdriver
+ [3] Grape Soda
+ [4] Chicken Burrito
+ [5] Chicken And Mashed Potatoes
+ [6] Hamburger
+ [7] Chocolate Icecream
+ [8] Cheesecake
+
+ Enter your selection:
+ [Type a line of input or `@abort' to abort the command.]
+ Ivy Panjobi says, "he says he's going to sleep"
+ Ivy Panjobi says something into her communicator.
+@abort 
+ >> Command Aborted <<
+say ah
+ You say, "ah"
+ Ivy Panjobi says, "he said be here in a minute"
+ Ivy Panjobi laughs.
+use 2.arm
+ You remove your stun armor from a black stun armor storage bag and put it on.
+say brb
+ Ivy Panjobi says, "oh god what now?"
+ You say, "brb"
+ent invader
+ You don't see that here.
+ent golactic invader
+ You don't see that here.
+l
+ [Alliance High Guard Command; Garage]
+ This cavernous starship garage echoes with the sound of metal upon metal as starships are constantly transported to and from one of the four docking
+bays. Narrow metal staircases wend their way up the sides of the dome to catwalks which provide access to those starships kept in long-term storage
+near the ceiling. Recharging platforms create a maze of twisting pathways and dead end corridors throughout the garage, and silvery drones rush around
+tending to the various spacecraft. Four wide archways provide access to the promenades on this level, and at the center of the room, a small carpeted
+platform leads down to the main level of the spaceport.
+ You see a group of unpowered ships here.
+ You see a group of miscellaneous objects here.
+ You see Ivy Panjobi here.
+ You can go northwest, northeast, southeast, southwest, and down.
+ent golactic invader
+ You don't see that here.
+ Ivy Panjobi says something into her communicator.
+slocate invader
+ The eight-person gunship "Golactic Invader" is located at Outreach; Starship Garage.
+ Ivy Panjobi says something into her communicator.
+ent
+ ["Golactic Defender" Airlock]
+ You can go enter and out.
+connect bat
+ You begin carefully connecting pieces of armor to a bulky stun armor battery pack.
+ (20 seconds roundtime.)
+cred
+ Wait 2 seconds.
+ You finish connecting armor to a bulky stun armor battery pack.
+ [Short-range Communication] Ivy Panjobi transmits, "Goodnight ray."
+out
+ [Alliance High Guard Command; Garage]
+ You see a group of unpowered ships here.
+ You see a group of miscellaneous objects here.
+ You can go northwest, northeast, southeast, southwest, and down.
+people
+ You're the only person awake here.
+tr short night
+ [Short-range Communication] Ray Roxxan transmits, "Night."
+ Ivy Panjobi exits from the three-person antagonizer "Diamond Dredd".
+ Ivy Panjobi yawns.
+ Ivy Panjobi sashays through the hatch of the three-person antagonizer "Diamond Dredd".
+say running away
+ You say, "running away"
+who ivy
+ Ivy Panjobi (H) (Female) is awake!
+ The one-person fighter "Red Dragon" is suddenly hauled into the room by several robotic arms.
+people
+ You're the only person awake here.
+ent golactic speedy
+ ["Golactic Speedy" Airlock]
+ You can go enter and out.
+who ivy
+ Ivy Panjobi (H) (Female) is awake!
+draw
+ You deftly draw a stun turret from a High Guard-issue rifle holster.
+out
+ [Alliance High Guard Command; Garage]
+ You see a group of unpowered ships here.
+ You see a group of miscellaneous objects here.
+ You can go northwest, northeast, southeast, southwest, and down.
+people
+ You're the only person awake here.
+ent golactic speed
+ ["Golactic Speedy" Airlock]
+ You can go enter and out.
+who ivy
+ Ivy Panjobi (H) (Female) is asleep!
+ent
+ You walk into the ship.
+ ["Golactic Speedy" Control Room]
+ You can go south and out.
+out
+ You walk into the airlock.
+ ["Golactic Speedy" Airlock]
+ You can go enter and out.
+out
+ [Alliance High Guard Command; Garage]
+ You see a group of unpowered ships here.
+ You see a group of miscellaneous objects here.
+ You can go northwest, northeast, southeast, southwest, and down.
+people
+ You're the only person awake here.
+ent speedy
+ You are turned away by the locked hatch of "Speedy".
+ent golactic speed
+ ["Golactic Speedy" Airlock]
+ You can go enter and out.
+ent
+ You walk into the ship.
+ ["Golactic Speedy" Control Room]
+ You can go south and out.
+a
+ What do you wish to emote?
+l
+ ["Golactic Speedy" Control Room]
+ The control room of a starship is much more spacious than one might previously have supposed, though it is not massive by any means. The wall at the
+front of the room is dominated by the starmap viewer. Rows of consoles line the rest of the walls, each containing an array of touchscreens, switches,
+and buttons that are used to control the starship's various systems with some degree of redundancy. The usual humming of the ship's components has
+been silenced by the lack of power, creating an eerie silence. There appears to be no power in this room. The overhead lights glow faintly, hardly
+enough to do anything but avoid large obstacles. Looking through the window, you see the ship is at Alliance High Guard Command; Garage.
+ You can go south and out.
+ [General Communication] Erica Schultz transmits, "Could I get some help?"
+a
+ What do you wish to emote?
+ [General Communication] Evanna Fairchild transmits, "With?"
+ [General Communication] Andreas Fierro transmits, "How."
+ [General Communication] Stanton Sefdon transmits, "It's alright, I got it."
+tr evanna good morning sleepy head
+ [Private | Evanna Fairchild] You transmit, "good morning sleepy head"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "hello"
+tr evanna sleep well?
+ [Private | Evanna Fairchild] You transmit, "sleep well?"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "yes thanks. now getting ready to go to the movies ooc."
+tr evanna lol
+ [Private | Evanna Fairchild] You transmit, "lol"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "gotta love having a sister who can drive"
+tr evanna i woldnt trust my sister to drive me
+ [Private | Evanna Fairchild] You transmit, "i woldnt trust my sister to drive me"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "haha"
+tr evanna shes like 16... oh hell na
+ [Private | Evanna Fairchild] You transmit, "shes like 16... oh hell na"
+ [Private | Evanna Fairchild] Evanna Fairchild transmits, "mine's 21"
+tr evanna ah
+ [Private | Evanna Fairchild] You transmit, "ah"
+sleep
+ #SESSION 'Miriani' DIED.
