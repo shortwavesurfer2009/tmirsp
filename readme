@@ -1,4 +1,4 @@
-﻿AUTHOR: David Brown
+﻿AUTHOR: Shortwavesurfer2009
 VERSION: 1.5
 ------------------------------
 REQUIREMENTS/DEPENDENCIES
@@ -9,25 +9,10 @@ mplayer (debian bases) sudo apt-get install mplayer
 
 ------------------------------
 DESCRIPTION:
-This sound pack has been created for the game Miriani. It's origins are in the VIPMUD sound pack for Windows based operating systems. I have attempted to duplicate as much of the VIPMUD sound pack onto the Linux operating system. I plan to sometime in the future test it on Mac OS.X and make sure it works there as well.
+This sound pack has been created for the game Miriani. It's origins are in the VIPMUD sound pack for Windows based operating systems. I have attempted to duplicate as much of the VIPMUD sound pack onto the Linux operating system. I plan to sometime in the future test it on MacOS and make sure it works there as well.
 
 ------------------------------
 KNOWN ISSUES
-------------------------------
-SUPPORT, FEATURE REQUESTS, and BUGS
-
-please read the following section carefully before submitting any emails.
-
-the address is tmirsp@gmail.com
-
-Please use the following formats in the subject line
-	SUPPORT: "Your question here"
-For bugs or issues
-	BUG/ISSUE: "Your problem here"
-For feature requests
-	FEATURE REQUEST: "Your request here"
-For general feedback
-	FEEDBACK: "The subject of feedback"
 ------------------------------
 NOTES
 
@@ -40,12 +25,11 @@ uninstall: sudo apt-get purge mplayer
 reinstall: sudo apt-get install mplayer
 ------------------------------
 OTHER CONTRIBUTIONS BY:
-Malik Wilson <wilsonmalik12@gmail.com>
-Justin Heard <braillemasterjustin@gmail.com>
+Malik Wilson
+Justin Heard
 ------------------------------
 DONATION METHODS
-	Paypal techman246@gmail.com
-	Bitcoin: 1CEkTeWDBvCY4UNU3C6DXxFZgynpGhnFWa
+
 Thanks in advance for any donations!
 ------------------------------
 CHANGELOG
